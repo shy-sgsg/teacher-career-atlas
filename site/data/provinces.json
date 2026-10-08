@@ -280,10 +280,10 @@
       "coverageAll": {
         "rows": 45,
         "levels": {
-          "A": 24,
+          "A": 26,
           "B": 0,
           "C": 0,
-          "D": 21
+          "D": 19
         },
         "years": [
           2022,
@@ -295,10 +295,10 @@
       "coverageCore": {
         "rows": 45,
         "levels": {
-          "A": 24,
+          "A": 26,
           "B": 0,
           "C": 0,
-          "D": 21
+          "D": 19
         },
         "years": [
           2022,
@@ -325,10 +325,10 @@
       },
       "sourceGradeRecordCount": 95,
       "dataCompleteness": {
-        "overall": 41,
+        "overall": 42,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 53,
+          "historicalCoverage": 58,
           "plans": 40,
           "bachelorConditions": 100,
           "actualBachelorEvidence": 60,

@@ -2,7 +2,7 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-09",
-    "generatedAt": "2026-10-09T02:49:32+08:00",
+    "generatedAt": "2026-10-09T04:04:03+08:00",
     "modelVersion": 1
   },
   "metrics": {
@@ -26,10 +26,10 @@
   },
   "sourceGradeRecordCount": 1511,
   "coverageLevels": {
-    "A": 478,
+    "A": 480,
     "B": 487,
     "C": 8,
-    "D": 537
+    "D": 535
   },
   "bachelorLevels": {
     "A": 160,
