@@ -2512,6 +2512,33 @@
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null
+    },
+    {
+      "记录ID": "CQ-AH-NA-2024Q2-39MS-01",
+      "城市": "重庆市",
+      "地区": "南岸区",
+      "年份/批次": "2024年第二季度",
+      "学校": "重庆市第三十九中学校",
+      "学段": "初中",
+      "英语岗位": "重庆市第三十九中学校初中英语",
+      "计划人数": 1,
+      "本科拟聘人数": 1,
+      "硕士拟聘人数": 0,
+      "本科占比": 1,
+      "证据类型": "官方拟聘名单（按岗位匹配）",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202405/t20240506_13179147.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202405/P020240506618921593503.xlsx; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240821_13537104.html",
+      "备注": "岗位附件计划1人；官方拟聘名单确认本科1人。实际拟聘学历构成为本科100%，不等同于本科计划录用率。",
+      "originalDistrictLabel": "南岸区",
+      "canonicalDistrict": "南岸区",
+      "scopeType": "single_district",
+      "_sourceRow": 104,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202405/t20240506_13179147.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202405/P020240506618921593503.xlsx",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240821_13537104.html"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
     }
   ]
 }

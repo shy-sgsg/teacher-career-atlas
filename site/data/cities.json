@@ -26797,13 +26797,13 @@
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 41,
       "schoolSampleRows": 7,
-      "salaryRows": 6,
+      "salaryRows": 4,
       "salaryAmountEvidenceRows": 1,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 3,
+      "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 41,
+        "overall": 39,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 56,
@@ -26812,7 +26812,7 @@
           "actualBachelorEvidence": 20,
           "employmentType": 100,
           "salary": 0,
-          "competition": 20,
+          "competition": 0,
           "lifeData": 0,
           "current2027": 60
         },
@@ -26848,7 +26848,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 1,
+            "numerator": 0,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -27055,7 +27055,7 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 27,
+            "overall": 25,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 60,
@@ -27064,7 +27064,7 @@
               "actualBachelorEvidence": 0,
               "employmentType": 100,
               "salary": 0,
-              "competition": 20,
+              "competition": 0,
               "lifeData": 0,
               "current2027": 0
             },
@@ -27100,7 +27100,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 1,
+                "numerator": 0,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -62732,13 +62732,13 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：2025季度集中招聘已建档，新增2024铜梁一季度计划与拟聘完整配对；重庆2021—2025其余批次、学校专项、竞争及城市生活数据仍待。",
-      "mainRecordCount": 89,
-      "explicitPlanRecords": 86,
+      "progressStatus": "研究进行中：2025季度集中招聘已建档，新增2024铜梁Q1与南岸Q2英语岗位计划及拟聘配对；重庆2021—2025其余批次、学校专项、竞争及城市生活数据仍待。",
+      "mainRecordCount": 90,
+      "explicitPlanRecords": 87,
       "coverageAll": {
-        "rows": 43,
+        "rows": 44,
         "levels": {
-          "A": 22,
+          "A": 23,
           "B": 0,
           "C": 0,
           "D": 21
@@ -62751,9 +62751,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 43,
+        "rows": 44,
         "levels": {
-          "A": 22,
+          "A": 23,
           "B": 0,
           "C": 0,
           "D": 21
@@ -62766,15 +62766,15 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 89,
+        "S": 90,
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 89,
+      "sourceGradeRecordCount": 90,
       "bachelorLevelCounts": {
-        "A": 46,
+        "A": 47,
         "B": 19,
         "C": 7,
         "D": 17,
@@ -62782,21 +62782,21 @@
       },
       "targetFitCounts": {
         "A": 0,
-        "B": 65,
+        "B": 66,
         "C": 7,
         "D": 17,
         "unknown": 0
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
-        "B": 8,
+        "B": 9,
         "C": 0,
         "D": 0,
         "unknown": 0
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 89
+        "公办/事业单位相关（具体用工看公告）": 90
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62805,48 +62805,48 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 89
+        "无法判断": 90
       },
       "historyPlans": {
-        "junior": 61,
+        "junior": 62,
         "senior": 60,
-        "bachelorChannel": 100,
+        "bachelorChannel": 101,
         "masterChannel": 24,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 16,
+      "actualBachelorNominees": 17,
       "actualMasterNominees": 3,
-      "actualEvidenceRows": 13,
-      "uniqueActualEvidenceRows": 13,
+      "actualEvidenceRows": 14,
+      "uniqueActualEvidenceRows": 14,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 12,
+      "positiveBachelorEvidenceRows": 13,
       "tracking2027Rows": 12,
       "effective2027Records": 7,
-      "publicServiceRelatedRecordCount": 8,
+      "publicServiceRelatedRecordCount": 9,
       "schoolSampleRows": 1,
-      "salaryRows": 0,
+      "salaryRows": 3,
       "salaryAmountEvidenceRows": 0,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 0,
+      "competitionEvidenceRows": 3,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 37,
+        "overall": 41,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 51,
+          "historicalCoverage": 52,
           "plans": 40,
           "bachelorConditions": 100,
           "actualBachelorEvidence": 60,
           "employmentType": 0,
           "salary": 0,
-          "competition": 0,
+          "competition": 40,
           "lifeData": 0,
           "current2027": 80
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 22,
-            "denominator": 43,
+            "numerator": 23,
+            "denominator": 44,
             "unit": "区域-年份审计行"
           },
           "plans": {
@@ -62855,8 +62855,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 8,
-            "denominator": 8,
+            "numerator": 9,
+            "denominator": 9,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -62866,7 +62866,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 8,
+            "denominator": 9,
             "unit": "招聘记录"
           },
           "salary": {
@@ -62875,7 +62875,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -62891,7 +62891,7 @@
           }
         },
         "coverageLevels": {
-          "A": 22,
+          "A": 23,
           "B": 0,
           "C": 0,
           "D": 21
@@ -63012,25 +63012,27 @@
         },
         {
           "year": 2024,
-          "junior": 8,
+          "junior": 9,
           "senior": 6,
-          "bachelorChannel": 14,
+          "bachelorChannel": 15,
           "masterChannel": 0,
-          "batchCount": 2,
+          "batchCount": 3,
           "coverageLevels": {
-            "A": 2,
+            "A": 3,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 3,
           "planSourceRows": [
             1243,
-            1244
+            1244,
+            1245
           ],
           "notes": [
             "2024年第一季度公开招聘；目前仅统计已核官方名单所列本科拟聘个案（1人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
-            "2024年第一季度教育事业单位招聘批次：初中英语8、高中英语6；14个计划均与官方拟聘名单配对，本科拟聘11、硕士拟聘3。只覆盖该批次，不代表铜梁或重庆全年总量；报名人数及薪资未取得。"
+            "2024年第一季度教育事业单位招聘批次：初中英语8、高中英语6；14个计划均与官方拟聘名单配对，本科拟聘11、硕士拟聘3。只覆盖该批次，不代表铜梁或重庆全年总量；报名人数及薪资未取得。",
+            "2024年第二季度南岸区教育事业单位批次：初中英语计划1人，高中英语0；该初中岗位由本科拟聘1人。只覆盖已核批次，不代表南岸区全年招聘总量；实际报名人数和薪资未取得。"
           ]
         },
         {
@@ -63153,7 +63155,7 @@
           },
           "coverageRows": 1,
           "dataCompleteness": {
-            "overall": 0,
+            "overall": 2,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -63162,7 +63164,7 @@
               "actualBachelorEvidence": 0,
               "employmentType": 0,
               "salary": 0,
-              "competition": 0,
+              "competition": 20,
               "lifeData": 0,
               "current2027": 0
             },
@@ -63198,7 +63200,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 0,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -63722,55 +63724,55 @@
         },
         {
           "district": "南岸区",
-          "juniorPlan": null,
-          "seniorPlan": null,
-          "bachelorChannel": null,
-          "publicServiceRecordCount": 0,
+          "juniorPlan": 1,
+          "seniorPlan": 0,
+          "bachelorChannel": 1,
+          "publicServiceRecordCount": 1,
           "coverageLevels": {
-            "A": 1,
+            "A": 2,
             "B": 0,
             "C": 0,
             "D": 1
           },
-          "coverageRows": 2,
+          "coverageRows": 3,
           "dataCompleteness": {
-            "overall": 8,
+            "overall": 27,
             "level": "low",
             "dimensions": {
-              "historicalCoverage": 50,
-              "plans": 0,
-              "bachelorConditions": 0,
-              "actualBachelorEvidence": 20,
+              "historicalCoverage": 67,
+              "plans": 20,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 40,
               "employmentType": 0,
               "salary": 0,
-              "competition": 0,
+              "competition": 20,
               "lifeData": 0,
               "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 1,
-                "denominator": 2,
+                "numerator": 2,
+                "denominator": 3,
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 0,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },
               "bachelorConditions": {
-                "numerator": 0,
-                "denominator": 0,
+                "numerator": 1,
+                "denominator": 1,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 1,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "核心年份"
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 0,
+                "denominator": 1,
                 "unit": "招聘记录"
               },
               "salary": {
@@ -63779,7 +63781,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 0,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -63795,13 +63797,13 @@
               }
             },
             "coverageLevels": {
-              "A": 1,
+              "A": 2,
               "B": 0,
               "C": 0,
               "D": 1
             }
           },
-          "planYears": 0
+          "planYears": 1
         },
         {
           "district": "南川区",
@@ -66639,7 +66641,7 @@
           },
           "coverageRows": 2,
           "dataCompleteness": {
-            "overall": 29,
+            "overall": 31,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
@@ -66648,7 +66650,7 @@
               "actualBachelorEvidence": 20,
               "employmentType": 0,
               "salary": 0,
-              "competition": 0,
+              "competition": 20,
               "lifeData": 0,
               "current2027": 0
             },
@@ -66684,7 +66686,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 0,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },

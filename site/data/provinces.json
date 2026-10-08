@@ -169,7 +169,7 @@
           "actualBachelorEvidence": 31,
           "employmentType": 48,
           "salary": 0,
-          "competition": 25,
+          "competition": 23,
           "lifeData": 10,
           "current2027": 52
         }
@@ -177,7 +177,7 @@
       "mainRecordCount": 655,
       "schoolSampleRows": 137,
       "salaryAmountEvidenceRows": 18,
-      "competitionEvidenceRows": 25,
+      "competitionEvidenceRows": 23,
       "lifeDataRows": 26
     },
     {
@@ -278,9 +278,9 @@
         "重庆市"
       ],
       "coverageAll": {
-        "rows": 43,
+        "rows": 44,
         "levels": {
-          "A": 22,
+          "A": 23,
           "B": 0,
           "C": 0,
           "D": 21
@@ -293,9 +293,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 43,
+        "rows": 44,
         "levels": {
-          "A": 22,
+          "A": 23,
           "B": 0,
           "C": 0,
           "D": 21
@@ -308,41 +308,41 @@
         ]
       },
       "historicalPlans": {
-        "junior": 61,
+        "junior": 62,
         "senior": 60,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": 16,
-      "actualEvidenceRows": 13,
-      "uniqueActualEvidenceRows": 13,
+      "actualBachelorNominees": 17,
+      "actualEvidenceRows": 14,
+      "uniqueActualEvidenceRows": 14,
       "tracking2027Rows": 12,
       "sourceGradeCounts": {
-        "S": 89,
+        "S": 90,
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 89,
+      "sourceGradeRecordCount": 90,
       "dataCompleteness": {
-        "overall": 37,
+        "overall": 41,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 51,
+          "historicalCoverage": 52,
           "plans": 40,
           "bachelorConditions": 100,
           "actualBachelorEvidence": 60,
           "employmentType": 0,
           "salary": 0,
-          "competition": 0,
+          "competition": 40,
           "lifeData": 0,
           "current2027": 80
         }
       },
-      "mainRecordCount": 89,
+      "mainRecordCount": 90,
       "schoolSampleRows": 1,
       "salaryAmountEvidenceRows": 0,
-      "competitionEvidenceRows": 0,
+      "competitionEvidenceRows": 3,
       "lifeDataRows": 0
     }
   ]
