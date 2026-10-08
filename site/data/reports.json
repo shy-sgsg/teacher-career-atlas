@@ -279,6 +279,12 @@
       "displayPath": "/reports/菏泽市英语教师就业分析报告.html",
       "title": "菏泽市英语教师就业分析报告",
       "available": true
+    },
+    {
+      "city": "重庆市",
+      "path": null,
+      "displayPath": null,
+      "available": false
     }
   ],
   "provinceReports": [

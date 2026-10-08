@@ -270,6 +270,74 @@
       "salaryAmountEvidenceRows": 13,
       "competitionEvidenceRows": 130,
       "lifeDataRows": 27
+    },
+    {
+      "province": "重庆市",
+      "cityCount": 1,
+      "cities": [
+        "重庆市"
+      ],
+      "coverageAll": {
+        "rows": 38,
+        "levels": {
+          "A": 17,
+          "B": 0,
+          "C": 0,
+          "D": 21
+        },
+        "years": [
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 38,
+        "levels": {
+          "A": 17,
+          "B": 0,
+          "C": 0,
+          "D": 21
+        },
+        "years": [
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 53,
+        "senior": 54,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 10,
+      "sourceGradeCounts": {
+        "S": 81,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 81,
+      "dataCompleteness": {
+        "overall": 16,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 45,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 80
+        }
+      },
+      "mainRecordCount": 81,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
     }
   ]
 }
