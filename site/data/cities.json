@@ -61985,13 +61985,13 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：新补沙坪坝部分历史批次、拟聘学历、报名数据及重庆两条2027招聘线索；重庆其他地区与学校样本、薪资生活资料待完成。",
-      "mainRecordCount": 120,
-      "explicitPlanRecords": 106,
+      "progressStatus": "研究进行中：重庆已补沙坪坝和九龙坡若干2021—2025历史批次、拟聘学历和报名数据；重庆其他区县、学校样本、薪资与生活资料仍待核。",
+      "mainRecordCount": 126,
+      "explicitPlanRecords": 110,
       "coverageAll": {
-        "rows": 53,
+        "rows": 54,
         "levels": {
-          "A": 34,
+          "A": 35,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62005,9 +62005,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 53,
+        "rows": 54,
         "levels": {
-          "A": 34,
+          "A": 35,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62021,37 +62021,37 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 114,
-        "A": 0,
+        "S": 118,
+        "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 120,
+      "sourceGradeRecordCount": 126,
       "bachelorLevelCounts": {
         "A": 48,
-        "B": 33,
+        "B": 34,
         "C": 11,
         "D": 19,
-        "unknown": 9
+        "unknown": 14
       },
       "targetFitCounts": {
         "A": 1,
-        "B": 66,
+        "B": 67,
         "C": 10,
         "D": 20,
-        "unknown": 23
+        "unknown": 28
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
-        "B": 66,
+        "B": 67,
         "C": 10,
         "D": 19,
-        "unknown": 20
+        "unknown": 23
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 120
+        "公办/事业单位相关（具体用工看公告）": 126
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62060,37 +62060,37 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 120
+        "无法判断": 126
       },
       "historyPlans": {
-        "junior": 75,
-        "senior": 76,
-        "bachelorChannel": 150,
+        "junior": 77,
+        "senior": 80,
+        "bachelorChannel": 153,
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 104,
+      "actualBachelorNominees": 108,
       "actualMasterNominees": 86,
-      "actualEvidenceRows": 62,
-      "uniqueActualEvidenceRows": 62,
+      "actualEvidenceRows": 66,
+      "uniqueActualEvidenceRows": 66,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 39,
+      "positiveBachelorEvidenceRows": 43,
       "tracking2027Rows": 13,
       "effective2027Records": 8,
-      "publicServiceRelatedRecordCount": 115,
+      "publicServiceRelatedRecordCount": 119,
       "schoolSampleRows": 1,
-      "salaryRows": 22,
+      "salaryRows": 26,
       "salaryAmountEvidenceRows": 1,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 21,
+      "competitionEvidenceRows": 25,
       "lifeDataRows": 0,
       "dataCompleteness": {
         "overall": 53,
         "level": "medium",
         "dimensions": {
-          "historicalCoverage": 64,
+          "historicalCoverage": 65,
           "plans": 60,
-          "bachelorConditions": 95,
+          "bachelorConditions": 92,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -62100,8 +62100,8 @@
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 34,
-            "denominator": 53,
+            "numerator": 35,
+            "denominator": 54,
             "unit": "区域-年份审计行"
           },
           "plans": {
@@ -62110,8 +62110,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 109,
-            "denominator": 115,
+            "numerator": 110,
+            "denominator": 119,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -62121,7 +62121,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 115,
+            "denominator": 119,
             "unit": "招聘记录"
           },
           "salary": {
@@ -62146,7 +62146,7 @@
           }
         },
         "coverageLevels": {
-          "A": 34,
+          "A": 35,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62254,11 +62254,11 @@
         },
         {
           "year": 2023,
-          "junior": 12,
-          "senior": 13,
-          "bachelorChannel": 30,
+          "junior": 13,
+          "senior": 17,
+          "bachelorChannel": 33,
           "masterChannel": 5,
-          "batchCount": 8,
+          "batchCount": 11,
           "coverageLevels": {
             "A": 4,
             "B": 0,
@@ -62273,7 +62273,7 @@
             1253
           ],
           "notes": [
-            "2023年第二季度公开招聘；拟聘公示于2024年发布；目前仅统计已核官方名单所列本科拟聘个案（1人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
+            "已核计划下限：2023年3月公开批次铁路中学初中英语1、田家炳中学高中英语1；四季度育才中学高中英语3。仅将四季度高中岗3计入已确认本科通道。另核到2023教育批次育才初中英语本科拟聘1、四季度育才初中/高中英语本科拟聘各1、2024届招聘田家炳初中英语本科拟聘1，连同既有2023个案共本科拟聘至少4。2023年教育批次、四季度初中岗位及应届招聘计划仍未与岗位表完整配对；非全年总量。",
             "2023公告面向2024届；拟聘公示于2024年发布；目前仅统计已核官方名单所列本科拟聘个案（2人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
             "两江新区一批官方旧格式XLS无法解析，英语岗位数采用可追溯转录并标B，学段明确但学历/资格/本科通道未核；计划8人未拆学段外的岗位资格未汇总；实际拟聘、报名和薪资缺失。",
             "14个中学英语计划未拆学段；Q4报名后取消1岗并核减1人。Q2岗位学历通道待复核，无薪资。"
@@ -62281,25 +62281,26 @@
         },
         {
           "year": 2024,
-          "junior": 10,
+          "junior": 11,
           "senior": 9,
           "bachelorChannel": 34,
           "masterChannel": 5,
-          "batchCount": 7,
+          "batchCount": 8,
           "coverageLevels": {
-            "A": 6,
+            "A": 7,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 6,
+          "coverageRows": 7,
           "planSourceRows": [
             1243,
             1244,
             1245,
             1246,
             1250,
-            1254
+            1254,
+            1255
           ],
           "notes": [
             "2024年第一季度公开招聘；目前仅统计已核官方名单所列本科拟聘个案（1人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
@@ -62307,7 +62308,8 @@
             "2024年第二季度南岸区教育事业单位批次：初中英语计划1人，高中英语0；该初中岗位由本科拟聘1人。只覆盖已核批次，不代表南岸区全年招聘总量；实际报名人数和薪资未取得。",
             "2024年第四季度面向2025届专项招聘英语计划5人：初中英语1人，茄子溪中学2人及西南大学附属中学校2人未拆初高中。特殊本科与硕士通道均覆盖这5个计划，通道数重叠，不可相加为计划总数。官方拟聘学历为本科2、硕士3。报名名单/成绩不是实际报名人数；薪资未披露。",
             "目前只核到一个江北区批次；岗位表中6个计划标“中学英语”，未拆初高中；未取得实际拟聘、报名数和薪资金额。",
-            "高校招聘6个中学岗位未拆学段且本科有特殊路径；人才大会学历和其他专项、工资仍待补。"
+            "高校招聘6个中学岗位未拆学段且本科有特殊路径；人才大会学历和其他专项、工资仍待补。",
+            "已核2024年第二季度批次：七十九中学初中英语计划1、报名215/缴费114、官方拟聘本科1人。实际本科拟聘不反推本科准入。2024年其他季度、校招/专项仍待逐项检索，薪资未找到。"
           ]
         },
         {
@@ -62667,55 +62669,55 @@
         },
         {
           "district": "九龙坡区",
-          "juniorPlan": 8,
-          "seniorPlan": 3,
-          "bachelorChannel": 10,
-          "publicServiceRecordCount": 10,
+          "juniorPlan": 10,
+          "seniorPlan": 7,
+          "bachelorChannel": 13,
+          "publicServiceRecordCount": 14,
           "coverageLevels": {
-            "A": 3,
+            "A": 4,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 3,
+          "coverageRows": 4,
           "dataCompleteness": {
-            "overall": 29,
+            "overall": 38,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
-              "plans": 20,
-              "bachelorConditions": 100,
-              "actualBachelorEvidence": 40,
+              "plans": 60,
+              "bachelorConditions": 79,
+              "actualBachelorEvidence": 60,
               "employmentType": 0,
               "salary": 0,
-              "competition": 0,
+              "competition": 40,
               "lifeData": 0,
               "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 3,
-                "denominator": 3,
+                "numerator": 4,
+                "denominator": 4,
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 1,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "核心年份"
               },
               "bachelorConditions": {
-                "numerator": 10,
-                "denominator": 10,
+                "numerator": 11,
+                "denominator": 14,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 2,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "核心年份"
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 10,
+                "denominator": 14,
                 "unit": "招聘记录"
               },
               "salary": {
@@ -62724,7 +62726,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 0,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -62740,13 +62742,13 @@
               }
             },
             "coverageLevels": {
-              "A": 3,
+              "A": 4,
               "B": 0,
               "C": 0,
               "D": 0
             }
           },
-          "planYears": 1
+          "planYears": 3
         },
         {
           "district": "云阳县",
