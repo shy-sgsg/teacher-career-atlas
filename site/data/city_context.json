@@ -1,0 +1,1820 @@
+{
+  "items": [
+    {
+      "城市": "嘉兴市",
+      "指标": "地区生产总值",
+      "数值": 7851.06,
+      "单位/口径": "亿元；地区生产总值初步核算",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/djs/69637.html",
+      "限制/说明": "转载站可读到完整统计公报；官方原站2025公报附件未在此次检索中定位。全市口径。",
+      "_sourceRow": 5,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/djs/69637.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "地区生产总值增速",
+      "数值": 5.2,
+      "单位/口径": "%；按不变价格计算",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/djs/69637.html",
+      "限制/说明": "全市口径；统计公报为初步核算。",
+      "_sourceRow": 6,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/djs/69637.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "常住人口",
+      "数值": 561.3,
+      "单位/口径": "万人；2025年1%人口抽样调查推算",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/djs/69637.html",
+      "限制/说明": "全市口径；抽样调查推算。",
+      "_sourceRow": 7,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/djs/69637.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 81547,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "国家统计局嘉兴调查队",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcfx/art/2026/art_fa8f39cd948d4af19707cac9f1803a19.html",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 8,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcfx/art/2026/art_fa8f39cd948d4af19707cac9f1803a19.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "农村居民人均可支配收入",
+      "数值": 54939,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "国家统计局嘉兴调查队",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 9,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "城市行政层级/辖区",
+      "数值": "地级市；2区、3个县级市、2县",
+      "单位/口径": "官方城市单元",
+      "数据年份/时点": "2026",
+      "来源类型": "政府公开信息",
+      "证据等级": "S",
+      "来源链接": "https://www.jiaxing.gov.cn/",
+      "限制/说明": "嘉兴历史招聘覆盖7县级单元；招聘批次的学校/管理单位位置详见主表。",
+      "_sourceRow": 10,
+      "sourceUrls": [
+        "https://www.jiaxing.gov.cn/"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "2021—2025已拆初高中英语岗位计划",
+      "数值": 43,
+      "单位/口径": "人；有明确计划数的样本下限",
+      "数据年份/时点": "2021—2025",
+      "来源类型": "统一招聘数据库汇总",
+      "证据等级": "A",
+      "来源链接": "../02_database/teacher_recruitment_database.xlsx",
+      "限制/说明": "按现有逐岗记录求和；不是嘉兴全市全年总需求。地区下限：海宁20、嘉善12、秀洲5、南湖3、桐乡2、平湖1；海盐仍有B/D信息缺口。",
+      "_sourceRow": 11,
+      "sourceUrls": [
+        "../02_database/teacher_recruitment_database.xlsx"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "公共交通互联",
+      "数值": "嘉兴公交一卡通资料称与303个城市互联互通",
+      "单位/口径": "公交支付互联数，不代表线路覆盖",
+      "数据年份/时点": "规划/资料发布日期2022",
+      "来源类型": "市政府交通规划",
+      "证据等级": "A",
+      "来源链接": "https://www.jiaxing.gov.cn/art/2022/1/11/art_1229426381_4857956.html",
+      "限制/说明": "规划资料；不代表公交线路数或实时可达范围。",
+      "_sourceRow": 12,
+      "sourceUrls": [
+        "https://www.jiaxing.gov.cn/art/2022/1/11/art_1229426381_4857956.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "城市轨道交通",
+      "数值": "截至2025年两条运营线路、约60.18公里（含有轨电车与市域铁路）",
+      "单位/口径": "城市轨道/市域铁路；行业统计口径",
+      "数据年份/时点": "2025",
+      "来源类型": "浙江省轨道交通和能源业联合会",
+      "证据等级": "B",
+      "来源链接": "https://www.zrtea.cn/industry_details.html?id=16",
+      "限制/说明": "含跨市域/县域线路，不能等同中心城区地铁网。",
+      "_sourceRow": 13,
+      "sourceUrls": [
+        "https://www.zrtea.cn/industry_details.html?id=16"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "高铁可达",
+      "数值": "嘉兴南站为高铁枢纽；具体路线与班次按铁路实时公告",
+      "单位/口径": "出行枢纽",
+      "数据年份/时点": "当前核验至2026-10-05",
+      "来源类型": "市政府综合交通规划",
+      "证据等级": "A",
+      "来源链接": "https://www.jiaxing.gov.cn/art/2022/1/11/art_1229426381_4857956.html",
+      "限制/说明": "未将规划中的新线路写成已运营线路。",
+      "_sourceRow": 14,
+      "sourceUrls": [
+        "https://www.jiaxing.gov.cn/art/2022/1/11/art_1229426381_4857956.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "嘉兴南湖机场",
+      "数值": "2026年首条国际货运航线开通；客运航班运营状态未找到可核官方时刻信息",
+      "单位/口径": "机场/货运和客运分口径",
+      "数据年份/时点": "2026-06（最新确认）",
+      "来源类型": "政府部门公开信息",
+      "证据等级": "A",
+      "来源链接": "https://jgdj.jiaxing.gov.cn/col/col1537177/art/2026/art_fdf183a45a564a7e94a9869eaf25b0a3.html",
+      "限制/说明": "2025两会材料中12条客运航线为规划目标，不能据此当作已开通。",
+      "_sourceRow": 15,
+      "sourceUrls": [
+        "https://jgdj.jiaxing.gov.cn/col/col1537177/art/2026/art_fdf183a45a564a7e94a9869eaf25b0a3.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "青年求职补贴",
+      "数值": "一次性3000元“回嘉留嘉”求职补贴",
+      "单位/口径": "限嘉兴户籍毕业5年内或在嘉高校毕业5年内、首次到嘉兴企业就业等",
+      "数据年份/时点": "2025政策",
+      "来源类型": "嘉兴市人力社保局/市政府政策",
+      "证据等级": "S",
+      "来源链接": "https://rlsbj.jiaxing.gov.cn/art/2025/8/20/art_1229564483_2542895.html",
+      "限制/说明": "条款指向企业就业；不能据此认定公办学校事业编教师自动符合。",
+      "_sourceRow": 16,
+      "sourceUrls": [
+        "https://rlsbj.jiaxing.gov.cn/art/2025/8/20/art_1229564483_2542895.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "人才住房/租金优惠",
+      "数值": "毕业5年内自主创业高校毕业生可申请人才公寓；首年减租50%、次年30%",
+      "单位/口径": "限自主创业、申请与资格条件按政策办理",
+      "数据年份/时点": "2025政策",
+      "来源类型": "嘉兴市人力社保局/市政府政策",
+      "证据等级": "S",
+      "来源链接": "https://rlsbj.jiaxing.gov.cn/art/2025/8/20/art_1229564483_2542895.html",
+      "限制/说明": "不属于全体应届教师普惠补贴；教师适用性须按具体身份核对。",
+      "_sourceRow": 17,
+      "sourceUrls": [
+        "https://rlsbj.jiaxing.gov.cn/art/2025/8/20/art_1229564483_2542895.html"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "公办英语教师实际收入",
+      "数值": "未找到可与岗位对应的基本工资、绩效、公积金、补贴、年终奖拆分",
+      "单位/口径": "公开资料不足",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "公开招聘公告/政府政策检索",
+      "证据等级": "未取得",
+      "来源链接": "https://www.jiaxing.gov.cn/",
+      "限制/说明": "招聘平台综合年薪不作事业编实际收入。",
+      "_sourceRow": 18,
+      "sourceUrls": [
+        "https://www.jiaxing.gov.cn/"
+      ]
+    },
+    {
+      "城市": "嘉兴市",
+      "指标": "官方租金/房租比较",
+      "数值": "未找到全市口径且可与新教师居住选择直接比较的官方租金统计",
+      "单位/口径": "公开资料不足",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "公开统计检索",
+      "证据等级": "未取得",
+      "来源链接": "https://www.jiaxing.gov.cn/",
+      "限制/说明": "不补估市场租金。",
+      "_sourceRow": 19,
+      "sourceUrls": [
+        "https://www.jiaxing.gov.cn/"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "常住人口",
+      "数值": 1270,
+      "单位/口径": "万人；2025年1%人口抽样调查推算",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市统计公报（政府媒体转载）",
+      "证据等级": "B",
+      "来源链接": "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm",
+      "限制/说明": "年末常住人口；全市口径。",
+      "_sourceRow": 20,
+      "sourceUrls": [
+        "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "地区生产总值",
+      "数值": 23011,
+      "单位/口径": "亿元",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市政府工作报告",
+      "证据等级": "S",
+      "来源链接": "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml",
+      "限制/说明": "全市口径；政府工作报告。",
+      "_sourceRow": 21,
+      "sourceUrls": [
+        "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "地区生产总值增速",
+      "数值": 5.2,
+      "单位/口径": "%",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市政府工作报告",
+      "证据等级": "S",
+      "来源链接": "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml",
+      "限制/说明": "按政府工作报告发布数。",
+      "_sourceRow": 22,
+      "sourceUrls": [
+        "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 86640,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市统计公报（政府媒体转载）",
+      "证据等级": "B",
+      "来源链接": "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm",
+      "限制/说明": "居民收入不是教师工资。",
+      "_sourceRow": 23,
+      "sourceUrls": [
+        "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "农村居民人均可支配收入",
+      "数值": 53565,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市统计公报（政府媒体转载）",
+      "证据等级": "B",
+      "来源链接": "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm",
+      "限制/说明": "居民收入不是教师工资。",
+      "_sourceRow": 24,
+      "sourceUrls": [
+        "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "全体居民人均可支配收入",
+      "数值": 80017,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市统计公报（政府媒体转载）",
+      "证据等级": "B",
+      "来源链接": "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm",
+      "限制/说明": "全体居民口径。",
+      "_sourceRow": 25,
+      "sourceUrls": [
+        "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "城镇化率",
+      "数值": 85.3,
+      "单位/口径": "%",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市统计公报（政府媒体转载）",
+      "证据等级": "B",
+      "来源链接": "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm",
+      "限制/说明": "全市口径。",
+      "_sourceRow": 26,
+      "sourceUrls": [
+        "https://hznews.hangzhou.com.cn/chengshi/content/2026-04/30/content_9214826.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "城市行政层级/辖区",
+      "数值": "浙江省省会；现有13个区县级单元",
+      "单位/口径": "城市管理/研究单元",
+      "数据年份/时点": "2025—2026",
+      "来源类型": "市政府工作报告与市级区划入口",
+      "证据等级": "A",
+      "来源链接": "https://www.hangzhou.gov.cn/col/col1229712244/index.html",
+      "限制/说明": "余杭/临平等历史边界按公告年份与学校地址处理。",
+      "_sourceRow": 27,
+      "sourceUrls": [
+        "https://www.hangzhou.gov.cn/col/col1229712244/index.html"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "城市轨道交通",
+      "数值": 516,
+      "单位/口径": "公里；城市轨道交通网",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市政府工作报告",
+      "证据等级": "S",
+      "来源链接": "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml",
+      "限制/说明": "按政府工作报告，不拆到具体求职者住址。",
+      "_sourceRow": 28,
+      "sourceUrls": [
+        "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "高速铁路网",
+      "数值": 397,
+      "单位/口径": "公里",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市政府工作报告",
+      "证据等级": "S",
+      "来源链接": "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml",
+      "限制/说明": "市域高速铁路网里程。",
+      "_sourceRow": 29,
+      "sourceUrls": [
+        "https://zfgb.hangzhou.gov.cn/148/102220263/t103220263024/530188.shtml"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "机场可达性",
+      "数值": "萧山国际机场2025年服务旅客超过5000万人次，通达223个目的地",
+      "单位/口径": "机场运营数据",
+      "数据年份/时点": "2025",
+      "来源类型": "杭州市政府英文门户/杭州发布",
+      "证据等级": "A",
+      "来源链接": "https://eng.hangzhou.gov.cn/col/col811217/art/2026/art_f50a5486f9ad4661b8b0facfd74958b4.html",
+      "限制/说明": "机场客流不是就业或居住优势评分。",
+      "_sourceRow": 30,
+      "sourceUrls": [
+        "https://eng.hangzhou.gov.cn/col/col811217/art/2026/art_f50a5486f9ad4661b8b0facfd74958b4.html"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "青年本科租房补贴",
+      "数值": "合资格全球全日制本科及以上新引进应届毕业生每户每年1万元，先发3年，符合条件最长6年",
+      "单位/口径": "需在杭就业/创业、社保连续6个月、家庭在杭无房且未享其他租房优惠等",
+      "数据年份/时点": "2025公开指南",
+      "来源类型": "杭州发布（市政协网转载）",
+      "证据等级": "B",
+      "来源链接": "https://www.hzzx.gov.cn/cshz/content/2025-12/11/content_9141631.htm",
+      "限制/说明": "事业单位可为合格用人单位之一；须逐人满足申请条件；与公租房货币补贴二选一。",
+      "_sourceRow": 31,
+      "sourceUrls": [
+        "https://www.hzzx.gov.cn/cshz/content/2025-12/11/content_9141631.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "公租房保障",
+      "数值": "新就业本科及以上毕业生可按指定市区范围、户籍/居住证、社保、公租房收入与财产等条件申请",
+      "单位/口径": "条件制住房保障",
+      "数据年份/时点": "2025公开指南",
+      "来源类型": "杭州发布（市政协网转载）",
+      "证据等级": "B",
+      "来源链接": "https://www.hzzx.gov.cn/cshz/content/2025-12/11/content_9141631.htm",
+      "限制/说明": "并非全体教师自动享有；适用区县与人才租房补贴有差异。",
+      "_sourceRow": 32,
+      "sourceUrls": [
+        "https://www.hzzx.gov.cn/cshz/content/2025-12/11/content_9141631.htm"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "公办英语教师实际收入",
+      "数值": "未找到可比的基本工资、绩效、公积金、补贴、年终奖公开拆分",
+      "单位/口径": "公开资料不足",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "招聘公告/公开薪酬信息检索",
+      "证据等级": "未取得",
+      "来源链接": "https://www.hangzhou.gov.cn/col/col1229712244/index.html",
+      "限制/说明": "不以海亮企业综合年薪或平台实习津贴代替事业编实际收入。",
+      "_sourceRow": 33,
+      "sourceUrls": [
+        "https://www.hangzhou.gov.cn/col/col1229712244/index.html"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "官方租金/房租比较",
+      "数值": "未找到统一、可与应届教师居住选择直接比较的官方租金指标",
+      "单位/口径": "公开资料不足",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "公开统计检索",
+      "证据等级": "未取得",
+      "来源链接": "https://www.hangzhou.gov.cn/",
+      "限制/说明": "不补估市场租金。",
+      "_sourceRow": 34,
+      "sourceUrls": [
+        "https://www.hangzhou.gov.cn/"
+      ]
+    },
+    {
+      "城市": "杭州市",
+      "指标": "英语岗位地理分布",
+      "数值": "13个区县级单元均纳入年度审计；已拆岗位下限按招聘管理单位记录，不将市属/区属学校重复下推",
+      "单位/口径": "招聘证据，不是人口/就业总量",
+      "数据年份/时点": "2018—2025",
+      "来源类型": "统一招聘数据库汇总",
+      "证据等级": "A",
+      "来源链接": "../02_database/teacher_recruitment_database.xlsx",
+      "限制/说明": "杭州市已拆计划数106仅是可核记录下限；缺失区县/年份见年度审计，不能用于区县机会排名。",
+      "_sourceRow": 35,
+      "sourceUrls": [
+        "../02_database/teacher_recruitment_database.xlsx"
+      ]
+    },
+    {
+      "城市": "宁波市",
+      "指标": "地区生产总值",
+      "数值": 18716,
+      "单位/口径": "亿元",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml",
+      "限制/说明": "全市初步统计口径；此次未定位统计局官网同版原文。",
+      "_sourceRow": 36,
+      "sourceUrls": [
+        "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml"
+      ]
+    },
+    {
+      "城市": "宁波市",
+      "指标": "常住人口",
+      "数值": 983.3,
+      "单位/口径": "万人，年末",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml",
+      "限制/说明": "全市口径。",
+      "_sourceRow": 37,
+      "sourceUrls": [
+        "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml"
+      ]
+    },
+    {
+      "城市": "宁波市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 86088,
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml",
+      "限制/说明": "不能代表教师工资。",
+      "_sourceRow": 38,
+      "sourceUrls": [
+        "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml"
+      ]
+    },
+    {
+      "城市": "宁波市",
+      "指标": "农村居民人均可支配收入",
+      "数值": 53683,
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报转载",
+      "证据等级": "B",
+      "来源链接": "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml",
+      "限制/说明": "全市口径。",
+      "_sourceRow": 39,
+      "sourceUrls": [
+        "https://web.ncmc.nbtv.cn/cms/nbdst/xwdsg/nb/40400338.shtml"
+      ]
+    },
+    {
+      "城市": "宁波市",
+      "指标": "青年人才租房补贴",
+      "数值": 10000,
+      "单位/口径": "元/年，最多3年；按资格核验",
+      "数据年份/时点": "2024政策；2025-12政策转换提示",
+      "来源类型": "官方政策/办理系统",
+      "证据等级": "A",
+      "来源链接": "https://qf.ningbo.gov.cn/qfpt/fwbk/rcfw/rczc/art/2024/art_6dc9b6caed174ac8ac1cb99e0c79d396.html；https://hrs.nbrc.com.cn/zjzwindex.jsp?type=6",
+      "限制/说明": "受年龄、学历、住房等条件限制；新旧政策过渡，不视作普遍待遇。",
+      "_sourceRow": 40,
+      "sourceUrls": [
+        "https://qf.ningbo.gov.cn/qfpt/fwbk/rcfw/rczc/art/2024/art_6dc9b6caed174ac8ac1cb99e0c79d396.html",
+        "https://hrs.nbrc.com.cn/zjzwindex.jsp?type=6"
+      ]
+    },
+    {
+      "城市": "温州市",
+      "指标": "居民人均可支配收入",
+      "数值": 73660,
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjwzdcd/dcsj/tjgb/art/2026/art_c10d7fff23af4793b579d9208f3debf9.html; https://zjzd.stats.gov.cn/gjtjjwzdcd/dcsj/ndsj/cxjmszqk/art/2026/art_2c2d4da3cb8749588e93f5c54156a27f.html",
+      "限制/说明": "全市口径；城镇居民84347元、农村居民46446元。此为居民收入统计，不是教师薪资。",
+      "_sourceRow": 41,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjwzdcd/dcsj/tjgb/art/2026/art_c10d7fff23af4793b579d9208f3debf9.html",
+        "https://zjzd.stats.gov.cn/gjtjjwzdcd/dcsj/ndsj/cxjmszqk/art/2026/art_2c2d4da3cb8749588e93f5c54156a27f.html"
+      ]
+    },
+    {
+      "城市": "温州市",
+      "指标": "S1线交通联系",
+      "数值": "S1线连接温州南站、温州站、龙湾机场等枢纽，线路西起瓯海、途经鹿城和龙湾至瓯江口",
+      "单位/口径": "官方线路描述",
+      "数据年份/时点": "2019-12发布的运营信息；可用于线路联系，不代表当前时刻表",
+      "来源类型": "官方交通信息",
+      "证据等级": "S",
+      "来源链接": "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/201912/t20191227_1216781.html; https://www.wzair.cn/xxgk/fwcn/index.html",
+      "限制/说明": "机场官方服务承诺另述S1/S2与机场及动车南站衔接；出行时刻需查现行运营信息。",
+      "_sourceRow": 42,
+      "sourceUrls": [
+        "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/201912/t20191227_1216781.html",
+        "https://www.wzair.cn/xxgk/fwcn/index.html"
+      ]
+    },
+    {
+      "城市": "温州市",
+      "指标": "公开租金/房价可比数据",
+      "数值": "未取得",
+      "单位/口径": "未取得",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "未取得",
+      "证据等级": "未取得",
+      "来源链接": null,
+      "限制/说明": "未取得能用于应届教师城市比较的官方平均租金或教师住房支出数据，不估算。",
+      "_sourceRow": 43,
+      "sourceUrls": []
+    },
+    {
+      "城市": "温州市",
+      "指标": "2025-07至2027-12高校毕业生人才政策",
+      "数值": "本科、专科毕业2年内新到温中小微企业就业者可按新政申请1万元/0.5万元就业补贴；E/F类人才住房及租房补贴另有等级/用工条件",
+      "单位/口径": "政策金额及对象条件",
+      "数据年份/时点": "2025-07-01至2027-12-31",
+      "来源类型": "官方政策",
+      "证据等级": "S",
+      "来源链接": "https://www.wzrc.net/index.php?a=policy_show&c=policy&id=79; https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1825/site/attach/0/567f90722b5f40da943bbe0b0a1af026.pdf",
+      "限制/说明": "补贴限符合政策主体与人才分类条件者；公办学校聘用人员是否符合某条企业/高校/科研院所用工要求须向主管部门核实，不能默认纳入。",
+      "_sourceRow": 44,
+      "sourceUrls": [
+        "https://www.wzrc.net/index.php?a=policy_show&c=policy&id=79",
+        "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1825/site/attach/0/567f90722b5f40da943bbe0b0a1af026.pdf"
+      ]
+    },
+    {
+      "城市": "温州市",
+      "指标": "条例框架",
+      "数值": "可采用保障性租赁住房、租房补贴、人才住房及青年驿站等方式",
+      "单位/口径": "法规条文",
+      "数据年份/时点": "2025-05-01施行",
+      "来源类型": "官方政策",
+      "证据等级": "S",
+      "来源链接": "https://wzrd.wenzhou.gov.cn/art/2025/4/25/art_1382117_58930421.html",
+      "限制/说明": "框架性规定，不等于个人已满足具体申请条件。",
+      "_sourceRow": 45,
+      "sourceUrls": [
+        "https://wzrd.wenzhou.gov.cn/art/2025/4/25/art_1382117_58930421.html"
+      ]
+    },
+    {
+      "城市": "绍兴市",
+      "指标": "地区生产总值/常住人口",
+      "数值": "{\"GDP_亿元\":8932,\"GDP同比增长_%\":6.5,\"年末常住人口_万人\":544.3,\"常住人口同比增加_万人\":1.4}",
+      "单位/口径": "2025年度初步统计",
+      "数据年份/时点": "2025",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjsxdcd/dccg/njgb/art/2026/art_494a657fdcfa4ba4bf679f880c55d8bc.html",
+      "限制/说明": "绍兴市全市口径；统计公报标注年度初步数。",
+      "_sourceRow": 46,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjsxdcd/dccg/njgb/art/2026/art_494a657fdcfa4ba4bf679f880c55d8bc.html"
+      ]
+    },
+    {
+      "城市": "绍兴市",
+      "指标": "居民人均可支配收入",
+      "数值": "{\"全体居民_元\":76732,\"城镇居民_元\":87605,\"农村居民_元\":54535}",
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjsxdcd/dccg/njgb/art/2026/art_494a657fdcfa4ba4bf679f880c55d8bc.html",
+      "限制/说明": "城市整体居民统计，不是教师薪资，也不等同住房成本。",
+      "_sourceRow": 47,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjsxdcd/dccg/njgb/art/2026/art_494a657fdcfa4ba4bf679f880c55d8bc.html"
+      ]
+    },
+    {
+      "城市": "绍兴市",
+      "指标": "绍兴轨道交通1号线支线/公交衔接动态",
+      "数值": "官方交通信息提及地铁1号线支线相关站点与柯桥/绍兴北部公交衔接调整；只作为交通网络线索，不据此推断当前全网覆盖或通勤时长。",
+      "单位/口径": "官方交通运营/调整说明",
+      "数据年份/时点": "2025-06发布",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://www.sx.gov.cn/art/2025/6/23/art_1229429798_4225360.html",
+      "限制/说明": "出行路线、站点服务和时刻应以现行运营信息核对；未估算通勤时间。",
+      "_sourceRow": 48,
+      "sourceUrls": [
+        "https://www.sx.gov.cn/art/2025/6/23/art_1229429798_4225360.html"
+      ]
+    },
+    {
+      "城市": "绍兴市",
+      "指标": "人才住房保障法规",
+      "数值": "条例要求市、县（市、区）完善人才住房保障办法，可衔接货币补贴、实物保障并支持人才公寓/保障性租赁住房；绍兴人才码集成安居保障服务。",
+      "单位/口径": "法规条文",
+      "数据年份/时点": "2024-05-01施行",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://sxrd.sx.gov.cn/art/2024/4/8/art_1488387_58881663.html",
+      "限制/说明": "框架条款不证明个人符合具体申请条件。",
+      "_sourceRow": 49,
+      "sourceUrls": [
+        "https://sxrd.sx.gov.cn/art/2024/4/8/art_1488387_58881663.html"
+      ]
+    },
+    {
+      "城市": "绍兴市",
+      "指标": "绍兴人才专列所载毕业生政策",
+      "数值": "页面列博士房票50万元/安家9万元；双一流本科房票15万元；其他本科房票10万元/安家3万元，及人才码、人才公寓等服务。",
+      "单位/口径": "政策页金额与申请说明",
+      "数据年份/时点": "2025-06-03发布页面，政策/对象须核现行规则",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://career.ecnu.edu.cn/commonpage/JobInfDetail.aspx?oid=wLVAUbk3Z6Opn5fWAL+7TA%3D%3D&sn=2020028263",
+      "限制/说明": "页面注明除特定类别外，补贴对象为到企业、科研院所就业的高校毕业生，区县政策以属地为准；不可默认公办中小学或本目标用户符合。",
+      "_sourceRow": 50,
+      "sourceUrls": [
+        "https://career.ecnu.edu.cn/commonpage/JobInfDetail.aspx?oid=wLVAUbk3Z6Opn5fWAL+7TA%3D%3D&sn=2020028263"
+      ]
+    },
+    {
+      "城市": "金华市",
+      "指标": "行政区划核验",
+      "数值": "金华市下辖婺城、金东、兰溪、义乌、东阳、永康、浦江、武义、磐安等单位；本审计按这9个区县级单位铺开。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://open.data.jinhua.gov.cn/jdop_front/detail/api.do?iid=15250",
+      "限制/说明": "金华市下辖婺城、金东、兰溪、义乌、东阳、永康、浦江、武义、磐安等单位；本审计按这9个区县级单位铺开。",
+      "_sourceRow": 51,
+      "sourceUrls": [
+        "https://open.data.jinhua.gov.cn/jdop_front/detail/api.do?iid=15250"
+      ]
+    },
+    {
+      "城市": "金华市",
+      "指标": "市内交通",
+      "数值": "金华开放数据提供轨道交通站点首末班车时刻和公交线路/站点数据，可用于后续按学校位置核算通勤；本稿不推演具体通勤时间。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://open.data.jinhua.gov.cn/detail/data_preview.do?iid=12312; https://open.data.jinhua.gov.cn/jdop_front/detail/data.do?iid=17932",
+      "限制/说明": "金华开放数据提供轨道交通站点首末班车时刻和公交线路/站点数据，可用于后续按学校位置核算通勤；本稿不推演具体通勤时间。",
+      "_sourceRow": 52,
+      "sourceUrls": [
+        "https://open.data.jinhua.gov.cn/detail/data_preview.do?iid=12312",
+        "https://open.data.jinhua.gov.cn/jdop_front/detail/data.do?iid=17932"
+      ]
+    },
+    {
+      "城市": "金华市",
+      "指标": "人才与住房政策",
+      "数值": "金华2025年政策说明包含人才住房供应、购房补贴/租售优惠等措施；引用页面载明政策执行期至2025-12-31，不能当作2026/2027届个人现行资格或金额承诺。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "B",
+      "来源链接": "https://cy.zjnu.edu.cn/2025/0325/c19500a512392/page.htm",
+      "限制/说明": "金华2025年政策说明包含人才住房供应、购房补贴/租售优惠等措施；引用页面载明政策执行期至2025-12-31，不能当作2026/2027届个人现行资格或金额承诺。",
+      "_sourceRow": 53,
+      "sourceUrls": [
+        "https://cy.zjnu.edu.cn/2025/0325/c19500a512392/page.htm"
+      ]
+    },
+    {
+      "城市": "金华市",
+      "指标": "公办薪酬构成",
+      "数值": "事业单位工资制度资料列基本工资、绩效工资、津贴补贴等组成；未取得目标区县英语教师统一公开薪酬表，故不估算年薪。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://www.jyg.gov.cn/rsj/zwxxgk/zc/gjfg/sydwrsgl/art/2022/art_2ca206867c5545fe9d6c044a15e5f98d.html; https://www.moe.gov.cn/jyb_xwfb/s271/201010/t20101013_109047.html",
+      "限制/说明": "事业单位工资制度资料列基本工资、绩效工资、津贴补贴等组成；未取得目标区县英语教师统一公开薪酬表，故不估算年薪。",
+      "_sourceRow": 54,
+      "sourceUrls": [
+        "https://www.jyg.gov.cn/rsj/zwxxgk/zc/gjfg/sydwrsgl/art/2022/art_2ca206867c5545fe9d6c044a15e5f98d.html",
+        "https://www.moe.gov.cn/jyb_xwfb/s271/201010/t20101013_109047.html"
+      ]
+    },
+    {
+      "城市": "金华市",
+      "指标": "学校样本",
+      "数值": "具名招聘学校只作为有来源的候选样本；学校位置类别、办学性质及质量层级按本稿分别标注，未证实的类别明确留空/无法确认，并按学校计划列明高中与初中层级缺口。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "A",
+      "来源链接": "https://www.yw.gov.cn/art/2025/2/19/art_1229134300_4209415.html; https://career.zjnu.edu.cn/attachment/zjnu/ueditor/file/20251120/7556_1.%E9%87%91%E5%8D%8E%E5%B8%82%E9%87%91%E4%B8%9C%E5%8C%BA%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E8%B5%B4%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92%E8%A1%A8.pdf; https://www.yk.gov.cn/module/download/downfile.jsp?classid=0&filename=1b286cb9c3ad470a9d1e40b17f303b40.pdf",
+      "限制/说明": "具名招聘学校只作为有来源的候选样本；学校位置类别、办学性质及质量层级按本稿分别标注，未证实的类别明确留空/无法确认，并按学校计划列明高中与初中层级缺口。",
+      "_sourceRow": 55,
+      "sourceUrls": [
+        "https://www.yw.gov.cn/art/2025/2/19/art_1229134300_4209415.html",
+        "https://career.zjnu.edu.cn/attachment/zjnu/ueditor/file/20251120/7556_1.%E9%87%91%E5%8D%8E%E5%B8%82%E9%87%91%E4%B8%9C%E5%8C%BA%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E8%B5%B4%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92%E8%A1%A8.pdf",
+        "https://www.yk.gov.cn/module/download/downfile.jsp?classid=0&filename=1b286cb9c3ad470a9d1e40b17f303b40.pdf"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "行政区划核验",
+      "数值": "湖州市按吴兴、南浔、德清、长兴、安吉5个区县级单位逐年审计。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://www.huzhou.gov.cn/col/col1229665321/index.html; https://huzhou.gov.cn/hzgov/front/s1/zfwzgzndbb/2022nd/index.html",
+      "限制/说明": "湖州市按吴兴、南浔、德清、长兴、安吉5个区县级单位逐年审计。",
+      "_sourceRow": 56,
+      "sourceUrls": [
+        "https://www.huzhou.gov.cn/col/col1229665321/index.html",
+        "https://huzhou.gov.cn/hzgov/front/s1/zfwzgzndbb/2022nd/index.html"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "交通",
+      "数值": "沪苏湖高铁已于2024年开通运营；湖杭高铁已运营。这里只陈列已通车线路，不把规划线路写作现状。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://www.huzhou.gov.cn/art/2025/1/15/art_1229213583_59074244.html; https://www.huzhou.gov.cn/art/2023/3/6/art_1229513689_3914727.html",
+      "限制/说明": "沪苏湖高铁已于2024年开通运营；湖杭高铁已运营。这里只陈列已通车线路，不把规划线路写作现状。",
+      "_sourceRow": 57,
+      "sourceUrls": [
+        "https://www.huzhou.gov.cn/art/2025/1/15/art_1229213583_59074244.html",
+        "https://www.huzhou.gov.cn/art/2023/3/6/art_1229513689_3914727.html"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "青年住房政策",
+      "数值": "湖州2026年青年友好型住房法规/文件于2026-05-20施行，规定推进青年人才公寓、住房保障与补贴机制；这不构成某个教师候选人自动符合条件或获得补贴的承诺。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://renda.huzhou.gov.cn/lzgk/lfgj/20260403/i4145302.html",
+      "限制/说明": "湖州2026年青年友好型住房法规/文件于2026-05-20施行，规定推进青年人才公寓、住房保障与补贴机制；这不构成某个教师候选人自动符合条件或获得补贴的承诺。",
+      "_sourceRow": 58,
+      "sourceUrls": [
+        "https://renda.huzhou.gov.cn/lzgk/lfgj/20260403/i4145302.html"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "历史住房补助样例",
+      "数值": "南太湖新区公开过2025年度住房补贴拟发放对象公示；名单可作历史执行样例，不能当作当前标准或个人可得金额。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://taihu.huzhou.gov.cn/art/2025/1/9/art_1229211030_58910427.html",
+      "限制/说明": "南太湖新区公开过2025年度住房补贴拟发放对象公示；名单可作历史执行样例，不能当作当前标准或个人可得金额。",
+      "_sourceRow": 59,
+      "sourceUrls": [
+        "https://taihu.huzhou.gov.cn/art/2025/1/9/art_1229211030_58910427.html"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "公办薪酬构成",
+      "数值": "事业单位工资制度资料列基本工资、绩效工资、津贴补贴等组成；未取得湖州各区县可比英语教师薪资表，不作薪资估计。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "S",
+      "来源链接": "https://www.jyg.gov.cn/rsj/zwxxgk/zc/gjfg/sydwrsgl/art/2022/art_2ca206867c5545fe9d6c044a15e5f98d.html; https://www.moe.gov.cn/jyb_xwfb/s271/201010/t20101013_109047.html",
+      "限制/说明": "事业单位工资制度资料列基本工资、绩效工资、津贴补贴等组成；未取得湖州各区县可比英语教师薪资表，不作薪资估计。",
+      "_sourceRow": 60,
+      "sourceUrls": [
+        "https://www.jyg.gov.cn/rsj/zwxxgk/zc/gjfg/sydwrsgl/art/2022/art_2ca206867c5545fe9d6c044a15e5f98d.html",
+        "https://www.moe.gov.cn/jyb_xwfb/s271/201010/t20101013_109047.html"
+      ]
+    },
+    {
+      "城市": "湖州市",
+      "指标": "学校样本",
+      "数值": "具名招聘学校只作为有来源的候选样本；学校位置类别、办学性质及质量层级按本稿分别标注，未证实的类别明确留空/无法确认，并按学校计划列明高中与初中层级缺口。",
+      "单位/口径": "见说明",
+      "数据年份/时点": "2026-10-05",
+      "来源类型": "官方来源/招聘信息",
+      "证据等级": "A",
+      "来源链接": "https://zjjcmspublicnew.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/cms_files/filemanager/1572870/attach/202512/3759f039935a460f9c1a5095d7c8527d.pdf; https://career.zjnu.edu.cn/attachment/zjnu/ueditor/file/20251030/6064_%E9%99%84%E4%BB%B61%EF%BC%9A%E6%B9%96%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E8%B5%B4%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%982026%E5%B1%8A%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F%E8%AE%A1%E5%88%92%E8%A1%A8.pdf",
+      "限制/说明": "具名招聘学校只作为有来源的候选样本；学校位置类别、办学性质及质量层级按本稿分别标注，未证实的类别明确留空/无法确认，并按学校计划列明高中与初中层级缺口。",
+      "_sourceRow": 61,
+      "sourceUrls": [
+        "https://zjjcmspublicnew.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/cms_files/filemanager/1572870/attach/202512/3759f039935a460f9c1a5095d7c8527d.pdf",
+        "https://career.zjnu.edu.cn/attachment/zjnu/ueditor/file/20251030/6064_%E9%99%84%E4%BB%B61%EF%BC%9A%E6%B9%96%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E5%B1%80%E8%B5%B4%E6%B5%99%E6%B1%9F%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%982026%E5%B1%8A%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F%E8%AE%A1%E5%88%92%E8%A1%A8.pdf"
+      ]
+    },
+    {
+      "城市": "台州市",
+      "指标": "居民收入统计（非教师工资）",
+      "数值": "{\"urban_disposable_income_cny\":81064,\"rural_disposable_income_cny\":45191,\"source_urls\":[\"https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html\"]}",
+      "单位/口径": "元/年；城市居民统计，不代表教师收入",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html",
+      "限制/说明": "仅作城市背景，不能替代教师薪资信息。",
+      "_sourceRow": 62,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html"
+      ]
+    },
+    {
+      "城市": "台州市",
+      "指标": "交通",
+      "数值": "City transport reply describes S1 operations, S2 construction, rail/high-speed rail integration and cross-county bus links; current project status should be checked for the individual commute.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://www.zjtz.gov.cn/art/2025/8/11/art_1229453625_4054074.html; https://www.zjtz.gov.cn/art/2025/3/26/art_1229429850_59102951.html",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 63,
+      "sourceUrls": [
+        "https://www.zjtz.gov.cn/art/2025/8/11/art_1229453625_4054074.html",
+        "https://www.zjtz.gov.cn/art/2025/3/26/art_1229429850_59102951.html"
+      ]
+    },
+    {
+      "城市": "台州市",
+      "指标": "住房/人才政策",
+      "数值": "2025 municipal sale-type保障性住房 rules cover qualifying worker households and city-needed talent; household income, no-home, local employment/social-insurance and talent-category conditions apply. It is not a general new-graduate housing entitlement.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://www.zjtz.gov.cn/art/2025/7/25/art_1229564401_1720569.html",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 64,
+      "sourceUrls": [
+        "https://www.zjtz.gov.cn/art/2025/7/25/art_1229564401_1720569.html"
+      ]
+    },
+    {
+      "城市": "衢州市",
+      "指标": "居民收入统计（非教师工资）",
+      "数值": "{\"urban_disposable_income_cny\":66658,\"rural_disposable_income_cny\":38009,\"interpretation\":\"居民人均可支配收入，不是教师薪资。\",\"source_urls\":[\"https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html\"]}",
+      "单位/口径": "元/年；城市居民统计，不代表教师收入",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html",
+      "限制/说明": "仅作城市背景，不能替代教师薪资信息。",
+      "_sourceRow": 65,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/jdzb/art/2026/art_41f6eaa68118479885b39b604375350a.html"
+      ]
+    },
+    {
+      "城市": "舟山市",
+      "指标": "居民收入统计（非教师工资）",
+      "数值": "{\"urban_disposable_income_cny\":82911,\"rural_disposable_income_cny\":54902,\"all_resident_disposable_income_cny\":74528,\"all_resident_consumption_cny\":48659,\"source_urls\":[\"https://zjzd.stats.gov.cn/gjtjjzsdcd/dcxx/dcxx/art/2026/art_30434ecfebb04f3baf219f22240c657c.html\"]}",
+      "单位/口径": "元/年；城市居民统计，不代表教师收入",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjzsdcd/dcxx/dcxx/art/2026/art_30434ecfebb04f3baf219f22240c657c.html",
+      "限制/说明": "仅作城市背景，不能替代教师薪资信息。",
+      "_sourceRow": 66,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjzsdcd/dcxx/dcxx/art/2026/art_30434ecfebb04f3baf219f22240c657c.html"
+      ]
+    },
+    {
+      "城市": "舟山市",
+      "指标": "交通",
+      "数值": "Official sources describe island air service and cross-island road/ship connections; 2025 summer schedule included 30 routes/504 weekly airport flights in the reported airport announcement. Island location remains a practical commute variable; no travel-time estimate made.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://zsstb.zhoushan.gov.cn/art/2025/4/1/art_1228973558_58700342.html; https://www.zhoushan.gov.cn/module/download/downfile.jsp?classid=0&filename=175dbff23c694d8ea499017026f4185c.pdf",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 67,
+      "sourceUrls": [
+        "https://zsstb.zhoushan.gov.cn/art/2025/4/1/art_1228973558_58700342.html",
+        "https://www.zhoushan.gov.cn/module/download/downfile.jsp?classid=0&filename=175dbff23c694d8ea499017026f4185c.pdf"
+      ]
+    },
+    {
+      "城市": "舟山市",
+      "指标": "住房/人才政策",
+      "数值": "An official 2018 policy page describes talent public rental housing and purchase subsidies, but current validity and present eligibility were not confirmed. Do not treat it as an active guaranteed benefit.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://www.zhoushan.gov.cn/art/2018/3/8/art_1229029655_43739020.html",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 68,
+      "sourceUrls": [
+        "https://www.zhoushan.gov.cn/art/2018/3/8/art_1229029655_43739020.html"
+      ]
+    },
+    {
+      "城市": "丽水市",
+      "指标": "居民收入统计（非教师工资）",
+      "数值": "{\"urban_disposable_income_cny\":64895,\"rural_disposable_income_cny\":35119,\"all_resident_disposable_income_cny\":52979,\"resident_population_millions\":2.539,\"source_urls\":[\"https://zjzd.stats.gov.cn/gjtjjlsdcd/dcsj/tjgb/art/2026/art_e7a6a6aeec4b49e4ae29551e5500abdd.html\"]}",
+      "单位/口径": "元/年；城市居民统计，不代表教师收入",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计",
+      "证据等级": "S",
+      "来源链接": "https://zjzd.stats.gov.cn/gjtjjlsdcd/dcsj/tjgb/art/2026/art_e7a6a6aeec4b49e4ae29551e5500abdd.html",
+      "限制/说明": "仅作城市背景，不能替代教师薪资信息。",
+      "_sourceRow": 69,
+      "sourceUrls": [
+        "https://zjzd.stats.gov.cn/gjtjjlsdcd/dcsj/tjgb/art/2026/art_e7a6a6aeec4b49e4ae29551e5500abdd.html"
+      ]
+    },
+    {
+      "城市": "丽水市",
+      "指标": "交通",
+      "数值": "High-speed rail service is evidenced at Lishui station; Lishui airport completed a test flight in Apr 2025 and official reporting described commercial aviation as forthcoming at that point; do not claim service started from that source alone.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://www.lishui.gov.cn/art/2025/1/15/art_1229218390_57367731.html; https://www.lishui.gov.cn/art/2025/5/8/art_1229439370_57377123.html",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 70,
+      "sourceUrls": [
+        "https://www.lishui.gov.cn/art/2025/1/15/art_1229218390_57367731.html",
+        "https://www.lishui.gov.cn/art/2025/5/8/art_1229439370_57377123.html"
+      ]
+    },
+    {
+      "城市": "丽水市",
+      "指标": "住房/人才政策",
+      "数值": "City talent-apartment rules exist in the 2020 government notice and 2024 policy promotes eligible employer-developed保障性租赁住房; current eligibility/availability for a new teacher was not established.",
+      "单位/口径": "说明",
+      "数据年份/时点": "截至2026-10-05",
+      "来源类型": "官方政策/信息",
+      "证据等级": "S",
+      "来源链接": "https://www.lishui.gov.cn/module/download/downfile.jsp?classid=0&filename=78786efe2b29428b99dc9549ec06248b.pdf; https://www.lishui.gov.cn/art/2024/7/11/art_1229283450_2524777.html",
+      "限制/说明": "以原公告时效及个人资格核验为准。",
+      "_sourceRow": 71,
+      "sourceUrls": [
+        "https://www.lishui.gov.cn/module/download/downfile.jsp?classid=0&filename=78786efe2b29428b99dc9549ec06248b.pdf",
+        "https://www.lishui.gov.cn/art/2024/7/11/art_1229283450_2524777.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "地区生产总值（GDP）",
+      "数值": 19428.78,
+      "单位/口径": "亿元；同比增长5.2%",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府公报（市统计局数据）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html",
+      "限制/说明": "2025年全年主要统计指标。",
+      "_sourceRow": 72,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "居民人均可支配收入",
+      "数值": 78243,
+      "单位/口径": "元/人；同比增长4.1%",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府公报（市统计局数据）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html",
+      "限制/说明": "全体居民口径。",
+      "_sourceRow": 73,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 86320,
+      "单位/口径": "元/人；同比增长3.9%",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府公报（市统计局数据）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html",
+      "限制/说明": "城镇居民口径。",
+      "_sourceRow": 74,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "农村居民人均可支配收入",
+      "数值": 40471,
+      "单位/口径": "元/人；同比增长4.6%",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府公报（市统计局数据）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html",
+      "限制/说明": "农村居民口径。",
+      "_sourceRow": 75,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/xxgkn/zfgb/202601/t20260130_5783829.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "年末常住人口",
+      "数值": 963.85,
+      "单位/口径": "万人；较2024年末增加6.15万人",
+      "数据年份/时点": "2025年末",
+      "来源类型": "市卫健委人口统计指标",
+      "证据等级": "A",
+      "来源链接": "https://wjw.nanjing.gov.cn/njswshjhsywyh/202607/t20260727_5883557.html",
+      "限制/说明": "表列2024年末957.70万人；2025年末963.85万人。",
+      "_sourceRow": 76,
+      "sourceUrls": [
+        "https://wjw.nanjing.gov.cn/njswshjhsywyh/202607/t20260727_5883557.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "市辖区数量",
+      "数值": 11,
+      "单位/口径": "个；玄武、秦淮、建邺、鼓楼、栖霞、雨花台、江宁、浦口、六合、溧水、高淳",
+      "数据年份/时点": "2025年末",
+      "来源类型": "市政府城市概况",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/zzb/njgl/csgk/qhrk_72673/202609/t20260929_5919738.html",
+      "限制/说明": "招聘管理中江北新区另作区级招聘单元；行政区划统计按11个区口径。",
+      "_sourceRow": 77,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/zzb/njgl/csgk/qhrk_72673/202609/t20260929_5919738.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "机场旅客吞吐量",
+      "数值": 3138,
+      "单位/口径": "万人次",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府办公厅规划（2025年现状值）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html",
+      "限制/说明": "《南京市“十五五”枢纽经济发展规划》现状值。",
+      "_sourceRow": 78,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "高铁运营里程",
+      "数值": 268,
+      "单位/口径": "公里",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府办公厅规划（2025年现状值）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html",
+      "限制/说明": "《南京市“十五五”枢纽经济发展规划》现状值。",
+      "_sourceRow": 79,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "高速公路通车里程",
+      "数值": 556,
+      "单位/口径": "公里",
+      "数据年份/时点": "2025年",
+      "来源类型": "市政府办公厅规划（2025年现状值）",
+      "证据等级": "A",
+      "来源链接": "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html",
+      "限制/说明": "《南京市“十五五”枢纽经济发展规划》现状值。",
+      "_sourceRow": 80,
+      "sourceUrls": [
+        "https://www.nanjing.gov.cn/zzb/zfxxgk/fdzdgknr/szfjbgtwj/202608/t20260805_5889052.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "地铁网络运营规模",
+      "数值": 483.5,
+      "单位/口径": "公里；13条线路、234座车站",
+      "数据年份/时点": "2025年3月底",
+      "来源类型": "联合资信跟踪评级报告（据运营公司资料整理）",
+      "证据等级": "B",
+      "来源链接": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2025-06-13/152811_20250613_ZACO.pdf",
+      "限制/说明": "来源为评级报告整理的公司数据，不与市统计公报口径混用。",
+      "_sourceRow": 81,
+      "sourceUrls": [
+        "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2025-06-13/152811_20250613_ZACO.pdf"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "高校毕业生住房租赁补贴（政策）",
+      "数值": "500—2400元/月，按学历、技能、用人单位及行业分档",
+      "单位/口径": "政策标准；不是教师统一津贴",
+      "数据年份/时点": "2026年政策",
+      "来源类型": "市人社局等十部门官方政策",
+      "证据等级": "A",
+      "来源链接": "https://rsj.nanjing.gov.cn/njsrlzyhshbzj/202603/t20260304_5799867.html",
+      "限制/说明": "例如高技能全日制大专500元/月、重点产业规上企业相关大专600元/月；世界前200高校部分博士2000元/月；特定重点产业硕士960元/月、博士2400元/月，部分累计不超过36个月。学校教师是否符合须按具体就业单位和政策身份判断，不作普遍适用推断。",
+      "_sourceRow": 82,
+      "sourceUrls": [
+        "https://rsj.nanjing.gov.cn/njsrlzyhshbzj/202603/t20260304_5799867.html"
+      ]
+    },
+    {
+      "城市": "南京市",
+      "指标": "青年人才房票标准（购房）",
+      "数值": "大专3万元；本科6万元；硕士10万元；博士15万元",
+      "单位/口径": "房票补贴额度；非现金工资收入",
+      "数据年份/时点": "2026年政策",
+      "来源类型": "市住房保障和房产局官方政策解读",
+      "证据等级": "A",
+      "来源链接": "https://fcj.nanjing.gov.cn/njszfbzhfcj/202604/t20260408_5820143.html",
+      "限制/说明": "适用对象和申请条件有限；区级细则可能提高标准。房票用于购房，不视为工资、租房收入或人人可领取的现金。",
+      "_sourceRow": 83,
+      "sourceUrls": [
+        "https://fcj.nanjing.gov.cn/njszfbzhfcj/202604/t20260408_5820143.html"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "地区生产总值",
+      "数值": 16773.94,
+      "单位/口径": "亿元，现价GDP",
+      "数据年份/时点": "2025年",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml",
+      "限制/说明": "城市宏观指标，不是教师工资或学校招聘数据。",
+      "_sourceRow": 84,
+      "sourceUrls": [
+        "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "常住人口",
+      "数值": 753.74,
+      "单位/口径": "万人",
+      "数据年份/时点": "2025年",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml",
+      "限制/说明": "统计公报口径。",
+      "_sourceRow": 85,
+      "sourceUrls": [
+        "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "居民人均可支配收入",
+      "数值": 75200,
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025年",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml",
+      "限制/说明": "居民总体收入，不是教师薪资。",
+      "_sourceRow": 86,
+      "sourceUrls": [
+        "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 83158,
+      "单位/口径": "元/人/年",
+      "数据年份/时点": "2025年",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml",
+      "限制/说明": "城镇居民总体收入，不是教师薪资。",
+      "_sourceRow": 87,
+      "sourceUrls": [
+        "https://www.wuxi.gov.cn/doc/2026/05/09/4772440.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "城市轨道交通运营里程",
+      "数值": 142,
+      "单位/口径": "公里",
+      "数据年份/时点": "截至2026年5月",
+      "来源类型": "官方交通部门信息",
+      "证据等级": "S",
+      "来源链接": "https://wxjtj.wuxi.gov.cn/doc/2026/05/25/4780695.shtml",
+      "限制/说明": "交通配套背景。",
+      "_sourceRow": 88,
+      "sourceUrls": [
+        "https://wxjtj.wuxi.gov.cn/doc/2026/05/25/4780695.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "高铁运营里程",
+      "数值": 167,
+      "单位/口径": "公里",
+      "数据年份/时点": "截至2026年5月",
+      "来源类型": "官方交通部门信息",
+      "证据等级": "S",
+      "来源链接": "https://wxjtj.wuxi.gov.cn/doc/2026/05/25/4780695.shtml",
+      "限制/说明": "交通配套背景。",
+      "_sourceRow": 89,
+      "sourceUrls": [
+        "https://wxjtj.wuxi.gov.cn/doc/2026/05/25/4780695.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "苏南硕放机场旅客吞吐量",
+      "数值": 1050.4,
+      "单位/口径": "万人次",
+      "数据年份/时点": "2024年",
+      "来源类型": "官方交通运输部门工作总结",
+      "证据等级": "S",
+      "来源链接": "https://wxjtj.wuxi.gov.cn/doc/2025/02/13/4498396.shtml",
+      "限制/说明": "官方总结口径；用于交通背景。",
+      "_sourceRow": 90,
+      "sourceUrls": [
+        "https://wxjtj.wuxi.gov.cn/doc/2025/02/13/4498396.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "公办英语教师实际工资分项",
+      "数值": null,
+      "单位/口径": "基本工资、绩效、公积金、补贴、年终奖",
+      "数据年份/时点": "截至2026-10-06",
+      "来源类型": "未取得",
+      "证据等级": "未取得",
+      "来源链接": "https://jy.wuxi.gov.cn/gggs/; https://hrss.wuxi.gov.cn/zfxxgk/xxgkml/rsxx/sydwzp/zpgg/index.shtml",
+      "限制/说明": "公开招聘公告未披露可配对到初高中英语岗的收入分项；未以城市收入或招聘平台综合年薪代替。",
+      "_sourceRow": 91,
+      "sourceUrls": [
+        "https://jy.wuxi.gov.cn/gggs/",
+        "https://hrss.wuxi.gov.cn/zfxxgk/xxgkml/rsxx/sydwzp/zpgg/index.shtml"
+      ]
+    },
+    {
+      "城市": "无锡市",
+      "指标": "官方租金/教师平均租金",
+      "数值": null,
+      "单位/口径": "元/月",
+      "数据年份/时点": "截至2026-10-06",
+      "来源类型": "未取得",
+      "证据等级": "未取得",
+      "来源链接": "https://jy.wuxi.gov.cn/gggs/; https://hrss.wuxi.gov.cn/zfxxgk/xxgkml/rsxx/sydwzp/zpgg/index.shtml",
+      "限制/说明": "本轮未取得官方可比租金或教师住房成本数据，不估算。",
+      "_sourceRow": 92,
+      "sourceUrls": [
+        "https://jy.wuxi.gov.cn/gggs/",
+        "https://hrss.wuxi.gov.cn/zfxxgk/xxgkml/rsxx/sydwzp/zpgg/index.shtml"
+      ]
+    },
+    {
+      "城市": "徐州市",
+      "指标": "地区生产总值",
+      "数值": 9957.22,
+      "单位/口径": "亿元，2025年",
+      "数据年份/时点": "2025",
+      "来源类型": "二次转载的统计公报数据",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html",
+      "限制/说明": "城市背景指标，不是教师工资；二次转载页面引用徐州市统计公报。",
+      "_sourceRow": 93,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html"
+      ]
+    },
+    {
+      "城市": "徐州市",
+      "指标": "常住人口",
+      "数值": 896.71,
+      "单位/口径": "万人，2025年",
+      "数据年份/时点": "2025",
+      "来源类型": "二次转载的统计公报数据",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html",
+      "限制/说明": "城市背景指标，不是教师工资；二次转载页面引用徐州市统计公报。",
+      "_sourceRow": 94,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html"
+      ]
+    },
+    {
+      "城市": "徐州市",
+      "指标": "居民人均可支配收入",
+      "数值": 42230,
+      "单位/口径": "元/年，2025年全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "二次转载的统计公报数据",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html",
+      "限制/说明": "城市背景指标，不是教师工资；二次转载页面引用徐州市统计公报。",
+      "_sourceRow": 95,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html"
+      ]
+    },
+    {
+      "城市": "徐州市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 48978,
+      "单位/口径": "元/年，2025年",
+      "数据年份/时点": "2025",
+      "来源类型": "二次转载的统计公报数据",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html",
+      "限制/说明": "城市背景指标，不是教师工资；二次转载页面引用徐州市统计公报。",
+      "_sourceRow": 96,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html"
+      ]
+    },
+    {
+      "城市": "徐州市",
+      "指标": "农村居民人均可支配收入",
+      "数值": 30639,
+      "单位/口径": "元/年，2025年",
+      "数据年份/时点": "2025",
+      "来源类型": "二次转载的统计公报数据",
+      "证据等级": "B",
+      "来源链接": "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html",
+      "限制/说明": "城市背景指标，不是教师工资；二次转载页面引用徐州市统计公报。",
+      "_sourceRow": 97,
+      "sourceUrls": [
+        "https://tjgb.hongheiku.com/xjtjgb/xj2020/74173.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "指标": "地区生产总值",
+      "数值": 14210,
+      "单位/口径": "亿元；2025年初步核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "限制/说明": "全市年度总量；统计公报初步核算，不代表居民或教师工资。",
+      "_sourceRow": 98,
+      "sourceUrls": [
+        "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "指标": "常住人口",
+      "数值": 961.6,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 99,
+      "sourceUrls": [
+        "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "指标": "居民人均可支配收入",
+      "数值": 56961,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局济南调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 100,
+      "sourceUrls": [
+        "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 68128,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局济南调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 101,
+      "sourceUrls": [
+        "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html"
+      ]
+    },
+    {
+      "城市": "青岛市",
+      "指标": "地区生产总值",
+      "数值": 17560.67,
+      "单位/口径": "亿元；按市级GDP统一核算",
+      "数据年份/时点": "2025",
+      "来源类型": "青岛政务网发布市统计局经济运行情况",
+      "证据等级": "S",
+      "来源链接": "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml",
+      "限制/说明": "全市年度总量；不代表居民或教师工资。",
+      "_sourceRow": 102,
+      "sourceUrls": [
+        "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml"
+      ]
+    },
+    {
+      "城市": "青岛市",
+      "指标": "常住人口",
+      "数值": 1051.55,
+      "单位/口径": "万人；全市年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "青岛政务网人口简况",
+      "证据等级": "S",
+      "来源链接": "https://www.qingdao.gov.cn/yfqd/qdgk/rkjk/202009/t20200903_66.shtml",
+      "限制/说明": "全市口径；七区人口另有单独口径。",
+      "_sourceRow": 103,
+      "sourceUrls": [
+        "https://www.qingdao.gov.cn/yfqd/qdgk/rkjk/202009/t20200903_66.shtml"
+      ]
+    },
+    {
+      "城市": "青岛市",
+      "指标": "居民人均可支配收入",
+      "数值": 62738,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "青岛政务网发布市统计局/调查队经济运行情况",
+      "证据等级": "S",
+      "来源链接": "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 104,
+      "sourceUrls": [
+        "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml"
+      ]
+    },
+    {
+      "城市": "青岛市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 71703,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "青岛政务网发布市统计局/调查队经济运行情况",
+      "证据等级": "S",
+      "来源链接": "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 105,
+      "sourceUrls": [
+        "https://www.qingdao.gov.cn/ywdt/zwyw/202601/t20260128_10492421.shtml"
+      ]
+    },
+    {
+      "城市": "淄博市",
+      "指标": "地区生产总值",
+      "数值": 5088.89,
+      "单位/口径": "亿元；初步核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html",
+      "限制/说明": "全市年度总量；统计公报初步核算，不代表居民或教师工资。",
+      "_sourceRow": 106,
+      "sourceUrls": [
+        "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html"
+      ]
+    },
+    {
+      "城市": "淄博市",
+      "指标": "常住人口",
+      "数值": 460.64,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 107,
+      "sourceUrls": [
+        "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html"
+      ]
+    },
+    {
+      "城市": "淄博市",
+      "指标": "居民人均可支配收入",
+      "数值": 52062,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局淄博调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 108,
+      "sourceUrls": [
+        "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html"
+      ]
+    },
+    {
+      "城市": "淄博市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 60143,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局淄博调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 109,
+      "sourceUrls": [
+        "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6.html"
+      ]
+    },
+    {
+      "城市": "烟台市",
+      "指标": "地区生产总值",
+      "数值": 11350.98,
+      "单位/口径": "亿元；按地区生产总值统一核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局烟台调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html",
+      "限制/说明": "全市年度总量；不代表居民或教师工资。",
+      "_sourceRow": 110,
+      "sourceUrls": [
+        "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html"
+      ]
+    },
+    {
+      "城市": "烟台市",
+      "指标": "常住人口",
+      "数值": 700.05,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局烟台调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 111,
+      "sourceUrls": [
+        "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html"
+      ]
+    },
+    {
+      "城市": "烟台市",
+      "指标": "居民人均可支配收入",
+      "数值": 53562,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局烟台调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 112,
+      "sourceUrls": [
+        "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html"
+      ]
+    },
+    {
+      "城市": "烟台市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 65009,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局烟台调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 113,
+      "sourceUrls": [
+        "https://www.yantai.gov.cn/col/col43176/art/2026/art_e32aa66a577f49e5a90c3246a32e166f.html"
+      ]
+    },
+    {
+      "城市": "临沂市",
+      "指标": "地区生产总值",
+      "数值": 6862.2,
+      "单位/口径": "亿元；按市级地区生产总值统一核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局临沂调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.linyi.gov.cn/info/1259/15158.htm",
+      "限制/说明": "全市年度总量；不代表居民或教师工资。",
+      "_sourceRow": 114,
+      "sourceUrls": [
+        "https://tjj.linyi.gov.cn/info/1259/15158.htm"
+      ]
+    },
+    {
+      "城市": "临沂市",
+      "指标": "居民人均可支配收入",
+      "数值": 39180,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局临沂调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.linyi.gov.cn/info/1259/15158.htm",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 115,
+      "sourceUrls": [
+        "https://tjj.linyi.gov.cn/info/1259/15158.htm"
+      ]
+    },
+    {
+      "城市": "临沂市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 51513,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局临沂调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.linyi.gov.cn/info/1259/15158.htm",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 116,
+      "sourceUrls": [
+        "https://tjj.linyi.gov.cn/info/1259/15158.htm"
+      ]
+    },
+    {
+      "城市": "泰安市",
+      "指标": "地区生产总值",
+      "数值": 3803.5,
+      "单位/口径": "亿元；初步核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局泰安调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "限制/说明": "全市年度总量；统计公报初步核算，不代表居民或教师工资。",
+      "_sourceRow": 117,
+      "sourceUrls": [
+        "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1"
+      ]
+    },
+    {
+      "城市": "泰安市",
+      "指标": "常住人口",
+      "数值": 523.18,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局泰安调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 118,
+      "sourceUrls": [
+        "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1"
+      ]
+    },
+    {
+      "城市": "泰安市",
+      "指标": "居民人均可支配收入",
+      "数值": 41652,
+      "单位/口径": "元/人；全体居民",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局泰安调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "限制/说明": "居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 119,
+      "sourceUrls": [
+        "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1"
+      ]
+    },
+    {
+      "城市": "泰安市",
+      "指标": "城镇居民人均可支配收入",
+      "数值": 50467,
+      "单位/口径": "元/人",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局/国家统计局泰安调查队统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "限制/说明": "城镇居民收支调查口径，不等于教师工资。",
+      "_sourceRow": 120,
+      "sourceUrls": [
+        "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1"
+      ]
+    },
+    {
+      "城市": "济宁市",
+      "指标": "地区生产总值",
+      "数值": 6128.1,
+      "单位/口径": "亿元；按地区生产总值统一核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf",
+      "限制/说明": "全市年度总量；不代表居民或教师工资。",
+      "_sourceRow": 121,
+      "sourceUrls": [
+        "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf"
+      ]
+    },
+    {
+      "城市": "济宁市",
+      "指标": "常住人口",
+      "数值": 812.93,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 122,
+      "sourceUrls": [
+        "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf"
+      ]
+    },
+    {
+      "城市": "威海市",
+      "指标": "地区生产总值",
+      "数值": 3896.09,
+      "单位/口径": "亿元；初步核算",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html",
+      "限制/说明": "全市年度总量；统计公报初步核算，不代表居民或教师工资。",
+      "_sourceRow": 123,
+      "sourceUrls": [
+        "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html"
+      ]
+    },
+    {
+      "城市": "威海市",
+      "指标": "常住人口",
+      "数值": 291.16,
+      "单位/口径": "万人；年末常住人口",
+      "数据年份/时点": "2025",
+      "来源类型": "市统计局统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html",
+      "限制/说明": "全市年末常住人口口径。",
+      "_sourceRow": 124,
+      "sourceUrls": [
+        "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html"
+      ]
+    }
+  ]
+}

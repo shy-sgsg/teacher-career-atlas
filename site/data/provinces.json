@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "province": "浙江省",
+      "cityCount": 11,
+      "cities": [
+        "丽水市",
+        "台州市",
+        "嘉兴市",
+        "宁波市",
+        "杭州市",
+        "温州市",
+        "湖州市",
+        "绍兴市",
+        "舟山市",
+        "衢州市",
+        "金华市"
+      ],
+      "coverageAll": {
+        "rows": 646,
+        "levels": {
+          "A": 161,
+          "B": 195,
+          "C": 7,
+          "D": 283
+        },
+        "years": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 456,
+        "levels": {
+          "A": 125,
+          "B": 155,
+          "C": 7,
+          "D": 169
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 259,
+        "senior": 55,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": 25,
+      "actualEvidenceRows": 29,
+      "uniqueActualEvidenceRows": 28,
+      "tracking2027Rows": 58,
+      "sourceGradeCounts": {
+        "S": 73,
+        "A": 69,
+        "B": 116,
+        "C": 157,
+        "D": 5
+      },
+      "sourceGradeRecordCount": 420,
+      "dataCompleteness": {
+        "overall": 33,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 63,
+          "plans": 38,
+          "bachelorConditions": 42,
+          "actualBachelorEvidence": 9,
+          "employmentType": 52,
+          "salary": 0,
+          "competition": 9,
+          "lifeData": 37,
+          "current2027": 44
+        }
+      },
+      "mainRecordCount": 420,
+      "schoolSampleRows": 133,
+      "salaryAmountEvidenceRows": 12,
+      "competitionEvidenceRows": 13,
+      "lifeDataRows": 67
+    },
+    {
+      "province": "江苏省",
+      "cityCount": 13,
+      "cities": [
+        "南京市",
+        "南通市",
+        "宿迁市",
+        "常州市",
+        "徐州市",
+        "扬州市",
+        "无锡市",
+        "泰州市",
+        "淮安市",
+        "盐城市",
+        "苏州市",
+        "连云港市",
+        "镇江市"
+      ],
+      "coverageAll": {
+        "rows": 739,
+        "levels": {
+          "A": 216,
+          "B": 289,
+          "C": 1,
+          "D": 233
+        },
+        "years": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 610,
+        "levels": {
+          "A": 215,
+          "B": 283,
+          "C": 1,
+          "D": 111
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 583,
+        "senior": 660,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": 95,
+      "actualEvidenceRows": 54,
+      "uniqueActualEvidenceRows": 54,
+      "tracking2027Rows": 41,
+      "sourceGradeCounts": {
+        "S": 23,
+        "A": 206,
+        "B": 365,
+        "C": 24,
+        "D": 37
+      },
+      "sourceGradeRecordCount": 655,
+      "dataCompleteness": {
+        "overall": 39,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 83,
+          "plans": 63,
+          "bachelorConditions": 44,
+          "actualBachelorEvidence": 31,
+          "employmentType": 48,
+          "salary": 0,
+          "competition": 25,
+          "lifeData": 10,
+          "current2027": 52
+        }
+      },
+      "mainRecordCount": 655,
+      "schoolSampleRows": 137,
+      "salaryAmountEvidenceRows": 18,
+      "competitionEvidenceRows": 25,
+      "lifeDataRows": 26
+    },
+    {
+      "province": "山东省",
+      "cityCount": 16,
+      "cities": [
+        "东营市",
+        "临沂市",
+        "威海市",
+        "德州市",
+        "日照市",
+        "枣庄市",
+        "泰安市",
+        "济南市",
+        "济宁市",
+        "淄博市",
+        "滨州市",
+        "潍坊市",
+        "烟台市",
+        "聊城市",
+        "菏泽市",
+        "青岛市"
+      ],
+      "coverageAll": {
+        "rows": 80,
+        "levels": {
+          "A": 77,
+          "B": 3,
+          "C": 0,
+          "D": 0
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 80,
+        "levels": {
+          "A": 77,
+          "B": 3,
+          "C": 0,
+          "D": 0
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 800,
+        "senior": 337,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 3,
+      "uniqueActualEvidenceRows": 3,
+      "tracking2027Rows": 66,
+      "sourceGradeCounts": {
+        "S": 27,
+        "A": 36,
+        "B": 183,
+        "C": 95,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 341,
+      "dataCompleteness": {
+        "overall": 42,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 100,
+          "plans": 91,
+          "bachelorConditions": 49,
+          "actualBachelorEvidence": 0,
+          "employmentType": 16,
+          "salary": 2,
+          "competition": 71,
+          "lifeData": 16,
+          "current2027": 38
+        }
+      },
+      "mainRecordCount": 341,
+      "schoolSampleRows": 143,
+      "salaryAmountEvidenceRows": 13,
+      "competitionEvidenceRows": 130,
+      "lifeDataRows": 27
+    }
+  ]
+}
