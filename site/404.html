@@ -6,33 +6,8 @@
     <meta name="theme-color" content="#122b44" />
     <meta name="description" content="基于真实招聘公告、拟聘结果与城市数据的英语师范本科生教师就业决策平台。" />
     <title>英语师范教师就业决策平台</title>
-    <script>
-      document.addEventListener('click', (event) => {
-        const link = event.target instanceof Element ? event.target.closest('a[href]') : null;
-        if (!link) return;
-        const url = new URL(link.href, window.location.href);
-        if (url.origin !== window.location.origin || !url.pathname.toLowerCase().endsWith('.md')) return;
-        event.preventDefault();
-        const viewer = window.open('about:blank', '_blank');
-        if (!viewer) {
-          window.location.href = url.href;
-          return;
-        }
-        viewer.document.open();
-        viewer.document.write('<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>城市研究报告</title><style>body{margin:0;background:#f5f7fa;color:#243447;font:16px/1.75 system-ui,sans-serif}main{box-sizing:border-box;width:min(960px,100%);margin:0 auto;padding:24px}pre{margin:0;white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}</style>  <script type="module" crossorigin src="/teacher-career-atlas/assets/index-DB4E8y2E.js"></script>
-  <link rel="stylesheet" crossorigin href="/teacher-career-atlas/assets/index-BZy6xCJZ.css">
-</head><body><main><pre></pre></main></body></html>');
-        viewer.document.close();
-        fetch(url.href).then(async (response) => {
-          if (!response.ok) throw new Error(`HTTP ${response.status}`);
-          const bytes = await response.arrayBuffer();
-          viewer.document.querySelector('pre').textContent = new TextDecoder('utf-8').decode(bytes);
-          viewer.document.title = decodeURIComponent(url.pathname.split('/').pop() || '城市研究报告');
-        }).catch((error) => {
-          viewer.document.querySelector('pre').textContent = `报告读取失败：${error.message}`;
-        });
-      });
-    </script>
+    <script type="module" crossorigin src="/teacher-career-atlas/assets/index-DWlzgfk1.js"></script>
+    <link rel="stylesheet" crossorigin href="/teacher-career-atlas/assets/index-BZy6xCJZ.css">
   </head>
   <body>
     <div id="root"></div>
