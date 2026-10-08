@@ -282,9 +282,10 @@
     },
     {
       "city": "重庆市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/重庆市英语教师就业分析报告.md",
+      "displayPath": "/reports/重庆市英语教师就业分析报告.html",
+      "title": "重庆市英语教师就业分析报告",
+      "available": true
     }
   ],
   "provinceReports": [
@@ -308,6 +309,6 @@
     }
   ],
   "historicalCleanupReport": "/reports/cleanup_report.md",
-  "cityReportFileCount": 41,
+  "cityReportFileCount": 42,
   "provinceReportFileCount": 3
 }

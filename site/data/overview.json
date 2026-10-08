@@ -2,20 +2,20 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-08",
-    "generatedAt": "2026-10-08T22:11:00+08:00",
+    "generatedAt": "2026-10-09T00:10:12+08:00",
     "modelVersion": 1
   },
   "metrics": {
     "provinceCount": 4,
     "cityCount": 41,
     "mainRecordCount": 1497,
-    "annualCoverageRows": 1503,
+    "annualCoverageRows": 1507,
     "explicitPlanRecordCount": 684,
-    "actualBachelorEvidenceRows": 86,
-    "uniqueActualBachelorEvidenceRows": 85,
+    "actualBachelorEvidenceRows": 91,
+    "uniqueActualBachelorEvidenceRows": 90,
     "duplicateActualEvidenceRows": 1,
-    "actualBachelorNominees": 120,
-    "tracking2027Rows": 200
+    "actualBachelorNominees": 125,
+    "tracking2027Rows": 202
   },
   "sourceGradeCounts": {
     "S": 204,
@@ -26,7 +26,7 @@
   },
   "sourceGradeRecordCount": 1497,
   "coverageLevels": {
-    "A": 471,
+    "A": 475,
     "B": 487,
     "C": 8,
     "D": 537
@@ -49,10 +49,10 @@
     "overall": 38,
     "level": "low",
     "dimensions": {
-      "historicalCoverage": 83,
+      "historicalCoverage": 84,
       "plans": 66,
       "bachelorConditions": 44,
-      "actualBachelorEvidence": 12,
+      "actualBachelorEvidence": 14,
       "employmentType": 35,
       "salary": 1,
       "competition": 38,

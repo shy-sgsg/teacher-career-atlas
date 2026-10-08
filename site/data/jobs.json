@@ -118492,12 +118492,12 @@
       "编制/用工类型": "事业单位公开招聘；现有材料未逐岗确认实名编制口径",
       "薪资摘要": null,
       "来源等级": "S",
-      "来源数量": 3,
-      "来源链接": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/t20250219_14321942.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/P020250219597891181496.xlsx; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202502/t20250224_14334396.html",
+      "来源数量": 6,
+      "来源链接": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/t20250219_14321942.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/P020250219597891181496.xlsx; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202502/t20250224_14334396.html; https://nks.edu.cn/xxcms/xxgk/4398.jhtml; https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html",
       "来源关键内容/备注": "2025年季度事业单位公开招聘批次；该批次计划数不等于全年招聘总量。岗位表学历条件：本科以上学历及相应学位。 官方统计重庆市区县事业单位2025年第一季度公开招聘工作人员考试报名统计0224：报名/最终交费人数分别为21/9。",
       "缺失原因": "本科拟聘结果未在本岗位表和报名统计中确认；实际拟聘待与官方拟聘公示匹配。",
-      "地理一致性": "待按招聘单位校址核对现行区县；若原区县跨2025调整，保持历史边界待核。",
-      "数据完整度": "公告、计划学历、报名阶段数据已核；拟聘、学校精确位置待补。",
+      "地理一致性": "学校官网地址为渝北区龙兴渝江大道209号；按2025年政府区划公告与两江新区代码公告，龙兴校址归两江新区。映射证据：https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html; https://nks.edu.cn/xxcms/xxgk/4398.jhtml",
+      "数据完整度": "岗位计划、学历、报名数据及学校地址已核；现行区划已按地址映射。拟聘、薪资仍待补。",
       "最后复核日期": "2026-10-08",
       "是否纳入岗位数量统计": "是",
       "是否纳入本科友好度统计": "是",
@@ -118505,8 +118505,8 @@
       "目标用户匹配度": "B",
       "目标用户匹配依据": "存在本科通道；教师资格、年龄及岗位附加条件未按个人情况确认，按B记录，不推定已满足。",
       "originalDistrictLabel": "渝北区",
-      "canonicalDistrict": null,
-      "scopeType": "historical_boundary",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
       "historicalTargetFit": "B",
       "sourceGrades": [
         "S"
@@ -118526,7 +118526,10 @@
       "sourceUrls": [
         "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/t20250219_14321942.html",
         "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/P020250219597891181496.xlsx",
-        "https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202502/t20250224_14334396.html"
+        "https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202502/t20250224_14334396.html",
+        "https://nks.edu.cn/xxcms/xxgk/4398.jhtml",
+        "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html",
+        "https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html"
       ],
       "hasKnownJuniorPlan": true,
       "hasKnownSeniorPlan": false,

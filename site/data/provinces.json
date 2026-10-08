@@ -84,7 +84,7 @@
         }
       },
       "mainRecordCount": 420,
-      "schoolSampleRows": 133,
+      "schoolSampleRows": 132,
       "salaryAmountEvidenceRows": 12,
       "competitionEvidenceRows": 13,
       "lifeDataRows": 67
@@ -278,26 +278,32 @@
         "重庆市"
       ],
       "coverageAll": {
-        "rows": 38,
+        "rows": 42,
         "levels": {
-          "A": 17,
+          "A": 21,
           "B": 0,
           "C": 0,
           "D": 21
         },
         "years": [
+          2022,
+          2023,
+          2024,
           2025
         ]
       },
       "coverageCore": {
-        "rows": 38,
+        "rows": 42,
         "levels": {
-          "A": 17,
+          "A": 21,
           "B": 0,
           "C": 0,
           "D": 21
         },
         "years": [
+          2022,
+          2023,
+          2024,
           2025
         ]
       },
@@ -306,10 +312,10 @@
         "senior": 54,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": null,
-      "actualEvidenceRows": 0,
-      "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 10,
+      "actualBachelorNominees": 5,
+      "actualEvidenceRows": 5,
+      "uniqueActualEvidenceRows": 5,
+      "tracking2027Rows": 12,
       "sourceGradeCounts": {
         "S": 81,
         "A": 0,
@@ -319,13 +325,13 @@
       },
       "sourceGradeRecordCount": 81,
       "dataCompleteness": {
-        "overall": 16,
+        "overall": 23,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 45,
+          "historicalCoverage": 50,
           "plans": 20,
           "bachelorConditions": 0,
-          "actualBachelorEvidence": 0,
+          "actualBachelorEvidence": 60,
           "employmentType": 0,
           "salary": 0,
           "competition": 0,
@@ -334,7 +340,7 @@
         }
       },
       "mainRecordCount": 81,
-      "schoolSampleRows": 0,
+      "schoolSampleRows": 1,
       "salaryAmountEvidenceRows": 0,
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0
