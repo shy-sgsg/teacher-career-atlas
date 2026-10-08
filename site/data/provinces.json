@@ -278,14 +278,15 @@
         "重庆市"
       ],
       "coverageAll": {
-        "rows": 45,
+        "rows": 49,
         "levels": {
-          "A": 26,
+          "A": 30,
           "B": 0,
           "C": 0,
           "D": 19
         },
         "years": [
+          2021,
           2022,
           2023,
           2024,
@@ -293,14 +294,15 @@
         ]
       },
       "coverageCore": {
-        "rows": 45,
+        "rows": 49,
         "levels": {
-          "A": 26,
+          "A": 30,
           "B": 0,
           "C": 0,
           "D": 19
         },
         "years": [
+          2021,
           2022,
           2023,
           2024,
@@ -308,30 +310,30 @@
         ]
       },
       "historicalPlans": {
-        "junior": 63,
-        "senior": 60,
+        "junior": 72,
+        "senior": 68,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": 19,
-      "actualEvidenceRows": 22,
-      "uniqueActualEvidenceRows": 22,
+      "actualBachelorNominees": 71,
+      "actualEvidenceRows": 54,
+      "uniqueActualEvidenceRows": 54,
       "tracking2027Rows": 12,
       "sourceGradeCounts": {
-        "S": 95,
+        "S": 109,
         "A": 0,
-        "B": 0,
+        "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 95,
+      "sourceGradeRecordCount": 115,
       "dataCompleteness": {
-        "overall": 42,
+        "overall": 46,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 58,
-          "plans": 40,
-          "bachelorConditions": 100,
-          "actualBachelorEvidence": 60,
+          "historicalCoverage": 61,
+          "plans": 60,
+          "bachelorConditions": 95,
+          "actualBachelorEvidence": 80,
           "employmentType": 0,
           "salary": 0,
           "competition": 40,
@@ -339,7 +341,7 @@
           "current2027": 80
         }
       },
-      "mainRecordCount": 95,
+      "mainRecordCount": 115,
       "schoolSampleRows": 1,
       "salaryAmountEvidenceRows": 0,
       "competitionEvidenceRows": 9,

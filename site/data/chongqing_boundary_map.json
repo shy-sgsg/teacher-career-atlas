@@ -288,6 +288,57 @@
       "sourceUrls": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260603_15724156.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260604_15728053.html",
       "notes": "旧公告保留原始区县“渝北区”；该规则只用于可在现行官方区县/主管单位统计中逐校确认的岗位。记录ID：CQ-Q1R-0729。",
       "_sourceRow": 21
+    },
+    {
+      "mappingID": "CQ-LJ-YB2023-NAKAI",
+      "originalDistrictLabel": "渝北区",
+      "historicalDistrictCode": "500112",
+      "canonicalDistrict": "两江新区",
+      "currentDistrictCode": "500157",
+      "scopeType": "single_district",
+      "boundaryValidDate": "2025-11-07",
+      "codePublicationDate": "2025-12-05",
+      "componentDescription": "重庆南开两江中学校；重庆市人力社保局2026年第二季度官方报名统计将该招聘单位归入两江新区。",
+      "recordHandling": "只映射记录 CQ-LJ-2023-YB-Q2-01/02 的2023年英语岗位；不得将旧渝北区整体搬入两江新区。",
+      "schoolLocationEvidence": "2026年第二季度官方报名单位统计与2025年区划调整公告、行政区划代码公告共同支持现行归属。",
+      "sourceGrade": "S",
+      "sourceUrls": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260603_15724156.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260604_15728053.html",
+      "notes": "招聘表保留原始区县“渝北区”；此映射只用于上述学校、上述记录的现行区县汇总。",
+      "_sourceRow": 22
+    },
+    {
+      "mappingID": "CQ-LJ-YB2023-YIZHONG-BOARDING",
+      "originalDistrictLabel": "渝北区",
+      "historicalDistrictCode": "500112",
+      "canonicalDistrict": "两江新区",
+      "currentDistrictCode": "500157",
+      "scopeType": "single_district",
+      "boundaryValidDate": "2025-11-07",
+      "codePublicationDate": "2025-12-05",
+      "componentDescription": "重庆一中寄宿学校；重庆市人力社保局2026年第二季度官方报名统计将该招聘单位归入两江新区。",
+      "recordHandling": "只映射记录 CQ-LJ-2023-YB-Q2-03 的2023年英语岗位；不得将旧渝北区整体搬入两江新区。",
+      "schoolLocationEvidence": "2026年第二季度官方报名单位统计与2025年区划调整公告、行政区划代码公告共同支持现行归属。",
+      "sourceGrade": "S",
+      "sourceUrls": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260603_15724156.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260604_15728053.html",
+      "notes": "招聘表保留原始区县“渝北区”；此映射只用于上述学校、上述记录的现行区县汇总。",
+      "_sourceRow": 23
+    },
+    {
+      "mappingID": "CQ-LJ-YB2023-CROWN",
+      "originalDistrictLabel": "渝北区",
+      "historicalDistrictCode": "500112",
+      "canonicalDistrict": "两江新区",
+      "currentDistrictCode": "500157",
+      "scopeType": "single_district",
+      "boundaryValidDate": "2025-11-07",
+      "codePublicationDate": "2025-12-05",
+      "componentDescription": "重庆皇冠实验中学；重庆市人力社保局2026年第二季度官方报名统计将该招聘单位归入两江新区。",
+      "recordHandling": "只映射记录 CQ-LJ-2023-YB-Q2-04 的2023年英语岗位；不得将旧渝北区整体搬入两江新区。",
+      "schoolLocationEvidence": "2026年第二季度官方报名单位统计与2025年区划调整公告、行政区划代码公告共同支持现行归属。",
+      "sourceGrade": "S",
+      "sourceUrls": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html; https://mzj.cq.gov.cn/zwgk_218/zfxxgkml/tzgg/202512/t20251205_15215632.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260603_15724156.html; https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202606/t20260604_15728053.html",
+      "notes": "招聘表保留原始区县“渝北区”；此映射只用于上述学校、上述记录的现行区县汇总。",
+      "_sourceRow": 24
     }
   ]
 }
