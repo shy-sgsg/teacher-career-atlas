@@ -309,6 +309,7 @@
     }
   ],
   "historicalCleanupReport": "/reports/cleanup_report.md",
+  "historicalCleanupReportDisplayPath": "/reports/cleanup_report.html",
   "cityReportFileCount": 42,
   "provinceReportFileCount": 3
 }
