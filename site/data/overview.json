@@ -2,14 +2,14 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-09",
-    "generatedAt": "2026-10-09T21:57:42+08:00",
+    "generatedAt": "2026-10-09T22:24:13+08:00",
     "modelVersion": 1
   },
   "metrics": {
     "provinceCount": 5,
     "cityCount": 42,
     "mainRecordCount": 1610,
-    "annualCoverageRows": 1528,
+    "annualCoverageRows": 1539,
     "explicitPlanRecordCount": 765,
     "actualBachelorEvidenceRows": 192,
     "uniqueActualBachelorEvidenceRows": 191,
@@ -26,7 +26,7 @@
   },
   "sourceGradeRecordCount": 1610,
   "coverageLevels": {
-    "A": 498,
+    "A": 509,
     "B": 487,
     "C": 8,
     "D": 535

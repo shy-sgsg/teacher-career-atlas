@@ -354,26 +354,28 @@
         "深圳市"
       ],
       "coverageAll": {
-        "rows": 8,
+        "rows": 19,
         "levels": {
-          "A": 8,
+          "A": 19,
           "B": 0,
           "C": 0,
           "D": 0
         },
         "years": [
+          2024,
           2025
         ]
       },
       "coverageCore": {
-        "rows": 8,
+        "rows": 19,
         "levels": {
-          "A": 8,
+          "A": 19,
           "B": 0,
           "C": 0,
           "D": 0
         },
         "years": [
+          2024,
           2025
         ]
       },
