@@ -61986,7 +61986,7 @@
       "city": "重庆市",
       "province": "重庆市",
       "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 147,
+      "mainRecordCount": 153,
       "explicitPlanRecords": 118,
       "coverageAll": {
         "rows": 55,
@@ -62021,26 +62021,26 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 145,
+        "S": 151,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 147,
+      "sourceGradeRecordCount": 153,
       "bachelorLevelCounts": {
         "A": 48,
         "B": 38,
         "C": 11,
         "D": 19,
-        "unknown": 31
+        "unknown": 37
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 46
+        "unknown": 52
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -62051,7 +62051,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 146,
+        "公办/事业单位相关（具体用工看公告）": 152,
         "未明示/待核": 1
       },
       "employmentTypeCounts": {
@@ -62061,7 +62061,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 147
+        "无法判断": 153
       },
       "historyPlans": {
         "junior": 86,
@@ -62070,12 +62070,12 @@
         "masterChannel": 36,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 158,
+      "actualBachelorNominees": 159,
       "actualMasterNominees": 121,
-      "actualEvidenceRows": 100,
-      "uniqueActualEvidenceRows": 100,
+      "actualEvidenceRows": 101,
+      "uniqueActualEvidenceRows": 101,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 68,
+      "positiveBachelorEvidenceRows": 69,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 126,
@@ -62225,7 +62225,7 @@
             1256
           ],
           "notes": [
-            "已核官方拟聘样本：本科21、硕士16（合计37）。江北区2021年6月批次岗位附件确认3个中学英语计划（本科及以上1、研究生学历2），与官方拟聘公示逐岗匹配：本科1、硕士2；初中/高中学段未拆。其余批次计划和英语岗位实际报名数未配齐，不代表全年招聘或录用总量。",
+            "已核官方拟聘样本：本科22、硕士16（合计38）。江北区2021年6月批次岗位附件确认3个中学英语计划（本科及以上1、研究生学历2），与官方拟聘公示逐岗匹配：本科1、硕士2；初中/高中学段未拆。其余批次计划和英语岗位实际报名数未配齐，不代表全年招聘或录用总量。2021年江北区下半年公招官方第一批、第二批拟聘公示补齐英语结果样本；第二批鲁能巴蜀中学校高中英语岗位1新增本科拟聘1人。原岗位附件计划数及报考条件未核；本年度样本不代表全年。",
             "2021年下半年官方岗位表列3校中学英语共7个计划（初高中未拆；本科通道7）。2022-05-20第二批拟聘公示匹配南渝4人（本科3、硕士1）、名校联合2人（本科1、硕士1）；树人1个计划未在该公示匹配，结果状态待核。另有2021其他招聘批次、真实报名数和工资仍待补。",
             "2021年9月14日公开招聘拟聘结果（首批及2名延期体检补录）核初中英语42、高中英语6；12月10日面向应届毕业生招聘结果核初中英语2、高中英语2。合计已核结果52名：本科28、硕士24。岗位计划和报考资格未从原始岗位表核实；结果不代表2021全年所有招聘，不含小学英语及高中国际课程教师。来源为政府拟聘名单。"
           ]
