@@ -84,7 +84,7 @@
         }
       },
       "mainRecordCount": 420,
-      "schoolSampleRows": 132,
+      "schoolSampleRows": 131,
       "salaryAmountEvidenceRows": 12,
       "competitionEvidenceRows": 13,
       "lifeDataRows": 67
@@ -342,7 +342,7 @@
         }
       },
       "mainRecordCount": 126,
-      "schoolSampleRows": 1,
+      "schoolSampleRows": 2,
       "salaryAmountEvidenceRows": 1,
       "competitionEvidenceRows": 25,
       "lifeDataRows": 0
