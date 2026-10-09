@@ -61985,9 +61985,9 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：两江新区2023 Q2、2024 Q2和2025 Q1已补入官方岗位/拟聘匹配；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 139,
-      "explicitPlanRecords": 110,
+      "progressStatus": "研究进行中：两江新区2022 Q2、2023 Q2、2024 Q2及2025 Q1已补入官方岗位、部分拟聘匹配或开考规则；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
+      "mainRecordCount": 145,
+      "explicitPlanRecords": 116,
       "coverageAll": {
         "rows": 55,
         "levels": {
@@ -62021,37 +62021,37 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 137,
+        "S": 143,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 139,
+      "sourceGradeRecordCount": 145,
       "bachelorLevelCounts": {
         "A": 48,
         "B": 37,
         "C": 11,
         "D": 19,
-        "unknown": 24
+        "unknown": 30
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 38
+        "unknown": 44
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 67,
         "C": 10,
         "D": 19,
-        "unknown": 23
+        "unknown": 29
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 139
+        "公办/事业单位相关（具体用工看公告）": 145
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62060,11 +62060,11 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 139
+        "无法判断": 145
       },
       "historyPlans": {
-        "junior": 77,
-        "senior": 80,
+        "junior": 83,
+        "senior": 85,
         "bachelorChannel": 160,
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
@@ -62077,20 +62077,20 @@
       "positiveBachelorEvidenceRows": 67,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
-      "publicServiceRelatedRecordCount": 119,
+      "publicServiceRelatedRecordCount": 125,
       "schoolSampleRows": 5,
-      "salaryRows": 28,
+      "salaryRows": 29,
       "salaryAmountEvidenceRows": 2,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 25,
+      "competitionEvidenceRows": 26,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 53,
+        "overall": 55,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 65,
-          "plans": 60,
-          "bachelorConditions": 92,
+          "plans": 80,
+          "bachelorConditions": 88,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -62105,13 +62105,13 @@
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
             "numerator": 110,
-            "denominator": 119,
+            "denominator": 125,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -62121,7 +62121,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 119,
+            "denominator": 125,
             "unit": "招聘记录"
           },
           "salary": {
@@ -62231,8 +62231,8 @@
         },
         {
           "year": 2022,
-          "junior": null,
-          "senior": null,
+          "junior": 6,
+          "senior": 5,
           "bachelorChannel": null,
           "masterChannel": null,
           "batchCount": 9,
@@ -62250,7 +62250,7 @@
           ],
           "notes": [
             "2022年上半年公开招聘拟聘公示个案；目前仅统计已核官方名单所列本科拟聘个案（1人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
-            "只汇总本轮可直接核对的江北区及两江新区若干官方拟聘名单；未取得对应岗位表、计划分母、报名数据和薪资，故仅为已核样本下限。",
+            "2022年样本全年已核本科拟聘32、硕士22，仍非全年完整拟聘总数。现新增两江新区第二季度一批英语计划下限：初中6、高中5；计划表学历（学位）栏为空，本科/硕士通道均未知。该批次岗位代码匹配拟聘8人（本科5、硕士3）；另有1名延迟体检拟聘的岗位代码“初中英语3”未在该附件英语行匹配，单独保留，不计入8人或11个计划配对。公告规定3:1开考比例，最低可降至2:1；未找到实际报名数。薪资未披露。来源为2022年同年度6个官方URL。",
             "四组官方名单核到英语拟聘样本27人（本科14、硕士13）；完整年度计划及岗位准入附件仍缺。"
           ]
         },
@@ -62422,10 +62422,10 @@
         },
         {
           "district": "两江新区",
-          "juniorPlan": 19,
-          "seniorPlan": 10,
+          "juniorPlan": 25,
+          "seniorPlan": 15,
           "bachelorChannel": 35,
-          "publicServiceRecordCount": 31,
+          "publicServiceRecordCount": 37,
           "coverageLevels": {
             "A": 5,
             "B": 0,
@@ -62434,16 +62434,16 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 45,
+            "overall": 48,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
-              "plans": 60,
-              "bachelorConditions": 81,
+              "plans": 80,
+              "bachelorConditions": 68,
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
-              "competition": 20,
+              "competition": 40,
               "lifeData": 0,
               "current2027": 40
             },
@@ -62454,13 +62454,13 @@
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 3,
+                "numerator": 4,
                 "denominator": 5,
                 "unit": "核心年份"
               },
               "bachelorConditions": {
                 "numerator": 25,
-                "denominator": 31,
+                "denominator": 37,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
@@ -62470,7 +62470,7 @@
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 31,
+                "denominator": 37,
                 "unit": "招聘记录"
               },
               "salary": {
@@ -62479,7 +62479,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 1,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -62501,7 +62501,7 @@
               "D": 0
             }
           },
-          "planYears": 3
+          "planYears": 4
         },
         {
           "district": "两江新区；学校具体校区待核",
