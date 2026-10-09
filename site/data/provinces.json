@@ -319,20 +319,20 @@
       "uniqueActualEvidenceRows": 101,
       "tracking2027Rows": 15,
       "sourceGradeCounts": {
-        "S": 151,
+        "S": 158,
         "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 159,
+      "sourceGradeRecordCount": 166,
       "dataCompleteness": {
         "overall": 59,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 65,
           "plans": 100,
-          "bachelorConditions": 88,
+          "bachelorConditions": 84,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -341,10 +341,10 @@
           "current2027": 80
         }
       },
-      "mainRecordCount": 159,
+      "mainRecordCount": 166,
       "schoolSampleRows": 5,
       "salaryAmountEvidenceRows": 2,
-      "competitionEvidenceRows": 27,
+      "competitionEvidenceRows": 34,
       "lifeDataRows": 0
     }
   ]

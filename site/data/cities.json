@@ -61985,9 +61985,9 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 159,
-      "explicitPlanRecords": 124,
+      "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。 已补两江新区2025年上半年英语岗位计划和报名快照；岗位资格、拟聘与薪资仍待核，全市历史系统检索未完成。",
+      "mainRecordCount": 166,
+      "explicitPlanRecords": 131,
       "coverageAll": {
         "rows": 55,
         "levels": {
@@ -62021,37 +62021,37 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 151,
+        "S": 158,
         "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 159,
+      "sourceGradeRecordCount": 166,
       "bachelorLevelCounts": {
         "A": 48,
         "B": 41,
         "C": 11,
         "D": 22,
-        "unknown": 37
+        "unknown": 44
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 58
+        "unknown": 65
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 67,
         "C": 10,
         "D": 19,
-        "unknown": 37
+        "unknown": 44
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 158,
+        "公办/事业单位相关（具体用工看公告）": 165,
         "未明示/待核": 1
       },
       "employmentTypeCounts": {
@@ -62061,7 +62061,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 159
+        "无法判断": 166
       },
       "historyPlans": {
         "junior": 107,
@@ -62078,12 +62078,12 @@
       "positiveBachelorEvidenceRows": 69,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
-      "publicServiceRelatedRecordCount": 132,
+      "publicServiceRelatedRecordCount": 139,
       "schoolSampleRows": 5,
-      "salaryRows": 30,
+      "salaryRows": 37,
       "salaryAmountEvidenceRows": 2,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 27,
+      "competitionEvidenceRows": 34,
       "lifeDataRows": 0,
       "dataCompleteness": {
         "overall": 59,
@@ -62091,7 +62091,7 @@
         "dimensions": {
           "historicalCoverage": 65,
           "plans": 100,
-          "bachelorConditions": 88,
+          "bachelorConditions": 84,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -62112,7 +62112,7 @@
           },
           "bachelorConditions": {
             "numerator": 117,
-            "denominator": 133,
+            "denominator": 140,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -62122,7 +62122,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 133,
+            "denominator": 140,
             "unit": "招聘记录"
           },
           "salary": {
@@ -62423,10 +62423,10 @@
         },
         {
           "district": "两江新区",
-          "juniorPlan": 49,
+          "juniorPlan": 62,
           "seniorPlan": 20,
           "bachelorChannel": 57,
-          "publicServiceRecordCount": 44,
+          "publicServiceRecordCount": 51,
           "coverageLevels": {
             "A": 5,
             "B": 0,
@@ -62435,12 +62435,12 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 52,
+            "overall": 51,
             "level": "medium",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 100,
-              "bachelorConditions": 71,
+              "bachelorConditions": 62,
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
@@ -62461,7 +62461,7 @@
               },
               "bachelorConditions": {
                 "numerator": 32,
-                "denominator": 45,
+                "denominator": 52,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
@@ -62471,7 +62471,7 @@
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 45,
+                "denominator": 52,
                 "unit": "招聘记录"
               },
               "salary": {
