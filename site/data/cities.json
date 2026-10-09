@@ -61985,7 +61985,7 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：重庆已补沙坪坝和九龙坡若干2021—2025历史批次、拟聘学历和报名数据；重庆其他区县、学校样本、薪资与生活资料仍待核。",
+      "progressStatus": "研究进行中：已补齐两江新区2023第二季度岗位表与拟聘匹配，并配对旧江北区2024第二季度英语计划及学历结果；重庆37区县全量历史、学校位置、薪资和生活数据仍待完成。",
       "mainRecordCount": 126,
       "explicitPlanRecords": 110,
       "coverageAll": {
@@ -62069,12 +62069,12 @@
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 111,
-      "actualMasterNominees": 91,
-      "actualEvidenceRows": 72,
-      "uniqueActualEvidenceRows": 72,
+      "actualBachelorNominees": 116,
+      "actualMasterNominees": 94,
+      "actualEvidenceRows": 76,
+      "uniqueActualEvidenceRows": 76,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 46,
+      "positiveBachelorEvidenceRows": 49,
       "tracking2027Rows": 13,
       "effective2027Records": 8,
       "publicServiceRelatedRecordCount": 119,
@@ -62307,7 +62307,7 @@
             "2024年第一季度教育事业单位招聘批次：初中英语8、高中英语6；14个计划均与官方拟聘名单配对，本科拟聘11、硕士拟聘3。只覆盖该批次，不代表铜梁或重庆全年总量；报名人数及薪资未取得。",
             "2024年第二季度南岸区教育事业单位批次：初中英语计划1人，高中英语0；该初中岗位由本科拟聘1人。只覆盖已核批次，不代表南岸区全年招聘总量；实际报名人数和薪资未取得。",
             "2024年第四季度面向2025届专项招聘英语计划5人：初中英语1人，茄子溪中学2人及西南大学附属中学校2人未拆初高中。特殊本科与硕士通道均覆盖这5个计划，通道数重叠，不可相加为计划总数。官方拟聘学历为本科2、硕士3。报名名单/成绩不是实际报名人数；薪资未披露。",
-            "目前只核到一个江北区批次；岗位表中6个计划标“中学英语”，未拆初高中；未取得实际拟聘、报名数和薪资金额。",
+            "当前仅纳入旧江北区2024年第二季度批次：英语计划8人，其中高中2、中学未拆6；本科通道8。官方拟聘名单已逐岗匹配8人：本科5、硕士3。拟聘学历构成不代表本科录用率；其他年度批次、实际报名人数和薪资仍待核。",
             "高校招聘6个中学岗位未拆学段且本科有特殊路径；人才大会学历和其他专项、工资仍待补。",
             "已核2024年第二季度批次：七十九中学初中英语计划1、报名215/缴费114、官方拟聘本科1人。实际本科拟聘不反推本科准入。2024年其他季度、校招/专项仍待逐项检索，薪资未找到。"
           ]
@@ -62432,13 +62432,13 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 36,
+            "overall": 38,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 60,
               "bachelorConditions": 81,
-              "actualBachelorEvidence": 60,
+              "actualBachelorEvidence": 80,
               "employmentType": 0,
               "salary": 0,
               "competition": 20,
@@ -62462,7 +62462,7 @@
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 3,
+                "numerator": 4,
                 "denominator": 5,
                 "unit": "核心年份"
               },
