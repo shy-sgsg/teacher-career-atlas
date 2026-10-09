@@ -9033,6 +9033,36 @@
         "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202504/t20250418_14536542.html",
         "https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/202504/t20250424_14552322.html"
       ]
+    },
+    {
+      "城市": "重庆市",
+      "信息类型": "公办事业单位招聘开考比例规则（无真实英语报名数）",
+      "年份/批次": "2023年12月公告/2024届高校毕业生招聘",
+      "地区": "两江新区",
+      "招聘方/范围": "重庆两江新区教育事业单位",
+      "岗位": "初中英语33、高中英语32；具体计划人数未取得",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": null,
+      "年终奖": null,
+      "总收入/竞争规则": "报名人数与计划数原则上达到3:1；达到8:1的岗位组织笔试；面试最低可按2:1竞争；无英语岗位实际报名数",
+      "实际报名人数": null,
+      "竞争等级(A/B/C)": "B",
+      "数据来源类型": "官方招聘公告及官方拟聘公示",
+      "来源等级": "S",
+      "数据口径与限制": "仅记录公告规定的开考/笔试比例，不作为实际英语岗位竞争比；未找到真实报名、审核或缴费数据；未披露工资分项。",
+      "来源链接": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html",
+      "备注": "公告日期为2023-12-28，招聘对象为2024届高校毕业生；报名窗口为2024-01-02至01-06。",
+      "originalDistrictLabel": "两江新区",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
+      "_sourceRow": 321,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html"
+      ]
     }
   ]
 }

@@ -61985,8 +61985,8 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。 已补两江新区2025年上半年英语岗位计划和报名快照；岗位资格、拟聘与薪资仍待核，全市历史系统检索未完成。",
-      "mainRecordCount": 166,
+      "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。 已补两江新区2025年上半年英语岗位计划和报名快照；岗位资格、拟聘与薪资仍待核，全市历史系统检索未完成。 两江新区新增2024届校招结果证据，计划数及岗位专属条件仍待核；重庆37个区县级单元历史全量系统检索仍未完成。",
+      "mainRecordCount": 168,
       "explicitPlanRecords": 131,
       "coverageAll": {
         "rows": 55,
@@ -62021,26 +62021,26 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 158,
+        "S": 160,
         "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 166,
+      "sourceGradeRecordCount": 168,
       "bachelorLevelCounts": {
         "A": 48,
         "B": 41,
         "C": 11,
         "D": 22,
-        "unknown": 44
+        "unknown": 46
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 65
+        "unknown": 67
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -62051,7 +62051,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 165,
+        "公办/事业单位相关（具体用工看公告）": 167,
         "未明示/待核": 1
       },
       "employmentTypeCounts": {
@@ -62061,7 +62061,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 166
+        "无法判断": 168
       },
       "historyPlans": {
         "junior": 107,
@@ -62070,20 +62070,20 @@
         "masterChannel": 44,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 159,
-      "actualMasterNominees": 121,
-      "actualEvidenceRows": 101,
-      "uniqueActualEvidenceRows": 101,
+      "actualBachelorNominees": 162,
+      "actualMasterNominees": 124,
+      "actualEvidenceRows": 103,
+      "uniqueActualEvidenceRows": 103,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 69,
+      "positiveBachelorEvidenceRows": 71,
       "tracking2027Rows": 16,
       "effective2027Records": 10,
       "publicServiceRelatedRecordCount": 139,
       "schoolSampleRows": 5,
-      "salaryRows": 37,
+      "salaryRows": 38,
       "salaryAmountEvidenceRows": 2,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 34,
+      "competitionEvidenceRows": 35,
       "lifeDataRows": 0,
       "dataCompleteness": {
         "overall": 59,
@@ -62261,7 +62261,7 @@
           "senior": 17,
           "bachelorChannel": 33,
           "masterChannel": 5,
-          "batchCount": 11,
+          "batchCount": 12,
           "coverageLevels": {
             "A": 4,
             "B": 0,
@@ -62278,7 +62278,7 @@
           "notes": [
             "已核计划下限：2023年3月公开批次铁路中学初中英语1、田家炳中学高中英语1；四季度育才中学高中英语3。仅将四季度高中岗3计入已确认本科通道。另核到2023教育批次育才初中英语本科拟聘1、四季度育才初中/高中英语本科拟聘各1、2024届招聘田家炳初中英语本科拟聘1，连同既有2023个案共本科拟聘至少4。2023年教育批次、四季度初中岗位及应届招聘计划仍未与岗位表完整配对；非全年总量。",
             "2023公告面向2024届；拟聘公示于2024年发布；目前仅统计已核官方名单所列本科拟聘个案（2人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
-            "三批英语计划合计23人：初中9、高中6、学段未拆8。两江新区Q2官方附件确认英语计划8人（初中4、高中4）；该批岗位表学历（学位）栏为空，本科/硕士计划通道未确认。已将Q2的8名拟聘逐岗匹配：本科3、硕士5，作为已核批次下限，不代表全年实际录用总数；其他批次尚未全部匹配。公开资料未给出英语岗位实际报名人数和薪资金额。",
+            "已知初中英语计划下限9、高中英语计划下限6及本科通道15仍仅覆盖已核岗位计划；新增2023-12-28面向2024届高校毕业生公告（总招聘107人），官方2024年第一、第二批拟聘公示可核初中英语岗位33至少3人（本科1、硕士2）、高中英语岗位32至少3人（本科2、硕士1）。新增拟聘本科3、硕士3，使已列拟聘样本下限增至本科6、硕士8；新增批次岗位计划数未从原附件核得，故未计入初高中计划数或本科/硕士计划通道。公告英语通用条件：报名时TEM-4合格，2024-12-31前取得TEM-8，普通话二乙以上，教师资格于2024-07-31前取得。报名数、岗位专属条件和薪资未取得。",
             "14个中学英语计划未拆学段；Q4报名后取消1岗并核减1人。Q2岗位学历通道待复核，无薪资。"
           ]
         },
@@ -62435,7 +62435,7 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 56,
+            "overall": 58,
             "level": "medium",
             "dimensions": {
               "historicalCoverage": 100,
@@ -62444,7 +62444,7 @@
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
-              "competition": 60,
+              "competition": 80,
               "lifeData": 0,
               "current2027": 80
             },
@@ -62480,7 +62480,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 3,
+                "numerator": 4,
                 "denominator": 5,
                 "unit": "核心年份"
               },

@@ -4818,6 +4818,60 @@
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null
+    },
+    {
+      "记录ID": "CQ-AH-LJ-2023-GRAD24-MID-EN",
+      "城市": "重庆市",
+      "地区": "两江新区",
+      "年份/批次": "2024届高校毕业生公开招聘（2023-12-28公告）",
+      "学校": "西大附中星辰学校、两江巴蜀初级中学校、云创初级中学校（岗位编号33）",
+      "学段": "初中",
+      "英语岗位": "初中英语岗位33",
+      "计划人数": null,
+      "本科拟聘人数": 1,
+      "硕士拟聘人数": 2,
+      "本科占比": 0.3333333333333333,
+      "证据类型": "官方拟聘名单按英语岗位编号、学段和学历匹配；原岗位计划附件未取得，计划数留空",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html",
+      "备注": "官方2024年第一批拟聘公示列本科1人、硕士2人；名单按岗位编号33列出上述学校。公告附表中的计划人数未取得，不从拟聘人数反推。",
+      "originalDistrictLabel": "两江新区",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
+      "_sourceRow": 192,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
+    },
+    {
+      "记录ID": "CQ-AH-LJ-2023-GRAD24-HS-EN",
+      "城市": "重庆市",
+      "地区": "两江新区",
+      "年份/批次": "2024届高校毕业生公开招聘（2023-12-28公告）",
+      "学校": "八中两江金溪中学校、礼嘉中学校（高中部）（岗位编号32）",
+      "学段": "高中",
+      "英语岗位": "高中英语岗位32",
+      "计划人数": null,
+      "本科拟聘人数": 2,
+      "硕士拟聘人数": 1,
+      "本科占比": 0.6666666666666666,
+      "证据类型": "官方拟聘名单按英语岗位编号、学段和学历匹配；原岗位计划附件未取得，计划数留空",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html; https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html",
+      "备注": "官方第一批及第二批拟聘公示合计列本科2人、硕士1人；名单按岗位编号32列出上述学校。公告附表中的计划人数未取得，不从拟聘人数反推。",
+      "originalDistrictLabel": "两江新区",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
+      "_sourceRow": 193,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2023/202403/t20240312_13029034.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202408/t20240828_13563380.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202409/t20240919_13643823.html"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
     }
   ]
 }
