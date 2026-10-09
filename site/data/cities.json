@@ -61985,7 +61985,7 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：已补齐两江新区2023第二季度岗位表与拟聘匹配，并配对旧江北区2024第二季度英语计划及学历结果；重庆37区县全量历史、学校位置、薪资和生活数据仍待完成。",
+      "progressStatus": "研究进行中：两江新区2023 Q2、2024 Q2和2025 Q1已补入官方岗位/拟聘匹配；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
       "mainRecordCount": 126,
       "explicitPlanRecords": 110,
       "coverageAll": {
@@ -62069,12 +62069,12 @@
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 116,
-      "actualMasterNominees": 94,
-      "actualEvidenceRows": 76,
-      "uniqueActualEvidenceRows": 76,
+      "actualBachelorNominees": 127,
+      "actualMasterNominees": 95,
+      "actualEvidenceRows": 87,
+      "uniqueActualEvidenceRows": 87,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 49,
+      "positiveBachelorEvidenceRows": 60,
       "tracking2027Rows": 13,
       "effective2027Records": 8,
       "publicServiceRelatedRecordCount": 119,
@@ -62432,13 +62432,13 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 38,
+            "overall": 40,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 60,
               "bachelorConditions": 81,
-              "actualBachelorEvidence": 80,
+              "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
               "competition": 20,
@@ -62462,7 +62462,7 @@
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 4,
+                "numerator": 5,
                 "denominator": 5,
                 "unit": "核心年份"
               },
