@@ -61986,12 +61986,12 @@
       "city": "重庆市",
       "province": "重庆市",
       "progressStatus": "研究进行中：两江新区2023 Q2、2024 Q2和2025 Q1已补入官方岗位/拟聘匹配；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 129,
+      "mainRecordCount": 139,
       "explicitPlanRecords": 110,
       "coverageAll": {
-        "rows": 54,
+        "rows": 55,
         "levels": {
-          "A": 35,
+          "A": 36,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62005,9 +62005,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 54,
+        "rows": 55,
         "levels": {
-          "A": 35,
+          "A": 36,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62021,26 +62021,26 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 127,
+        "S": 137,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 129,
+      "sourceGradeRecordCount": 139,
       "bachelorLevelCounts": {
         "A": 48,
         "B": 37,
         "C": 11,
         "D": 19,
-        "unknown": 14
+        "unknown": 24
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 28
+        "unknown": 38
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -62051,7 +62051,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 129
+        "公办/事业单位相关（具体用工看公告）": 139
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62060,7 +62060,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 129
+        "无法判断": 139
       },
       "historyPlans": {
         "junior": 77,
@@ -62069,18 +62069,18 @@
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 129,
-      "actualMasterNominees": 96,
-      "actualEvidenceRows": 88,
-      "uniqueActualEvidenceRows": 88,
+      "actualBachelorNominees": 157,
+      "actualMasterNominees": 120,
+      "actualEvidenceRows": 98,
+      "uniqueActualEvidenceRows": 98,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 61,
-      "tracking2027Rows": 13,
+      "positiveBachelorEvidenceRows": 67,
+      "tracking2027Rows": 14,
       "effective2027Records": 8,
       "publicServiceRelatedRecordCount": 119,
-      "schoolSampleRows": 4,
-      "salaryRows": 26,
-      "salaryAmountEvidenceRows": 1,
+      "schoolSampleRows": 5,
+      "salaryRows": 28,
+      "salaryAmountEvidenceRows": 2,
       "officialSalaryEvidenceRows": 0,
       "competitionEvidenceRows": 25,
       "lifeDataRows": 0,
@@ -62100,8 +62100,8 @@
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 35,
-            "denominator": 54,
+            "numerator": 36,
+            "denominator": 55,
             "unit": "区域-年份审计行"
           },
           "plans": {
@@ -62146,7 +62146,7 @@
           }
         },
         "coverageLevels": {
-          "A": 35,
+          "A": 36,
           "B": 0,
           "C": 0,
           "D": 19
@@ -62210,21 +62210,23 @@
           "senior": null,
           "bachelorChannel": 7,
           "masterChannel": 0,
-          "batchCount": 5,
+          "batchCount": 7,
           "coverageLevels": {
-            "A": 2,
+            "A": 3,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 3,
           "planSourceRows": [
             1247,
-            1251
+            1251,
+            1256
           ],
           "notes": [
             "只汇总本轮可直接核对的江北区及两江新区若干官方拟聘名单；未取得对应岗位表、计划分母、报名数据和薪资，故仅为已核样本下限。",
-            "2021年下半年官方岗位表列3校中学英语共7个计划（初高中未拆；本科通道7）。2022-05-20第二批拟聘公示匹配南渝4人（本科3、硕士1）、名校联合2人（本科1、硕士1）；树人1个计划未在该公示匹配，结果状态待核。另有2021其他招聘批次、真实报名数和工资仍待补。"
+            "2021年下半年官方岗位表列3校中学英语共7个计划（初高中未拆；本科通道7）。2022-05-20第二批拟聘公示匹配南渝4人（本科3、硕士1）、名校联合2人（本科1、硕士1）；树人1个计划未在该公示匹配，结果状态待核。另有2021其他招聘批次、真实报名数和工资仍待补。",
+            "2021年9月14日公开招聘拟聘结果（首批及2名延期体检补录）核初中英语42、高中英语6；12月10日面向应届毕业生招聘结果核初中英语2、高中英语2。合计已核结果52名：本科28、硕士24。岗位计划和报考资格未从原始岗位表核实；结果不代表2021全年所有招聘，不含小学英语及高中国际课程教师。来源为政府拟聘名单。"
           ]
         },
         {
@@ -62674,20 +62676,20 @@
           "bachelorChannel": 13,
           "publicServiceRecordCount": 14,
           "coverageLevels": {
-            "A": 4,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 4,
+          "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 38,
+            "overall": 40,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 60,
               "bachelorConditions": 79,
-              "actualBachelorEvidence": 60,
+              "actualBachelorEvidence": 80,
               "employmentType": 0,
               "salary": 0,
               "competition": 40,
@@ -62696,8 +62698,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 4,
-                "denominator": 4,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -62711,7 +62713,7 @@
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 3,
+                "numerator": 4,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -62742,7 +62744,7 @@
               }
             },
             "coverageLevels": {
-              "A": 4,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0

@@ -2,31 +2,31 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-09",
-    "generatedAt": "2026-10-09T09:09:54+08:00",
+    "generatedAt": "2026-10-09T09:59:40+08:00",
     "modelVersion": 1
   },
   "metrics": {
     "provinceCount": 4,
     "cityCount": 41,
-    "mainRecordCount": 1545,
-    "annualCoverageRows": 1519,
+    "mainRecordCount": 1555,
+    "annualCoverageRows": 1520,
     "explicitPlanRecordCount": 716,
-    "actualBachelorEvidenceRows": 174,
-    "uniqueActualBachelorEvidenceRows": 173,
+    "actualBachelorEvidenceRows": 184,
+    "uniqueActualBachelorEvidenceRows": 183,
     "duplicateActualEvidenceRows": 1,
-    "actualBachelorNominees": 249,
-    "tracking2027Rows": 207
+    "actualBachelorNominees": 277,
+    "tracking2027Rows": 208
   },
   "sourceGradeCounts": {
-    "S": 250,
+    "S": 260,
     "A": 313,
     "B": 664,
     "C": 276,
     "D": 42
   },
-  "sourceGradeRecordCount": 1545,
+  "sourceGradeRecordCount": 1555,
   "coverageLevels": {
-    "A": 489,
+    "A": 490,
     "B": 487,
     "C": 8,
     "D": 535
@@ -36,14 +36,14 @@
     "B": 193,
     "C": 87,
     "D": 120,
-    "unknown": 984
+    "unknown": 994
   },
   "targetFitLevels": {
     "A": 83,
     "B": 193,
     "C": 82,
     "D": 168,
-    "unknown": 1019
+    "unknown": 1029
   },
   "averageCityCompleteness": {
     "overall": 39,
