@@ -61985,9 +61985,9 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "研究进行中：两江新区2022 Q2、2023 Q2、2024 Q2及2025 Q1已补入官方岗位、部分拟聘匹配或开考规则；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 145,
-      "explicitPlanRecords": 116,
+      "progressStatus": "研究进行中：两江新区2022上半年、Q2及H2范围核对，2023 Q2、2024 Q2与2025 Q1部分证据已补；重庆37县级单元全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
+      "mainRecordCount": 147,
+      "explicitPlanRecords": 118,
       "coverageAll": {
         "rows": 55,
         "levels": {
@@ -62021,37 +62021,38 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 143,
+        "S": 145,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 145,
+      "sourceGradeRecordCount": 147,
       "bachelorLevelCounts": {
         "A": 48,
-        "B": 37,
+        "B": 38,
         "C": 11,
         "D": 19,
-        "unknown": 30
+        "unknown": 31
       },
       "targetFitCounts": {
         "A": 1,
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 44
+        "unknown": 46
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 67,
         "C": 10,
         "D": 19,
-        "unknown": 29
+        "unknown": 31
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 145
+        "公办/事业单位相关（具体用工看公告）": 146,
+        "未明示/待核": 1
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62060,12 +62061,12 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 145
+        "无法判断": 147
       },
       "historyPlans": {
-        "junior": 83,
+        "junior": 86,
         "senior": 85,
-        "bachelorChannel": 160,
+        "bachelorChannel": 163,
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
@@ -62077,12 +62078,12 @@
       "positiveBachelorEvidenceRows": 67,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
-      "publicServiceRelatedRecordCount": 125,
+      "publicServiceRelatedRecordCount": 126,
       "schoolSampleRows": 5,
-      "salaryRows": 29,
+      "salaryRows": 30,
       "salaryAmountEvidenceRows": 2,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 26,
+      "competitionEvidenceRows": 27,
       "lifeDataRows": 0,
       "dataCompleteness": {
         "overall": 55,
@@ -62090,7 +62091,7 @@
         "dimensions": {
           "historicalCoverage": 65,
           "plans": 80,
-          "bachelorConditions": 88,
+          "bachelorConditions": 87,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -62110,8 +62111,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 110,
-            "denominator": 125,
+            "numerator": 111,
+            "denominator": 127,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -62121,7 +62122,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 125,
+            "denominator": 127,
             "unit": "招聘记录"
           },
           "salary": {
@@ -62231,9 +62232,9 @@
         },
         {
           "year": 2022,
-          "junior": 6,
+          "junior": 9,
           "senior": 5,
-          "bachelorChannel": null,
+          "bachelorChannel": 3,
           "masterChannel": null,
           "batchCount": 9,
           "coverageLevels": {
@@ -62250,7 +62251,7 @@
           ],
           "notes": [
             "2022年上半年公开招聘拟聘公示个案；目前仅统计已核官方名单所列本科拟聘个案（1人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
-            "2022年样本全年已核本科拟聘32、硕士22，仍非全年完整拟聘总数。现新增两江新区第二季度一批英语计划下限：初中6、高中5；计划表学历（学位）栏为空，本科/硕士通道均未知。该批次岗位代码匹配拟聘8人（本科5、硕士3）；另有1名延迟体检拟聘的岗位代码“初中英语3”未在该附件英语行匹配，单独保留，不计入8人或11个计划配对。公告规定3:1开考比例，最低可降至2:1；未找到实际报名数。薪资未披露。来源为2022年同年度6个官方URL。",
+            "2022年两江新区及旧江北区已核拟聘样本为本科32、硕士22，仍非全年完整拟聘总数。已核英语计划下限：上半年重庆第一双语学校初中英语3计划3人，Q2初中6、高中5；上半年代码匹配拟聘本科1、硕士1，Q2代码匹配本科5、硕士3。上半年本科通道有2年以上教学经历等附加条件；Q2岗位表学历栏为空，不能反推本科可报。下半年完整岗位清单仅有小学英语、无初高中英语，未计入计划数。报名规则均为3:1、最低可降至2:1，实际报名数和薪资未披露。来源为10个不同官方URL。",
             "四组官方名单核到英语拟聘样本27人（本科14、硕士13）；完整年度计划及岗位准入附件仍缺。"
           ]
         },
@@ -62422,10 +62423,10 @@
         },
         {
           "district": "两江新区",
-          "juniorPlan": 25,
+          "juniorPlan": 28,
           "seniorPlan": 15,
-          "bachelorChannel": 35,
-          "publicServiceRecordCount": 37,
+          "bachelorChannel": 38,
+          "publicServiceRecordCount": 38,
           "coverageLevels": {
             "A": 5,
             "B": 0,
@@ -62434,12 +62435,12 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 48,
+            "overall": 47,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 80,
-              "bachelorConditions": 68,
+              "bachelorConditions": 67,
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
@@ -62459,8 +62460,8 @@
                 "unit": "核心年份"
               },
               "bachelorConditions": {
-                "numerator": 25,
-                "denominator": 37,
+                "numerator": 26,
+                "denominator": 39,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
@@ -62470,7 +62471,7 @@
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 37,
+                "denominator": 39,
                 "unit": "招聘记录"
               },
               "salary": {
