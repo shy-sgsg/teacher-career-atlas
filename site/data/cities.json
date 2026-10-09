@@ -62066,16 +62066,16 @@
       "historyPlans": {
         "junior": 86,
         "senior": 85,
-        "bachelorChannel": 163,
-        "masterChannel": 34,
+        "bachelorChannel": 164,
+        "masterChannel": 36,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 157,
-      "actualMasterNominees": 120,
-      "actualEvidenceRows": 98,
-      "uniqueActualEvidenceRows": 98,
+      "actualBachelorNominees": 158,
+      "actualMasterNominees": 121,
+      "actualEvidenceRows": 100,
+      "uniqueActualEvidenceRows": 100,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 67,
+      "positiveBachelorEvidenceRows": 68,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 126,
@@ -62086,7 +62086,7 @@
       "competitionEvidenceRows": 27,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 55,
+        "overall": 57,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 65,
@@ -62095,7 +62095,7 @@
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
-          "competition": 80,
+          "competition": 100,
           "lifeData": 0,
           "current2027": 80
         },
@@ -62131,7 +62131,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 4,
+            "numerator": 5,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -62209,8 +62209,8 @@
           "year": 2021,
           "junior": null,
           "senior": null,
-          "bachelorChannel": 7,
-          "masterChannel": 0,
+          "bachelorChannel": 8,
+          "masterChannel": 2,
           "batchCount": 7,
           "coverageLevels": {
             "A": 3,
@@ -62225,7 +62225,7 @@
             1256
           ],
           "notes": [
-            "仅为本轮已核官方拟聘名单样本下限：本科20、硕士16（合计36）；其中江北区2021年公示列望江中学中学英语1名硕士。计划分母、岗位附件和报名数据未配齐，不代表全年招聘或录用总量。",
+            "已核官方拟聘样本：本科21、硕士16（合计37）。江北区2021年6月批次岗位附件确认3个中学英语计划（本科及以上1、研究生学历2），与官方拟聘公示逐岗匹配：本科1、硕士2；初中/高中学段未拆。其余批次计划和英语岗位实际报名数未配齐，不代表全年招聘或录用总量。",
             "2021年下半年官方岗位表列3校中学英语共7个计划（初高中未拆；本科通道7）。2022-05-20第二批拟聘公示匹配南渝4人（本科3、硕士1）、名校联合2人（本科1、硕士1）；树人1个计划未在该公示匹配，结果状态待核。另有2021其他招聘批次、真实报名数和工资仍待补。",
             "2021年9月14日公开招聘拟聘结果（首批及2名延期体检补录）核初中英语42、高中英语6；12月10日面向应届毕业生招聘结果核初中英语2、高中英语2。合计已核结果52名：本科28、硕士24。岗位计划和报考资格未从原始岗位表核实；结果不代表2021全年所有招聘，不含小学英语及高中国际课程教师。来源为政府拟聘名单。"
           ]
@@ -62425,7 +62425,7 @@
           "district": "两江新区",
           "juniorPlan": 28,
           "seniorPlan": 15,
-          "bachelorChannel": 38,
+          "bachelorChannel": 39,
           "publicServiceRecordCount": 38,
           "coverageLevels": {
             "A": 5,
@@ -62435,8 +62435,8 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 47,
-            "level": "low",
+            "overall": 50,
+            "level": "medium",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 80,
@@ -62444,7 +62444,7 @@
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
-              "competition": 40,
+              "competition": 60,
               "lifeData": 0,
               "current2027": 40
             },
@@ -62480,7 +62480,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 2,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "核心年份"
               },

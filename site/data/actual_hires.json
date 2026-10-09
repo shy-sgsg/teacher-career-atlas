@@ -2764,19 +2764,21 @@
       "学校": "重庆市望江中学校",
       "学段": "中学未拆",
       "英语岗位": "中学英语",
-      "计划人数": null,
+      "计划人数": 1,
       "本科拟聘人数": 0,
       "硕士拟聘人数": 1,
       "本科占比": 0,
-      "证据类型": "官方拟聘名单逐岗按学历汇总（计划分母未匹配）",
-      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html",
-      "备注": "官方拟聘公示列1名硕士；计划数未在公示中配对。本科拟聘数/本科与硕士拟聘合计仅描述公示样本学历构成，不代表本科计划录用率或报考成功率。",
+      "证据类型": "官方拟聘名单与招聘岗位附件按学校/岗位匹配",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html; https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls",
+      "备注": "官方拟聘公示列重庆市望江中学校中学英语1名硕士；2021-06岗位附件对应中学英语计划1人，学历要求研究生及相应学位、年龄30周岁以下。原公告页目前返回404，岗位附件使用公告附件转载保存件；学段未拆。",
       "originalDistrictLabel": "江北区",
       "canonicalDistrict": "两江新区",
       "scopeType": "single_district",
       "_sourceRow": 113,
       "sourceUrls": [
-        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html"
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html",
+        "https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls"
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null
@@ -4716,6 +4718,60 @@
       "_sourceRow": 188,
       "sourceUrls": [
         "https://cqjlp.gov.cn/bmjz/qzfbm_97119/qjw_97713/zwgk_97124/gkml/jczwgk/ywjy/jsgl/jsgkzp/202212/t20221230_11441289.html"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
+    },
+    {
+      "记录ID": "CQ-AH-LJ-2021-JB-Q2-02",
+      "城市": "重庆市",
+      "地区": "两江新区",
+      "年份/批次": "2021年江北区上半年公开招聘/2021-08-27拟聘公示",
+      "学校": "重庆市字水中学校",
+      "学段": "中学未拆",
+      "英语岗位": "中学英语岗位1",
+      "计划人数": 1,
+      "本科拟聘人数": 0,
+      "硕士拟聘人数": 1,
+      "本科占比": 0,
+      "证据类型": "官方拟聘名单与招聘岗位附件按学校/岗位匹配",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html; https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls",
+      "备注": "官方拟聘公示序号6列字水中学中学英语岗位1拟聘研究生（硕士）1人；岗位附件列计划1人，研究生及相应学位、35周岁以下。要求英语方向专业、普通话二级乙等及以上、英语专业四级及以上；全局简章要求相应教师资格。初中/高中未拆。",
+      "originalDistrictLabel": "江北区",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
+      "_sourceRow": 189,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html",
+        "https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
+    },
+    {
+      "记录ID": "CQ-AH-LJ-2021-JB-Q2-03",
+      "城市": "重庆市",
+      "地区": "两江新区",
+      "年份/批次": "2021年江北区上半年公开招聘/2021-08-27拟聘公示",
+      "学校": "重庆市字水中学校",
+      "学段": "中学未拆",
+      "英语岗位": "中学英语岗位2",
+      "计划人数": 1,
+      "本科拟聘人数": 1,
+      "硕士拟聘人数": 0,
+      "本科占比": 1,
+      "证据类型": "官方拟聘名单与招聘岗位附件按学校/岗位匹配",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html; https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html; https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls",
+      "备注": "官方拟聘公示序号7列字水中学中学英语岗位2拟聘本科（学士）1人；岗位附件列本科及以上学历、相应学位、30周岁以下。要求英语方向专业、普通话二级乙等及以上、英语专业四级及以上；全局简章要求相应教师资格。初中/高中未拆。",
+      "originalDistrictLabel": "江北区",
+      "canonicalDistrict": "两江新区",
+      "scopeType": "single_district",
+      "_sourceRow": 190,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202108/t20210827_9632414.html",
+        "https://rlsbj.cq.gov.cn/zwxx_182/sydw/202106/t20210603_9362515.html",
+        "https://u3.huatu.com/uploads/soft/210604/feaa44ea10ec33e8ce2b9ba254abf75e88903.xls"
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null

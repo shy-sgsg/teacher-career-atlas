@@ -2,7 +2,7 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-09",
-    "generatedAt": "2026-10-09T11:56:17+08:00",
+    "generatedAt": "2026-10-09T12:11:12+08:00",
     "modelVersion": 1
   },
   "metrics": {
@@ -11,10 +11,10 @@
     "mainRecordCount": 1563,
     "annualCoverageRows": 1520,
     "explicitPlanRecordCount": 724,
-    "actualBachelorEvidenceRows": 184,
-    "uniqueActualBachelorEvidenceRows": 183,
+    "actualBachelorEvidenceRows": 186,
+    "uniqueActualBachelorEvidenceRows": 185,
     "duplicateActualEvidenceRows": 1,
-    "actualBachelorNominees": 277,
+    "actualBachelorNominees": 278,
     "tracking2027Rows": 209
   },
   "sourceGradeCounts": {
