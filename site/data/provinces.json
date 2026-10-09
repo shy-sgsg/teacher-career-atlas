@@ -84,7 +84,7 @@
         }
       },
       "mainRecordCount": 420,
-      "schoolSampleRows": 131,
+      "schoolSampleRows": 129,
       "salaryAmountEvidenceRows": 12,
       "competitionEvidenceRows": 13,
       "lifeDataRows": 67
@@ -314,18 +314,18 @@
         "senior": 80,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": 127,
-      "actualEvidenceRows": 87,
-      "uniqueActualEvidenceRows": 87,
+      "actualBachelorNominees": 129,
+      "actualEvidenceRows": 88,
+      "uniqueActualEvidenceRows": 88,
       "tracking2027Rows": 13,
       "sourceGradeCounts": {
-        "S": 124,
+        "S": 127,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 126,
+      "sourceGradeRecordCount": 129,
       "dataCompleteness": {
         "overall": 53,
         "level": "medium",
@@ -341,8 +341,8 @@
           "current2027": 80
         }
       },
-      "mainRecordCount": 126,
-      "schoolSampleRows": 2,
+      "mainRecordCount": 129,
+      "schoolSampleRows": 4,
       "salaryAmountEvidenceRows": 1,
       "competitionEvidenceRows": 25,
       "lifeDataRows": 0

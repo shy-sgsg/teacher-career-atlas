@@ -3564,19 +3564,21 @@
       "学校": "重庆市南渝中学校",
       "学段": "中学（未分）",
       "英语岗位": "中学英语教师",
-      "计划人数": null,
-      "本科拟聘人数": 2,
+      "计划人数": 4,
+      "本科拟聘人数": 3,
       "硕士拟聘人数": 1,
-      "本科占比": 0.6666666666666666,
-      "证据类型": "官方拟聘人员公示（批次汇总）",
-      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html",
-      "备注": "名单核到3人，本科2、硕士1；不代表全年。",
+      "本科占比": 0.75,
+      "证据类型": "官方招聘岗位表与拟聘名单逐校匹配",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html; https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/t20211130_10051660.html; https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/W020211130388979244985.xlsx",
+      "备注": "2022-05-20官方拟聘公示第二批列刘家文、梁心怡、胡强3名本科及曹丽莉1名硕士；岗位表该校计划4人，逐校匹配。",
       "originalDistrictLabel": "沙坪坝区",
       "canonicalDistrict": "沙坪坝区",
       "scopeType": "single_district",
       "_sourceRow": 145,
       "sourceUrls": [
-        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html"
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html",
+        "https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/t20211130_10051660.html",
+        "https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/W020211130388979244985.xlsx"
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null
@@ -4435,6 +4437,33 @@
         "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202509/t20250904_14970434.html",
         "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/t20250219_14321942.html",
         "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202502/P020250219597891181496.xlsx"
+      ],
+      "_duplicateEvidence": false,
+      "_duplicateOf": null
+    },
+    {
+      "记录ID": "SPB-ACT-2021-H2-MXLH",
+      "城市": "重庆市",
+      "地区": "沙坪坝区",
+      "年份/批次": "2021年下半年公开招聘（拟聘公示2022-05）",
+      "学校": "重庆市名校联合中学校",
+      "学段": "中学（未拆）",
+      "英语岗位": "中学英语教师",
+      "计划人数": 2,
+      "本科拟聘人数": 1,
+      "硕士拟聘人数": 1,
+      "本科占比": 0.5,
+      "证据类型": "官方招聘岗位表与拟聘名单逐校匹配",
+      "来源": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html; https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/t20211130_10051660.html; https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/W020211130388979244985.xlsx",
+      "备注": "2022-05-20官方拟聘公示第二批列刘鉴莹1名本科、王亚娜1名硕士；岗位表该校计划2人，逐校匹配。",
+      "originalDistrictLabel": "沙坪坝区",
+      "canonicalDistrict": "沙坪坝区",
+      "scopeType": "single_district",
+      "_sourceRow": 178,
+      "sourceUrls": [
+        "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202205/t20220520_10738880.html",
+        "https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/t20211130_10051660.html",
+        "https://www.cqspb.gov.cn/bm/qjw/jczwgk/ywjy/gsgl/jsgkzp/202111/W020211130388979244985.xlsx"
       ],
       "_duplicateEvidence": false,
       "_duplicateOf": null

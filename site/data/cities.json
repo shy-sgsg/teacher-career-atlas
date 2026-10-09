@@ -100,7 +100,7 @@
       "tracking2027Rows": 18,
       "effective2027Records": 3,
       "publicServiceRelatedRecordCount": 38,
-      "schoolSampleRows": 39,
+      "schoolSampleRows": 37,
       "salaryRows": 36,
       "salaryAmountEvidenceRows": 3,
       "officialSalaryEvidenceRows": 0,
@@ -61986,7 +61986,7 @@
       "city": "重庆市",
       "province": "重庆市",
       "progressStatus": "研究进行中：两江新区2023 Q2、2024 Q2和2025 Q1已补入官方岗位/拟聘匹配；重庆37区县全量历史、其他批次、学校位置、薪资和生活数据仍待完成。",
-      "mainRecordCount": 126,
+      "mainRecordCount": 129,
       "explicitPlanRecords": 110,
       "coverageAll": {
         "rows": 54,
@@ -62021,16 +62021,16 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 124,
+        "S": 127,
         "A": 2,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 126,
+      "sourceGradeRecordCount": 129,
       "bachelorLevelCounts": {
         "A": 48,
-        "B": 34,
+        "B": 37,
         "C": 11,
         "D": 19,
         "unknown": 14
@@ -62039,7 +62039,7 @@
         "A": 1,
         "B": 67,
         "C": 10,
-        "D": 20,
+        "D": 23,
         "unknown": 28
       },
       "recruitmentTargetFitCounts": {
@@ -62051,7 +62051,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 126
+        "公办/事业单位相关（具体用工看公告）": 129
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -62060,25 +62060,25 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 126
+        "无法判断": 129
       },
       "historyPlans": {
         "junior": 77,
         "senior": 80,
-        "bachelorChannel": 153,
+        "bachelorChannel": 160,
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 127,
-      "actualMasterNominees": 95,
-      "actualEvidenceRows": 87,
-      "uniqueActualEvidenceRows": 87,
+      "actualBachelorNominees": 129,
+      "actualMasterNominees": 96,
+      "actualEvidenceRows": 88,
+      "uniqueActualEvidenceRows": 88,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 60,
+      "positiveBachelorEvidenceRows": 61,
       "tracking2027Rows": 13,
       "effective2027Records": 8,
       "publicServiceRelatedRecordCount": 119,
-      "schoolSampleRows": 2,
+      "schoolSampleRows": 4,
       "salaryRows": 26,
       "salaryAmountEvidenceRows": 1,
       "officialSalaryEvidenceRows": 0,
@@ -62208,8 +62208,8 @@
           "year": 2021,
           "junior": null,
           "senior": null,
-          "bachelorChannel": null,
-          "masterChannel": null,
+          "bachelorChannel": 7,
+          "masterChannel": 0,
           "batchCount": 5,
           "coverageLevels": {
             "A": 2,
@@ -62224,7 +62224,7 @@
           ],
           "notes": [
             "只汇总本轮可直接核对的江北区及两江新区若干官方拟聘名单；未取得对应岗位表、计划分母、报名数据和薪资，故仅为已核样本下限。",
-            "官方公示核到南渝中学校中学英语拟聘3人（本科2、硕士1），岗位计划、准入条件、报名、薪资及全年其他批次未配对。"
+            "2021年下半年官方岗位表列3校中学英语共7个计划（初高中未拆；本科通道7）。2022-05-20第二批拟聘公示匹配南渝4人（本科3、硕士1）、名校联合2人（本科1、硕士1）；树人1个计划未在该公示匹配，结果状态待核。另有2021其他招聘批次、真实报名数和工资仍待补。"
           ]
         },
         {
@@ -64580,7 +64580,7 @@
           "district": "沙坪坝区",
           "juniorPlan": 13,
           "seniorPlan": 9,
-          "bachelorChannel": 26,
+          "bachelorChannel": 33,
           "publicServiceRecordCount": 9,
           "coverageLevels": {
             "A": 5,
