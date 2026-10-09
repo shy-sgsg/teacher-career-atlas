@@ -62075,8 +62075,8 @@
       "uniqueActualEvidenceRows": 98,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 67,
-      "tracking2027Rows": 14,
-      "effective2027Records": 8,
+      "tracking2027Rows": 15,
+      "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 119,
       "schoolSampleRows": 5,
       "salaryRows": 28,
@@ -62434,7 +62434,7 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 40,
+            "overall": 45,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
@@ -62445,7 +62445,7 @@
               "salary": 0,
               "competition": 20,
               "lifeData": 0,
-              "current2027": 0
+              "current2027": 40
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -62489,7 +62489,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 0,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
