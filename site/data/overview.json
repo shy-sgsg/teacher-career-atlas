@@ -2,29 +2,29 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-09",
-    "generatedAt": "2026-10-09T16:00:04+08:00",
+    "generatedAt": "2026-10-09T16:23:28+08:00",
     "modelVersion": 1
   },
   "metrics": {
     "provinceCount": 4,
     "cityCount": 41,
-    "mainRecordCount": 1584,
+    "mainRecordCount": 1587,
     "annualCoverageRows": 1520,
-    "explicitPlanRecordCount": 737,
-    "actualBachelorEvidenceRows": 189,
-    "uniqueActualBachelorEvidenceRows": 188,
+    "explicitPlanRecordCount": 740,
+    "actualBachelorEvidenceRows": 192,
+    "uniqueActualBachelorEvidenceRows": 191,
     "duplicateActualEvidenceRows": 1,
-    "actualBachelorNominees": 282,
+    "actualBachelorNominees": 285,
     "tracking2027Rows": 210
   },
   "sourceGradeCounts": {
-    "S": 283,
+    "S": 286,
     "A": 313,
     "B": 670,
     "C": 276,
     "D": 42
   },
-  "sourceGradeRecordCount": 1584,
+  "sourceGradeRecordCount": 1587,
   "coverageLevels": {
     "A": 490,
     "B": 487,
@@ -32,7 +32,7 @@
     "D": 535
   },
   "bachelorLevels": {
-    "A": 161,
+    "A": 164,
     "B": 197,
     "C": 87,
     "D": 123,
@@ -40,7 +40,7 @@
   },
   "targetFitLevels": {
     "A": 83,
-    "B": 193,
+    "B": 196,
     "C": 82,
     "D": 168,
     "unknown": 1058
