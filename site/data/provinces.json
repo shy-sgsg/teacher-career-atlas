@@ -317,15 +317,15 @@
       "actualBachelorNominees": 165,
       "actualEvidenceRows": 106,
       "uniqueActualEvidenceRows": 106,
-      "tracking2027Rows": 16,
+      "tracking2027Rows": 15,
       "sourceGradeCounts": {
-        "S": 163,
+        "S": 158,
         "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 171,
+      "sourceGradeRecordCount": 166,
       "dataCompleteness": {
         "overall": 59,
         "level": "medium",
@@ -341,10 +341,78 @@
           "current2027": 80
         }
       },
-      "mainRecordCount": 171,
+      "mainRecordCount": 166,
       "schoolSampleRows": 5,
-      "salaryAmountEvidenceRows": 5,
-      "competitionEvidenceRows": 38,
+      "salaryAmountEvidenceRows": 2,
+      "competitionEvidenceRows": 34,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "广东省",
+      "cityCount": 1,
+      "cities": [
+        "深圳市"
+      ],
+      "coverageAll": {
+        "rows": 8,
+        "levels": {
+          "A": 8,
+          "B": 0,
+          "C": 0,
+          "D": 0
+        },
+        "years": [
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 8,
+        "levels": {
+          "A": 8,
+          "B": 0,
+          "C": 0,
+          "D": 0
+        },
+        "years": [
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 37,
+        "senior": 7,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 6,
+      "sourceGradeCounts": {
+        "S": 28,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 28,
+      "dataCompleteness": {
+        "overall": 22,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 100,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 20,
+          "lifeData": 0,
+          "current2027": 60
+        }
+      },
+      "mainRecordCount": 28,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 28,
       "lifeDataRows": 0
     }
   ]

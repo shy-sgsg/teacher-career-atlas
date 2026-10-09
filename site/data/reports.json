@@ -286,6 +286,13 @@
       "displayPath": "/reports/重庆市英语教师就业分析报告.html",
       "title": "重庆市英语教师就业分析报告",
       "available": true
+    },
+    {
+      "city": "深圳市",
+      "path": "/reports/深圳市英语教师就业分析报告.md",
+      "displayPath": "/reports/深圳市英语教师就业分析报告.html",
+      "title": "深圳市英语教师就业分析报告",
+      "available": true
     }
   ],
   "provinceReports": [
@@ -310,6 +317,6 @@
   ],
   "historicalCleanupReport": "/reports/cleanup_report.md",
   "historicalCleanupReportDisplayPath": "/reports/cleanup_report.html",
-  "cityReportFileCount": 42,
+  "cityReportFileCount": 43,
   "provinceReportFileCount": 3
 }
