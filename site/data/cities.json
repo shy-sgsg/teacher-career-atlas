@@ -62021,9 +62021,9 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 118,
+        "S": 124,
         "A": 2,
-        "B": 6,
+        "B": 0,
         "C": 0,
         "D": 0
       },
@@ -62069,12 +62069,12 @@
         "masterChannel": 34,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 108,
-      "actualMasterNominees": 86,
-      "actualEvidenceRows": 66,
-      "uniqueActualEvidenceRows": 66,
+      "actualBachelorNominees": 111,
+      "actualMasterNominees": 91,
+      "actualEvidenceRows": 72,
+      "uniqueActualEvidenceRows": 72,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 43,
+      "positiveBachelorEvidenceRows": 46,
       "tracking2027Rows": 13,
       "effective2027Records": 8,
       "publicServiceRelatedRecordCount": 119,
@@ -62275,7 +62275,7 @@
           "notes": [
             "已核计划下限：2023年3月公开批次铁路中学初中英语1、田家炳中学高中英语1；四季度育才中学高中英语3。仅将四季度高中岗3计入已确认本科通道。另核到2023教育批次育才初中英语本科拟聘1、四季度育才初中/高中英语本科拟聘各1、2024届招聘田家炳初中英语本科拟聘1，连同既有2023个案共本科拟聘至少4。2023年教育批次、四季度初中岗位及应届招聘计划仍未与岗位表完整配对；非全年总量。",
             "2023公告面向2024届；拟聘公示于2024年发布；目前仅统计已核官方名单所列本科拟聘个案（2人），非全年总数；岗位计划数、硕士拟聘总数、本科占比及薪资仍未核。",
-            "两江新区一批官方旧格式XLS无法解析，英语岗位数采用可追溯转录并标B，学段明确但学历/资格/本科通道未核；计划8人未拆学段外的岗位资格未汇总；实际拟聘、报名和薪资缺失。",
+            "三批英语计划合计23人：初中9、高中6、学段未拆8。两江新区Q2官方附件确认英语计划8人（初中4、高中4）；该批岗位表学历（学位）栏为空，本科/硕士计划通道未确认。已将Q2的8名拟聘逐岗匹配：本科3、硕士5，作为已核批次下限，不代表全年实际录用总数；其他批次尚未全部匹配。公开资料未给出英语岗位实际报名人数和薪资金额。",
             "14个中学英语计划未拆学段；Q4报名后取消1岗并核减1人。Q2岗位学历通道待复核，无薪资。"
           ]
         },
@@ -62432,13 +62432,13 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 33,
+            "overall": 36,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 60,
               "bachelorConditions": 81,
-              "actualBachelorEvidence": 40,
+              "actualBachelorEvidence": 60,
               "employmentType": 0,
               "salary": 0,
               "competition": 20,
@@ -62462,7 +62462,7 @@
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
-                "numerator": 2,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "核心年份"
               },
