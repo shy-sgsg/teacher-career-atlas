@@ -314,9 +314,9 @@
         "senior": 90,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": 165,
-      "actualEvidenceRows": 106,
-      "uniqueActualEvidenceRows": 106,
+      "actualBachelorNominees": 162,
+      "actualEvidenceRows": 104,
+      "uniqueActualEvidenceRows": 104,
       "tracking2027Rows": 15,
       "sourceGradeCounts": {
         "S": 158,
@@ -354,68 +354,74 @@
         "深圳市"
       ],
       "coverageAll": {
-        "rows": 19,
+        "rows": 55,
         "levels": {
-          "A": 19,
-          "B": 0,
-          "C": 0,
-          "D": 0
+          "A": 47,
+          "B": 1,
+          "C": 6,
+          "D": 1
         },
         "years": [
+          2021,
+          2022,
+          2023,
           2024,
           2025
         ]
       },
       "coverageCore": {
-        "rows": 19,
+        "rows": 55,
         "levels": {
-          "A": 19,
-          "B": 0,
-          "C": 0,
-          "D": 0
+          "A": 47,
+          "B": 1,
+          "C": 6,
+          "D": 1
         },
         "years": [
+          2021,
+          2022,
+          2023,
           2024,
           2025
         ]
       },
       "historicalPlans": {
-        "junior": 46,
-        "senior": 7,
+        "junior": 50,
+        "senior": 10,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": null,
-      "actualEvidenceRows": 0,
-      "uniqueActualEvidenceRows": 0,
+      "actualBachelorNominees": 0,
+      "actualEvidenceRows": 2,
+      "uniqueActualEvidenceRows": 2,
       "tracking2027Rows": 15,
       "sourceGradeCounts": {
-        "S": 28,
+        "S": 32,
         "A": 5,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 33,
+      "sourceGradeRecordCount": 37,
       "dataCompleteness": {
-        "overall": 22,
+        "overall": 30,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 100,
-          "plans": 20,
+          "historicalCoverage": 98,
+          "plans": 80,
           "bachelorConditions": 0,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
           "competition": 20,
-          "lifeData": 0,
+          "lifeData": 13,
           "current2027": 60
         }
       },
-      "mainRecordCount": 33,
-      "schoolSampleRows": 0,
+      "mainRecordCount": 37,
+      "schoolSampleRows": 9,
       "salaryAmountEvidenceRows": 0,
-      "competitionEvidenceRows": 33,
-      "lifeDataRows": 0
+      "competitionEvidenceRows": 35,
+      "lifeDataRows": 5
     }
   ]
 }

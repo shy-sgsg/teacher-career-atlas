@@ -53770,12 +53770,12 @@
         "masterChannel": 44,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 165,
-      "actualMasterNominees": 125,
-      "actualEvidenceRows": 106,
-      "uniqueActualEvidenceRows": 106,
+      "actualBachelorNominees": 162,
+      "actualMasterNominees": 122,
+      "actualEvidenceRows": 104,
+      "uniqueActualEvidenceRows": 104,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 73,
+      "positiveBachelorEvidenceRows": 71,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 139,
@@ -57114,56 +57114,62 @@
     {
       "city": "深圳市",
       "province": "广东省",
-      "progressStatus": "研究中：深圳为唯一当前优先；逐年、逐招聘管理单元补齐2021—2025并完成2027届、拟聘、学校、工资竞争、生活和QA后，再进入其他城市。",
-      "mainRecordCount": 33,
-      "explicitPlanRecords": 33,
+      "progressStatus": "深圳市研究阶段成果已形成；年度分类与2027届检索完成，逐岗计划、学校区位层次、实际薪资等未齐，按公开证据边界继续补充。",
+      "mainRecordCount": 37,
+      "explicitPlanRecords": 37,
       "coverageAll": {
-        "rows": 19,
+        "rows": 55,
         "levels": {
-          "A": 19,
-          "B": 0,
-          "C": 0,
-          "D": 0
+          "A": 47,
+          "B": 1,
+          "C": 6,
+          "D": 1
         },
         "years": [
+          2021,
+          2022,
+          2023,
           2024,
           2025
         ]
       },
       "coverageCore": {
-        "rows": 19,
+        "rows": 55,
         "levels": {
-          "A": 19,
-          "B": 0,
-          "C": 0,
-          "D": 0
+          "A": 47,
+          "B": 1,
+          "C": 6,
+          "D": 1
         },
         "years": [
+          2021,
+          2022,
+          2023,
           2024,
           2025
         ]
       },
       "sourceGradeCounts": {
-        "S": 28,
+        "S": 32,
         "A": 5,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 33,
+      "sourceGradeRecordCount": 37,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 4,
         "C": 0,
         "D": 1,
-        "unknown": 28
+        "unknown": 32
       },
       "targetFitCounts": {
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 5,
-        "unknown": 28
+        "unknown": 32
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -57174,10 +57180,10 @@
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 33
+        "公办/事业单位相关（具体用工看公告）": 37
       },
       "employmentTypeCounts": {
-        "事业编": 5,
+        "事业编": 9,
         "备案制": 0,
         "员额制": 0,
         "合同制": 0,
@@ -57186,49 +57192,49 @@
         "无法判断": 28
       },
       "historyPlans": {
-        "junior": 46,
-        "senior": 7,
+        "junior": 50,
+        "senior": 10,
         "bachelorChannel": 8,
         "masterChannel": 9,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": null,
-      "actualMasterNominees": null,
-      "actualEvidenceRows": 0,
-      "uniqueActualEvidenceRows": 0,
+      "actualBachelorNominees": 0,
+      "actualMasterNominees": 3,
+      "actualEvidenceRows": 2,
+      "uniqueActualEvidenceRows": 2,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
       "tracking2027Rows": 15,
       "effective2027Records": 13,
       "publicServiceRelatedRecordCount": 0,
-      "schoolSampleRows": 0,
-      "salaryRows": 33,
+      "schoolSampleRows": 9,
+      "salaryRows": 35,
       "salaryAmountEvidenceRows": 0,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 33,
-      "lifeDataRows": 0,
+      "competitionEvidenceRows": 35,
+      "lifeDataRows": 5,
       "dataCompleteness": {
-        "overall": 22,
+        "overall": 30,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 100,
-          "plans": 20,
+          "historicalCoverage": 98,
+          "plans": 80,
           "bachelorConditions": 0,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
           "competition": 20,
-          "lifeData": 0,
+          "lifeData": 13,
           "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 19,
-            "denominator": 19,
+            "numerator": 54,
+            "denominator": 55,
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 1,
+            "numerator": 4,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -57258,7 +57264,7 @@
             "unit": "核心年份"
           },
           "lifeData": {
-            "numerator": 0,
+            "numerator": 1,
             "denominator": 8,
             "unit": "生活数据类别"
           },
@@ -57269,10 +57275,10 @@
           }
         },
         "coverageLevels": {
-          "A": 19,
-          "B": 0,
-          "C": 0,
-          "D": 0
+          "A": 47,
+          "B": 1,
+          "C": 6,
+          "D": 1
         }
       },
       "annualPlans": [
@@ -57329,54 +57335,126 @@
         },
         {
           "year": 2021,
-          "junior": null,
-          "senior": null,
+          "junior": 0,
+          "senior": 0,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 10,
           "coverageLevels": {
-            "A": 0,
+            "A": 10,
             "B": 0,
-            "C": 0,
+            "C": 1,
             "D": 0
           },
-          "coverageRows": 0,
-          "planSourceRows": [],
-          "notes": []
+          "coverageRows": 11,
+          "planSourceRows": [
+            1276,
+            1277,
+            1278,
+            1279,
+            1280,
+            1281,
+            1282,
+            1283,
+            1284,
+            1285,
+            1286
+          ],
+          "notes": [
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2021年8月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。"
+          ]
         },
         {
           "year": 2022,
-          "junior": null,
-          "senior": null,
+          "junior": 0,
+          "senior": 0,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 7,
           "coverageLevels": {
-            "A": 0,
+            "A": 7,
             "B": 0,
-            "C": 0,
+            "C": 4,
             "D": 0
           },
-          "coverageRows": 0,
-          "planSourceRows": [],
-          "notes": []
+          "coverageRows": 11,
+          "planSourceRows": [
+            1287,
+            1288,
+            1289,
+            1290,
+            1291,
+            1292,
+            1293,
+            1294,
+            1295,
+            1296,
+            1297
+          ],
+          "notes": [
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2022年5月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。"
+          ]
         },
         {
           "year": 2023,
-          "junior": null,
-          "senior": null,
+          "junior": 0,
+          "senior": 0,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 10,
           "coverageLevels": {
-            "A": 0,
+            "A": 10,
             "B": 0,
-            "C": 0,
+            "C": 1,
             "D": 0
           },
-          "coverageRows": 0,
-          "planSourceRows": [],
-          "notes": []
+          "coverageRows": 11,
+          "planSourceRows": [
+            1298,
+            1299,
+            1300,
+            1301,
+            1302,
+            1303,
+            1304,
+            1305,
+            1306,
+            1307,
+            1308
+          ],
+          "notes": [
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；完整目标岗位清单未列初高中英语，故本批次初高中英语计划记0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。",
+            "2023年5月市（区）属公办中小学公开招聘最终报名表；已确认目标学段英语岗位，但岗位编码、计划与报名行尚未逐岗转录，空值不代表0。年度分类只限该批次，不外推为全年无其他专招/校招。"
+          ]
         },
         {
           "year": 2024,
@@ -57421,18 +57499,18 @@
         },
         {
           "year": 2025,
-          "junior": 46,
-          "senior": 7,
+          "junior": 50,
+          "senior": 10,
           "bachelorChannel": 8,
           "masterChannel": 9,
-          "batchCount": 9,
+          "batchCount": 11,
           "coverageLevels": {
-            "A": 8,
-            "B": 0,
+            "A": 9,
+            "B": 1,
             "C": 0,
-            "D": 0
+            "D": 1
           },
-          "coverageRows": 8,
+          "coverageRows": 11,
           "planSourceRows": [
             1257,
             1258,
@@ -57441,7 +57519,10 @@
             1261,
             1262,
             1263,
-            1264
+            1264,
+            1309,
+            1310,
+            1311
           ],
           "notes": [
             "仅核实2025年11月公开招聘批次：英语计划5人、官方最终报考165人；不等于全年汇总。学历/专业、本科实际拟聘、同年度其他批次仍待核。",
@@ -57451,7 +57532,10 @@
             "仅核实2025年11月公开招聘批次：英语计划6人、官方最终报考222人；不等于全年汇总。学历/专业、本科实际拟聘、同年度其他批次仍待核。",
             "已核两个批次的初中英语计划下限：2025年6月5个岗位/9人、2025年11月6个岗位/16人，共至少11岗/25人；6月批次本科通道8人、硕士通道9人（通道可重叠）。6月5个岗位均要求至少2年对应英语教学经历，因此不适用于2027届应届本科生。11月岗位资格、其他批次、实际本科拟聘和全年最终覆盖仍待核。6月官方成绩名单不等同报名总数。",
             "仅核实2025年11月公开招聘批次：英语计划8人、官方最终报考427人；不等于全年汇总。学历/专业、本科实际拟聘、同年度其他批次仍待核。",
-            "仅核实2025年11月公开招聘批次：英语计划2人、官方最终报考35人；不等于全年汇总。学历/专业、本科实际拟聘、同年度其他批次仍待核。"
+            "仅核实2025年11月公开招聘批次：英语计划2人、官方最终报考35人；不等于全年汇总。学历/专业、本科实际拟聘、同年度其他批次仍待核。",
+            "已确认盐田区有2025年6月公办教师招聘批次；公告附件为岗位表，本轮未能解析并逐岗位核英语学段。2025年11月市级最终报名表中能确认小学英语但不能据此判断6月是否有初高中英语。分类B；不得把未拆字段记为0。",
+            "依据公告和官方成绩名单确认高中英语岗位DP2025005D0002（1人）、D0009（2人），初中英语D0015（2人）、D0022（2人），合计初中4、高中3计划。D0002与D0022拟聘名单及学位可配对；D0009、D0015拟聘名单尚未完成逐岗位匹配。成绩名单不是报名人数，实际报名数不填。岗位学历资格、年度其他招聘批次及工资仍待核。",
+            "已检索的市教育局2025年6月公告目录未列坪山区，2025年11月最终报名人数表也未见坪山区初高中英语岗位；这不能证明全年无招聘，坪山区校招、专项招聘及未索引公告尚未穷尽，故标D而非C。"
           ]
         }
       ],
@@ -57463,12 +57547,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -57485,8 +57569,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -57531,7 +57615,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -57546,12 +57630,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -57568,8 +57652,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -57614,7 +57698,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -57624,23 +57708,23 @@
         },
         {
           "district": "坪山区",
-          "juniorPlan": null,
-          "seniorPlan": null,
+          "juniorPlan": 0,
+          "seniorPlan": 0,
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
             "A": 1,
             "B": 0,
-            "C": 0,
-            "D": 0
+            "C": 3,
+            "D": 1
           },
-          "coverageRows": 1,
+          "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 18,
+            "overall": 22,
             "level": "low",
             "dimensions": {
-              "historicalCoverage": 100,
-              "plans": 0,
+              "historicalCoverage": 80,
+              "plans": 60,
               "bachelorConditions": 0,
               "actualBachelorEvidence": 0,
               "employmentType": 0,
@@ -57651,12 +57735,12 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 1,
-                "denominator": 1,
+                "numerator": 4,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 0,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -57699,47 +57783,47 @@
             "coverageLevels": {
               "A": 1,
               "B": 0,
-              "C": 0,
-              "D": 0
+              "C": 3,
+              "D": 1
             }
           },
-          "planYears": 0
+          "planYears": 3
         },
         {
           "district": "大鹏新区",
-          "juniorPlan": null,
-          "seniorPlan": null,
+          "juniorPlan": 4,
+          "seniorPlan": 3,
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 1,
+            "A": 4,
             "B": 0,
-            "C": 0,
+            "C": 1,
             "D": 0
           },
-          "coverageRows": 1,
+          "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 11,
+            "overall": 18,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
-              "plans": 0,
+              "plans": 40,
               "bachelorConditions": 0,
               "actualBachelorEvidence": 0,
               "employmentType": 0,
               "salary": 0,
-              "competition": 0,
+              "competition": 20,
               "lifeData": 0,
               "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 1,
-                "denominator": 1,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 0,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -57764,7 +57848,7 @@
                 "unit": "核心年份"
               },
               "competition": {
-                "numerator": 0,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -57780,13 +57864,13 @@
               }
             },
             "coverageLevels": {
-              "A": 1,
+              "A": 4,
               "B": 0,
-              "C": 0,
+              "C": 1,
               "D": 0
             }
           },
-          "planYears": 0
+          "planYears": 2
         },
         {
           "district": "宝安区",
@@ -57795,12 +57879,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -57817,8 +57901,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -57863,7 +57947,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -57878,12 +57962,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -57900,8 +57984,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -57946,7 +58030,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -57956,100 +58040,17 @@
         },
         {
           "district": "盐田区",
-          "juniorPlan": null,
-          "seniorPlan": null,
+          "juniorPlan": 0,
+          "seniorPlan": 0,
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 1,
-            "B": 0,
-            "C": 0,
+            "A": 3,
+            "B": 1,
+            "C": 1,
             "D": 0
           },
-          "coverageRows": 1,
-          "dataCompleteness": {
-            "overall": 11,
-            "level": "low",
-            "dimensions": {
-              "historicalCoverage": 100,
-              "plans": 0,
-              "bachelorConditions": 0,
-              "actualBachelorEvidence": 0,
-              "employmentType": 0,
-              "salary": 0,
-              "competition": 0,
-              "lifeData": 0,
-              "current2027": 0
-            },
-            "dimensionDetails": {
-              "historicalCoverage": {
-                "numerator": 1,
-                "denominator": 1,
-                "unit": "区域-年份审计行"
-              },
-              "plans": {
-                "numerator": 0,
-                "denominator": 5,
-                "unit": "核心年份"
-              },
-              "bachelorConditions": {
-                "numerator": 0,
-                "denominator": 0,
-                "unit": "招聘记录"
-              },
-              "actualBachelorEvidence": {
-                "numerator": 0,
-                "denominator": 5,
-                "unit": "核心年份"
-              },
-              "employmentType": {
-                "numerator": 0,
-                "denominator": 0,
-                "unit": "招聘记录"
-              },
-              "salary": {
-                "numerator": 0,
-                "denominator": 5,
-                "unit": "核心年份"
-              },
-              "competition": {
-                "numerator": 0,
-                "denominator": 5,
-                "unit": "核心年份"
-              },
-              "lifeData": {
-                "numerator": 0,
-                "denominator": 8,
-                "unit": "生活数据类别"
-              },
-              "current2027": {
-                "numerator": 0,
-                "denominator": 5,
-                "unit": "招聘路径"
-              }
-            },
-            "coverageLevels": {
-              "A": 1,
-              "B": 0,
-              "C": 0,
-              "D": 0
-            }
-          },
-          "planYears": 0
-        },
-        {
-          "district": "福田区",
-          "juniorPlan": 3,
-          "seniorPlan": null,
-          "bachelorChannel": null,
-          "publicServiceRecordCount": 0,
-          "coverageLevels": {
-            "A": 2,
-            "B": 0,
-            "C": 0,
-            "D": 0
-          },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -58066,8 +58067,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -58112,7 +58113,90 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 3,
+              "B": 1,
+              "C": 1,
+              "D": 0
+            }
+          },
+          "planYears": 1
+        },
+        {
+          "district": "福田区",
+          "juniorPlan": 3,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 5,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 5,
+          "dataCompleteness": {
+            "overall": 16,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 100,
+              "plans": 20,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 20,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 5,
+                "denominator": 5,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -58127,12 +58211,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -58149,8 +58233,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -58195,7 +58279,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -58210,12 +58294,12 @@
           "bachelorChannel": null,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 5,
             "B": 0,
             "C": 0,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
             "overall": 16,
             "level": "low",
@@ -58232,8 +58316,8 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
@@ -58278,7 +58362,7 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 5,
               "B": 0,
               "C": 0,
               "D": 0
@@ -58289,22 +58373,22 @@
         {
           "district": "龙岗区",
           "juniorPlan": 25,
-          "seniorPlan": null,
+          "seniorPlan": 0,
           "bachelorChannel": 8,
           "publicServiceRecordCount": 0,
           "coverageLevels": {
-            "A": 2,
+            "A": 4,
             "B": 0,
-            "C": 0,
+            "C": 1,
             "D": 0
           },
-          "coverageRows": 2,
+          "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 16,
+            "overall": 18,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
-              "plans": 20,
+              "plans": 40,
               "bachelorConditions": 0,
               "actualBachelorEvidence": 0,
               "employmentType": 0,
@@ -58315,12 +58399,12 @@
             },
             "dimensionDetails": {
               "historicalCoverage": {
-                "numerator": 2,
-                "denominator": 2,
+                "numerator": 5,
+                "denominator": 5,
                 "unit": "区域-年份审计行"
               },
               "plans": {
-                "numerator": 1,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -58361,13 +58445,13 @@
               }
             },
             "coverageLevels": {
-              "A": 2,
+              "A": 4,
               "B": 0,
-              "C": 0,
+              "C": 1,
               "D": 0
             }
           },
-          "planYears": 1
+          "planYears": 2
         }
       ]
     }

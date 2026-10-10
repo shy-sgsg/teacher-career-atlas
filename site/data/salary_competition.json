@@ -9967,6 +9967,62 @@
         "https://www.lg.gov.cn/attachment/1/1590/1590140/12211097.pdf",
         "https://www.lg.gov.cn/attachment/1/1616/1616898/12335246.pdf"
       ]
+    },
+    {
+      "城市": "深圳市",
+      "信息类型": "竞争规则（1:5面试比例）",
+      "年份/批次": "2025年6月区属公办中小学招聘",
+      "地区": "大鹏新区",
+      "招聘方/范围": "大鹏新区教育和卫生健康局",
+      "岗位": "区属教师招聘批次（岗位级报名数未取得）",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": null,
+      "年终奖": null,
+      "总收入/竞争规则": "公告明确按1:5比例确定进入面试范围；不等于报考人数或实际竞争比。",
+      "实际报名人数": null,
+      "竞争等级(A/B/C)": "B",
+      "数据来源类型": "官方招聘公告",
+      "来源等级": "S",
+      "数据口径与限制": "只记录公告规定的面试比例；未取得岗位最终报名总数，不估算报名人数。",
+      "来源链接": "https://www.dpxq.gov.cn/xxgk/xxgk/rsxx/zkzp_94974/content/post_12211122.html",
+      "备注": "工资字段未披露，空值不代表0。",
+      "originalDistrictLabel": "大鹏新区",
+      "canonicalDistrict": "大鹏新区",
+      "scopeType": "functional_zone",
+      "_sourceRow": 354,
+      "sourceUrls": [
+        "https://www.dpxq.gov.cn/xxgk/xxgk/rsxx/zkzp_94974/content/post_12211122.html"
+      ]
+    },
+    {
+      "城市": "深圳市",
+      "信息类型": "竞争规则（1:5面试比例）",
+      "年份/批次": "2025年6月区属公办中小学招聘",
+      "地区": "盐田区",
+      "招聘方/范围": "盐田区教育局",
+      "岗位": "区属教师招聘批次（岗位级报名数未取得）",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": null,
+      "年终奖": null,
+      "总收入/竞争规则": "公告明确开考/入围按1:5比例组织；岗位报名人数未取得。",
+      "实际报名人数": null,
+      "竞争等级(A/B/C)": "B",
+      "数据来源类型": "官方招聘公告",
+      "来源等级": "S",
+      "数据口径与限制": "只记录公告规定的比例；未取得岗位最终报名总数，不估算报名人数。",
+      "来源链接": "https://www.yantian.gov.cn/ytjyj/gkmlpt/content/12/12211/mpost_12211197.html",
+      "备注": "本记录为公告批次层面竞争规则；工资字段未披露。",
+      "originalDistrictLabel": "盐田区",
+      "canonicalDistrict": "盐田区",
+      "scopeType": "single_district",
+      "_sourceRow": 355,
+      "sourceUrls": [
+        "https://www.yantian.gov.cn/ytjyj/gkmlpt/content/12/12211/mpost_12211197.html"
+      ]
     }
   ]
 }

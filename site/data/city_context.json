@@ -1815,6 +1815,81 @@
       "sourceUrls": [
         "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html"
       ]
+    },
+    {
+      "城市": "深圳市",
+      "指标": "居民人均可支配收入",
+      "数值": 84945,
+      "单位/口径": "元/人/年；全年居民人均口径",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html",
+      "限制/说明": "收入水平，不是教师工资或教师到手收入。 深圳市2025年国民经济和社会发展统计公报数据；不能直接推算具体教师待遇或岗位数量。",
+      "_sourceRow": 125,
+      "sourceUrls": [
+        "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html"
+      ]
+    },
+    {
+      "城市": "深圳市",
+      "指标": "居民人均消费支出",
+      "数值": 53548,
+      "单位/口径": "元/人/年；全年居民人均口径",
+      "数据年份/时点": "2025",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html",
+      "限制/说明": "城市居民消费口径，不等同个人求职者生活成本。 深圳市2025年国民经济和社会发展统计公报数据；不能直接推算具体教师待遇或岗位数量。",
+      "_sourceRow": 126,
+      "sourceUrls": [
+        "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html"
+      ]
+    },
+    {
+      "城市": "深圳市",
+      "指标": "各级各类学校数",
+      "数值": 2996,
+      "单位/口径": "所；年末全市各级各类学校总数",
+      "数据年份/时点": "2025年末",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html",
+      "限制/说明": "覆盖幼儿园、中小学及高校，不是中小学教师岗位数。 深圳市2025年国民经济和社会发展统计公报数据；不能直接推算具体教师待遇或岗位数量。",
+      "_sourceRow": 127,
+      "sourceUrls": [
+        "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html"
+      ]
+    },
+    {
+      "城市": "深圳市",
+      "指标": "普通中学数",
+      "数值": 602,
+      "单位/口径": "所；年末普通中学数量",
+      "数据年份/时点": "2025年末",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html",
+      "限制/说明": "未拆高中与初中学校数。 深圳市2025年国民经济和社会发展统计公报数据；不能直接推算具体教师待遇或岗位数量。",
+      "_sourceRow": 128,
+      "sourceUrls": [
+        "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html"
+      ]
+    },
+    {
+      "城市": "深圳市",
+      "指标": "普通中学在校学生",
+      "数值": 794200,
+      "单位/口径": "人；年末普通中学在校生",
+      "数据年份/时点": "2025年末",
+      "来源类型": "官方统计公报",
+      "证据等级": "S",
+      "来源链接": "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html",
+      "限制/说明": "全市合计，未拆学段、区县或学校。 深圳市2025年国民经济和社会发展统计公报数据；不能直接推算具体教师待遇或岗位数量。",
+      "_sourceRow": 129,
+      "sourceUrls": [
+        "https://tjj.sz.gov.cn/zwgk/zfxxgkml/tjsj/tjgb/content/post_12803919.html"
+      ]
     }
   ]
 }
