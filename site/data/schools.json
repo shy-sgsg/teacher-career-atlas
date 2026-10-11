@@ -6732,7 +6732,7 @@
       "学校身份/位置来源": "学校/招聘身份据官方招聘公告、拟聘名单或学校官网；具体校址和城区/县城/乡镇属性须逐校核原始官方地址。",
       "备注": "2025年11月官方初中英语岗位；学校位置属性、官方层次未核。",
       "originalDistrictLabel": "福田区",
-      "canonicalDistrict": null,
+      "canonicalDistrict": "福田区",
       "scopeType": "single_district",
       "_sourceRow": 425
     },
@@ -6748,7 +6748,7 @@
       "学校身份/位置来源": "学校/招聘身份据官方招聘公告、拟聘名单或学校官网；具体校址和城区/县城/乡镇属性须逐校核原始官方地址。",
       "备注": "2024年5月官方初中英语岗位；官方重点/普通层次未核。",
       "originalDistrictLabel": "南山区",
-      "canonicalDistrict": null,
+      "canonicalDistrict": "南山区",
       "scopeType": "single_district",
       "_sourceRow": 426
     },
