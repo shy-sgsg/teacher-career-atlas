@@ -53685,7 +53685,7 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "重庆阶段进行中：当前为两江新区。2027届机会和2026届官方竞争参照已复核；新增2024年赴北京招聘2025届英语岗位表、延期报名日期及13名拟聘学历匹配。历史其他批次、学校位置、用工细项、薪资、生活数据及边界QA仍待完成。",
+      "progressStatus": "重庆阶段进行中：当前为两江新区。2027届机会和2026届官方竞争参照已复核；新增2024年赴北京招聘2025届条件与拟聘，补齐2025年上半年7组英语岗位附件、学历门槛和10名拟聘学历匹配。2021—2025其它招聘批次、学校位置、用工细项、薪资、生活数据及边界QA仍待完成。",
       "mainRecordCount": 178,
       "explicitPlanRecords": 142,
       "coverageAll": {
@@ -53730,10 +53730,10 @@
       "sourceGradeRecordCount": 178,
       "bachelorLevelCounts": {
         "A": 48,
-        "B": 49,
+        "B": 53,
         "C": 14,
-        "D": 22,
-        "unknown": 45
+        "D": 25,
+        "unknown": 38
       },
       "targetFitCounts": {
         "A": 1,
@@ -53766,16 +53766,16 @@
       "historyPlans": {
         "junior": 122,
         "senior": 94,
-        "bachelorChannel": 201,
-        "masterChannel": 44,
+        "bachelorChannel": 205,
+        "masterChannel": 53,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
-      "actualBachelorNominees": 167,
-      "actualMasterNominees": 130,
-      "actualEvidenceRows": 113,
-      "uniqueActualEvidenceRows": 113,
+      "actualBachelorNominees": 171,
+      "actualMasterNominees": 136,
+      "actualEvidenceRows": 120,
+      "uniqueActualEvidenceRows": 120,
       "duplicateActualEvidenceRows": 0,
-      "positiveBachelorEvidenceRows": 76,
+      "positiveBachelorEvidenceRows": 80,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 150,
@@ -53791,7 +53791,7 @@
         "dimensions": {
           "historicalCoverage": 65,
           "plans": 100,
-          "bachelorConditions": 85,
+          "bachelorConditions": 89,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -53811,7 +53811,7 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 128,
+            "numerator": 135,
             "denominator": 151,
             "unit": "招聘记录"
           },
@@ -54019,8 +54019,8 @@
           "year": 2025,
           "junior": 53,
           "senior": 54,
-          "bachelorChannel": 86,
-          "masterChannel": 24,
+          "bachelorChannel": 90,
+          "masterChannel": 33,
           "batchCount": 7,
           "coverageLevels": {
             "A": 19,
@@ -54033,7 +54033,7 @@
             1201
           ],
           "notes": [
-            "2025年重庆市区县事业单位7个季度集中公开/考核招聘批次；英语岗位81条、计划110人（初中53、高中54、初高中未拆3；本科通道86、硕士硬门槛24）。只代表已检季度批次，不是全年总招聘量；同一批次只在此市级汇总行计一次。"
+            "2025年重庆市区县事业单位7个季度集中公开/考核招聘批次；英语岗位81条、计划110人（初中53、高中54、初高中未拆3；本科通道90、硕士硬门槛33）。本轮在既有批次总量中补核两江新区上半年13个初中英语计划的学历条件：4个本科通道、9个研究生硬门槛。计划数不重复累加；该批官方名单匹配拟聘本科4、硕士6，另有3个计划未匹配到公示结果。只代表已核季度批次，不是全年总招聘量。"
           ]
         }
       ],
@@ -54125,7 +54125,7 @@
           "district": "两江新区",
           "juniorPlan": 77,
           "seniorPlan": 24,
-          "bachelorChannel": 76,
+          "bachelorChannel": 80,
           "publicServiceRecordCount": 62,
           "coverageLevels": {
             "A": 5,
@@ -54135,12 +54135,12 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 56,
+            "overall": 58,
             "level": "medium",
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 100,
-              "bachelorConditions": 68,
+              "bachelorConditions": 79,
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
@@ -54160,7 +54160,7 @@
                 "unit": "核心年份"
               },
               "bachelorConditions": {
-                "numerator": 43,
+                "numerator": 50,
                 "denominator": 63,
                 "unit": "招聘记录"
               },
