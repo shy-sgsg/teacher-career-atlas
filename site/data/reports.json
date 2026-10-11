@@ -309,9 +309,10 @@
     },
     {
       "city": "武汉市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/武汉市英语教师就业分析报告.md",
+      "displayPath": "/reports/武汉市英语教师就业分析报告.html",
+      "title": "武汉市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "广州市",
@@ -321,21 +322,24 @@
     },
     {
       "city": "西安市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/西安市英语教师就业分析报告.md",
+      "displayPath": "/reports/西安市英语教师就业分析报告.html",
+      "title": "西安市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "长沙市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/长沙市英语教师就业分析报告.md",
+      "displayPath": "/reports/长沙市英语教师就业分析报告.html",
+      "title": "长沙市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "郑州市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/郑州市英语教师就业分析报告.md",
+      "displayPath": "/reports/郑州市英语教师就业分析报告.html",
+      "title": "郑州市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "合肥市",
@@ -472,9 +476,10 @@
     },
     {
       "city": "成都市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/成都市英语教师就业分析报告.md",
+      "displayPath": "/reports/成都市英语教师就业分析报告.html",
+      "title": "成都市英语教师就业分析报告",
+      "available": true
     }
   ],
   "provinceReports": [
@@ -499,6 +504,6 @@
   ],
   "historicalCleanupReport": "/reports/cleanup_report.md",
   "historicalCleanupReportDisplayPath": "/reports/cleanup_report.html",
-  "cityReportFileCount": 45,
+  "cityReportFileCount": 50,
   "provinceReportFileCount": 3
 }

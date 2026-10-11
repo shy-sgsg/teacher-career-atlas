@@ -1,0 +1,292 @@
+{
+  "items": [
+    {
+      "city": "嘉兴市",
+      "province": "浙江省"
+    },
+    {
+      "city": "杭州市",
+      "province": "浙江省"
+    },
+    {
+      "city": "宁波市",
+      "province": "浙江省"
+    },
+    {
+      "city": "温州市",
+      "province": "浙江省"
+    },
+    {
+      "city": "绍兴市",
+      "province": "浙江省"
+    },
+    {
+      "city": "金华市",
+      "province": "浙江省"
+    },
+    {
+      "city": "湖州市",
+      "province": "浙江省"
+    },
+    {
+      "city": "台州市",
+      "province": "浙江省"
+    },
+    {
+      "city": "衢州市",
+      "province": "浙江省"
+    },
+    {
+      "city": "舟山市",
+      "province": "浙江省"
+    },
+    {
+      "city": "丽水市",
+      "province": "浙江省"
+    },
+    {
+      "city": "南京市",
+      "province": "江苏省"
+    },
+    {
+      "city": "无锡市",
+      "province": "江苏省"
+    },
+    {
+      "city": "徐州市",
+      "province": "江苏省"
+    },
+    {
+      "city": "常州市",
+      "province": "江苏省"
+    },
+    {
+      "city": "苏州市",
+      "province": "江苏省"
+    },
+    {
+      "city": "南通市",
+      "province": "江苏省"
+    },
+    {
+      "city": "连云港市",
+      "province": "江苏省"
+    },
+    {
+      "city": "淮安市",
+      "province": "江苏省"
+    },
+    {
+      "city": "盐城市",
+      "province": "江苏省"
+    },
+    {
+      "city": "扬州市",
+      "province": "江苏省"
+    },
+    {
+      "city": "镇江市",
+      "province": "江苏省"
+    },
+    {
+      "city": "泰州市",
+      "province": "江苏省"
+    },
+    {
+      "city": "宿迁市",
+      "province": "江苏省"
+    },
+    {
+      "city": "济南市",
+      "province": "山东省"
+    },
+    {
+      "city": "青岛市",
+      "province": "山东省"
+    },
+    {
+      "city": "淄博市",
+      "province": "山东省"
+    },
+    {
+      "city": "枣庄市",
+      "province": "山东省"
+    },
+    {
+      "city": "东营市",
+      "province": "山东省"
+    },
+    {
+      "city": "烟台市",
+      "province": "山东省"
+    },
+    {
+      "city": "潍坊市",
+      "province": "山东省"
+    },
+    {
+      "city": "济宁市",
+      "province": "山东省"
+    },
+    {
+      "city": "泰安市",
+      "province": "山东省"
+    },
+    {
+      "city": "威海市",
+      "province": "山东省"
+    },
+    {
+      "city": "日照市",
+      "province": "山东省"
+    },
+    {
+      "city": "临沂市",
+      "province": "山东省"
+    },
+    {
+      "city": "德州市",
+      "province": "山东省"
+    },
+    {
+      "city": "聊城市",
+      "province": "山东省"
+    },
+    {
+      "city": "滨州市",
+      "province": "山东省"
+    },
+    {
+      "city": "菏泽市",
+      "province": "山东省"
+    },
+    {
+      "city": "重庆市",
+      "province": "重庆市"
+    },
+    {
+      "city": "深圳市",
+      "province": "广东省"
+    },
+    {
+      "city": "上海市",
+      "province": "上海市"
+    },
+    {
+      "city": "天津市",
+      "province": "天津市"
+    },
+    {
+      "city": "武汉市",
+      "province": "湖北省"
+    },
+    {
+      "city": "广州市",
+      "province": "广东省"
+    },
+    {
+      "city": "西安市",
+      "province": "陕西省"
+    },
+    {
+      "city": "长沙市",
+      "province": "湖南省"
+    },
+    {
+      "city": "郑州市",
+      "province": "河南省"
+    },
+    {
+      "city": "合肥市",
+      "province": "安徽省"
+    },
+    {
+      "city": "东莞市",
+      "province": "广东省"
+    },
+    {
+      "city": "佛山市",
+      "province": "广东省"
+    },
+    {
+      "city": "沈阳市",
+      "province": "辽宁省"
+    },
+    {
+      "city": "昆明市",
+      "province": "云南省"
+    },
+    {
+      "city": "福州市",
+      "province": "福建省"
+    },
+    {
+      "city": "厦门市",
+      "province": "福建省"
+    },
+    {
+      "city": "哈尔滨市",
+      "province": "黑龙江省"
+    },
+    {
+      "city": "大连市",
+      "province": "辽宁省"
+    },
+    {
+      "city": "南宁市",
+      "province": "广西壮族自治区"
+    },
+    {
+      "city": "长春市",
+      "province": "吉林省"
+    },
+    {
+      "city": "泉州市",
+      "province": "福建省"
+    },
+    {
+      "city": "石家庄市",
+      "province": "河北省"
+    },
+    {
+      "city": "贵阳市",
+      "province": "贵州省"
+    },
+    {
+      "city": "南昌市",
+      "province": "江西省"
+    },
+    {
+      "city": "惠州市",
+      "province": "广东省"
+    },
+    {
+      "city": "太原市",
+      "province": "山西省"
+    },
+    {
+      "city": "兰州市",
+      "province": "甘肃省"
+    },
+    {
+      "city": "珠海市",
+      "province": "广东省"
+    },
+    {
+      "city": "海口市",
+      "province": "海南省"
+    },
+    {
+      "city": "乌鲁木齐市",
+      "province": "新疆维吾尔自治区"
+    },
+    {
+      "city": "北京市",
+      "province": "北京市"
+    },
+    {
+      "city": "成都市",
+      "province": "四川省"
+    }
+  ]
+}
