@@ -302,9 +302,10 @@
     },
     {
       "city": "天津市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/天津市英语教师就业分析报告.md",
+      "displayPath": "/reports/天津市英语教师就业分析报告.html",
+      "title": "天津市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "武汉市",
@@ -464,9 +465,10 @@
     },
     {
       "city": "北京市",
-      "path": null,
-      "displayPath": null,
-      "available": false
+      "path": "/reports/北京市英语教师就业分析报告.md",
+      "displayPath": "/reports/北京市英语教师就业分析报告.html",
+      "title": "北京市英语教师就业分析报告",
+      "available": true
     },
     {
       "city": "成都市",
@@ -497,6 +499,6 @@
   ],
   "historicalCleanupReport": "/reports/cleanup_report.md",
   "historicalCleanupReportDisplayPath": "/reports/cleanup_report.html",
-  "cityReportFileCount": 43,
+  "cityReportFileCount": 45,
   "provinceReportFileCount": 3
 }
