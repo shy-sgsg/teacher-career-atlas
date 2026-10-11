@@ -3,7 +3,7 @@
     {
       "city": "嘉兴市",
       "province": "浙江省",
-      "progressStatus": "已完成（嘉兴阶段1.6审核通过；暂停全国城市扩展；学校样本缺口已明示）",
+      "progressStatus": "批次15完成7地公开入口复核；目前无新增可确认的公办英语岗位。招聘会将在10月24日举行，后续按实际发布的单位/岗位清单更新。",
       "mainRecordCount": 48,
       "explicitPlanRecords": 34,
       "coverageAll": {
@@ -7155,7 +7155,7 @@
     {
       "city": "绍兴市",
       "province": "浙江省",
-      "progressStatus": "已完成（绍兴市复核通过；高校岗位表与学校样本属性缺项已明示）",
+      "progressStatus": "批次15完成当前渠道复核；企业和高校线索未转成公办初高中岗位，岗位表图片仍待核。下一步按计划转济南、青岛、烟台、潍坊、临沂、深圳组。",
       "mainRecordCount": 36,
       "explicitPlanRecords": 14,
       "coverageAll": {
@@ -15952,7 +15952,7 @@
     {
       "city": "南京市",
       "province": "江苏省",
-      "progressStatus": "本轮核对官方招聘目录及届别边界；南京各区县岗位附件、拟聘和本科通道仍需按年补齐。\n批次08已完成首轮定向回填；六城全年度/区县复核尚未完成。",
+      "progressStatus": "批次15完成市级入口与新东方省域线索复核；没有把企业和非教师校园招聘会混入公办教师机会。",
       "mainRecordCount": 33,
       "explicitPlanRecords": 29,
       "coverageAll": {
@@ -19120,9 +19120,9 @@
     {
       "city": "徐州市",
       "province": "江苏省",
-      "progressStatus": "已完成（徐州城市质量闸门通过；公开资料缺口明示）",
-      "mainRecordCount": 29,
-      "explicitPlanRecords": 5,
+      "progressStatus": "批次15补入1条岗位空缺证据并更新2021计划下限；2027届公办与企业岗位分开。历史区县覆盖与拟聘仍需继续深查。",
+      "mainRecordCount": 30,
+      "explicitPlanRecords": 6,
       "coverageAll": {
         "rows": 104,
         "levels": {
@@ -19162,23 +19162,23 @@
         "S": 0,
         "A": 9,
         "B": 15,
-        "C": 5,
+        "C": 6,
         "D": 0
       },
-      "sourceGradeRecordCount": 29,
+      "sourceGradeRecordCount": 30,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 25
+        "unknown": 26
       },
       "targetFitCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 25
+        "unknown": 26
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -19189,7 +19189,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 29
+        "公办/事业单位相关（具体用工看公告）": 30
       },
       "employmentTypeCounts": {
         "事业编": 2,
@@ -19198,11 +19198,11 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 27
+        "无法判断": 28
       },
       "historyPlans": {
         "junior": 8,
-        "senior": 44,
+        "senior": 45,
         "bachelorChannel": 15,
         "masterChannel": 42,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
@@ -19223,11 +19223,11 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 5,
       "dataCompleteness": {
-        "overall": 33,
+        "overall": 36,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
-          "plans": 60,
+          "plans": 80,
           "bachelorConditions": 14,
           "actualBachelorEvidence": 40,
           "employmentType": 7,
@@ -19243,7 +19243,7 @@
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -19357,7 +19357,7 @@
         {
           "year": 2021,
           "junior": null,
-          "senior": null,
+          "senior": 1,
           "bachelorChannel": null,
           "masterChannel": null,
           "batchCount": 1,
@@ -19372,7 +19372,7 @@
             670
           ],
           "notes": [
-            "市直属结果材料证实英语岗位存在、计划数未取得；五年教师计划表只列区县总招聘规模，不等于英语名额。空白表示未取得而非0；批次数为已识别下限。"
+            "市属结果材料原先仅确认英语岗位存在；2021-12-29可追溯的市教育局空缺计划转录列徐州市第三十六中学高中英语第二时段剩余计划1人。该数为首轮后剩余计划，不等于原始岗位计划或全年度总量；岗位学历和拟聘仍未取得。"
           ]
         },
         {
@@ -20877,7 +20877,7 @@
     {
       "city": "常州市",
       "province": "江苏省",
-      "progressStatus": "已完成（常州城市质量闸门通过；公开资料缺口明示）",
+      "progressStatus": "批次15完成公办入口与省域校招复核；计划数不按城市分摊，后续继续读取未解的区县岗位附件。",
       "mainRecordCount": 43,
       "explicitPlanRecords": 3,
       "coverageAll": {
