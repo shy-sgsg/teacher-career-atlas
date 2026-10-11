@@ -53686,8 +53686,8 @@
       "city": "重庆市",
       "province": "重庆市",
       "progressStatus": "重庆阶段进行中：当前为两江新区。2027届机会和2026届官方竞争参照已复核；新增2024年赴北京招聘2025届条件与拟聘，补齐2025年上半年7组英语岗位附件、学历门槛和10名拟聘学历匹配。2021—2025其它招聘批次、学校位置、用工细项、薪资、生活数据及边界QA仍待完成。",
-      "mainRecordCount": 178,
-      "explicitPlanRecords": 142,
+      "mainRecordCount": 181,
+      "explicitPlanRecords": 145,
       "coverageAll": {
         "rows": 55,
         "levels": {
@@ -53721,15 +53721,15 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 170,
+        "S": 173,
         "A": 2,
         "B": 6,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 178,
+      "sourceGradeRecordCount": 181,
       "bachelorLevelCounts": {
-        "A": 48,
+        "A": 51,
         "B": 53,
         "C": 14,
         "D": 25,
@@ -53740,18 +53740,18 @@
         "B": 67,
         "C": 10,
         "D": 23,
-        "unknown": 77
+        "unknown": 80
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 67,
         "C": 10,
         "D": 19,
-        "unknown": 55
+        "unknown": 58
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 177,
+        "公办/事业单位相关（具体用工看公告）": 180,
         "未明示/待核": 1
       },
       "employmentTypeCounts": {
@@ -53761,7 +53761,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 178
+        "无法判断": 181
       },
       "historyPlans": {
         "junior": 122,
@@ -53778,12 +53778,12 @@
       "positiveBachelorEvidenceRows": 80,
       "tracking2027Rows": 15,
       "effective2027Records": 9,
-      "publicServiceRelatedRecordCount": 150,
+      "publicServiceRelatedRecordCount": 153,
       "schoolSampleRows": 5,
-      "salaryRows": 39,
+      "salaryRows": 42,
       "salaryAmountEvidenceRows": 3,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 36,
+      "competitionEvidenceRows": 39,
       "lifeDataRows": 0,
       "dataCompleteness": {
         "overall": 59,
@@ -53791,7 +53791,7 @@
         "dimensions": {
           "historicalCoverage": 65,
           "plans": 100,
-          "bachelorConditions": 89,
+          "bachelorConditions": 90,
           "actualBachelorEvidence": 100,
           "employmentType": 0,
           "salary": 0,
@@ -53811,8 +53811,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 135,
-            "denominator": 151,
+            "numerator": 138,
+            "denominator": 154,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -53822,7 +53822,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 151,
+            "denominator": 154,
             "unit": "招聘记录"
           },
           "salary": {
@@ -54126,7 +54126,7 @@
           "juniorPlan": 77,
           "seniorPlan": 24,
           "bachelorChannel": 80,
-          "publicServiceRecordCount": 62,
+          "publicServiceRecordCount": 65,
           "coverageLevels": {
             "A": 5,
             "B": 0,
@@ -54140,7 +54140,7 @@
             "dimensions": {
               "historicalCoverage": 100,
               "plans": 100,
-              "bachelorConditions": 79,
+              "bachelorConditions": 80,
               "actualBachelorEvidence": 100,
               "employmentType": 0,
               "salary": 0,
@@ -54160,8 +54160,8 @@
                 "unit": "核心年份"
               },
               "bachelorConditions": {
-                "numerator": 50,
-                "denominator": 63,
+                "numerator": 53,
+                "denominator": 66,
                 "unit": "招聘记录"
               },
               "actualBachelorEvidence": {
@@ -54171,7 +54171,7 @@
               },
               "employmentType": {
                 "numerator": 0,
-                "denominator": 63,
+                "denominator": 66,
                 "unit": "招聘记录"
               },
               "salary": {
