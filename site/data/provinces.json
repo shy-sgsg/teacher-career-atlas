@@ -155,10 +155,10 @@
         "S": 25,
         "A": 206,
         "B": 365,
-        "C": 25,
+        "C": 24,
         "D": 37
       },
-      "sourceGradeRecordCount": 658,
+      "sourceGradeRecordCount": 657,
       "dataCompleteness": {
         "overall": 40,
         "level": "low",
@@ -174,7 +174,7 @@
           "current2027": 52
         }
       },
-      "mainRecordCount": 658,
+      "mainRecordCount": 657,
       "schoolSampleRows": 137,
       "salaryAmountEvidenceRows": 18,
       "competitionEvidenceRows": 23,
@@ -202,9 +202,9 @@
         "青岛市"
       ],
       "coverageAll": {
-        "rows": 80,
+        "rows": 81,
         "levels": {
-          "A": 77,
+          "A": 78,
           "B": 3,
           "C": 0,
           "D": 0
@@ -218,9 +218,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 80,
+        "rows": 81,
         "levels": {
-          "A": 77,
+          "A": 78,
           "B": 3,
           "C": 0,
           "D": 0
@@ -234,41 +234,41 @@
         ]
       },
       "historicalPlans": {
-        "junior": 800,
+        "junior": 824,
         "senior": 337,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
       "actualBachelorNominees": null,
       "actualEvidenceRows": 3,
       "uniqueActualEvidenceRows": 3,
-      "tracking2027Rows": 69,
+      "tracking2027Rows": 70,
       "sourceGradeCounts": {
         "S": 27,
         "A": 36,
-        "B": 183,
+        "B": 185,
         "C": 95,
         "D": 0
       },
-      "sourceGradeRecordCount": 341,
+      "sourceGradeRecordCount": 343,
       "dataCompleteness": {
-        "overall": 42,
+        "overall": 44,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
           "plans": 91,
-          "bachelorConditions": 49,
+          "bachelorConditions": 55,
           "actualBachelorEvidence": 0,
-          "employmentType": 16,
+          "employmentType": 22,
           "salary": 2,
-          "competition": 71,
+          "competition": 72,
           "lifeData": 16,
-          "current2027": 35
+          "current2027": 38
         }
       },
-      "mainRecordCount": 341,
+      "mainRecordCount": 343,
       "schoolSampleRows": 143,
-      "salaryAmountEvidenceRows": 13,
-      "competitionEvidenceRows": 130,
+      "salaryAmountEvidenceRows": 14,
+      "competitionEvidenceRows": 132,
       "lifeDataRows": 27
     },
     {

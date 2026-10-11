@@ -19121,8 +19121,8 @@
       "city": "徐州市",
       "province": "江苏省",
       "progressStatus": "批次15补入1条岗位空缺证据并更新2021计划下限；2027届公办与企业岗位分开。历史区县覆盖与拟聘仍需继续深查。",
-      "mainRecordCount": 30,
-      "explicitPlanRecords": 6,
+      "mainRecordCount": 29,
+      "explicitPlanRecords": 5,
       "coverageAll": {
         "rows": 104,
         "levels": {
@@ -19162,23 +19162,23 @@
         "S": 0,
         "A": 9,
         "B": 15,
-        "C": 6,
+        "C": 5,
         "D": 0
       },
-      "sourceGradeRecordCount": 30,
+      "sourceGradeRecordCount": 29,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 26
+        "unknown": 25
       },
       "targetFitCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 26
+        "unknown": 25
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -19189,7 +19189,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 30
+        "公办/事业单位相关（具体用工看公告）": 29
       },
       "employmentTypeCounts": {
         "事业编": 2,
@@ -19198,7 +19198,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 28
+        "无法判断": 27
       },
       "historyPlans": {
         "junior": 8,
@@ -35016,13 +35016,13 @@
     {
       "city": "济南市",
       "province": "山东省",
-      "progressStatus": "已完成（济南市直招聘年度分类通过；区县尚未系统逐项拆分，不代表全市岗位总量）",
-      "mainRecordCount": 17,
-      "explicitPlanRecords": 16,
+      "progressStatus": "批次16新增历城区2025初中英语事业编24人及真实报名统计，更新2027届监测。济南市直年度分类不等于全市区县批次已穷尽；学校样本、拟聘学历和事业编薪资仍有缺口。",
+      "mainRecordCount": 19,
+      "explicitPlanRecords": 18,
       "coverageAll": {
-        "rows": 5,
+        "rows": 6,
         "levels": {
-          "A": 5,
+          "A": 6,
           "B": 0,
           "C": 0,
           "D": 0
@@ -35036,9 +35036,9 @@
         ]
       },
       "coverageCore": {
-        "rows": 5,
+        "rows": 6,
         "levels": {
-          "A": 5,
+          "A": 6,
           "B": 0,
           "C": 0,
           "D": 0
@@ -35054,38 +35054,38 @@
       "sourceGradeCounts": {
         "S": 0,
         "A": 15,
-        "B": 2,
+        "B": 4,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 17,
+      "sourceGradeRecordCount": 19,
       "bachelorLevelCounts": {
-        "A": 0,
-        "B": 9,
+        "A": 1,
+        "B": 10,
         "C": 2,
         "D": 1,
         "unknown": 5
       },
       "targetFitCounts": {
-        "A": 0,
+        "A": 1,
         "B": 7,
         "C": 1,
-        "D": 1,
+        "D": 2,
         "unknown": 8
       },
       "recruitmentTargetFitCounts": {
-        "A": 0,
+        "A": 1,
         "B": 0,
         "C": 0,
-        "D": 0,
+        "D": 1,
         "unknown": 0
       },
-      "explicitHardBarrierRecords": 0,
+      "explicitHardBarrierRecords": 1,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 17
+        "公办/事业单位相关（具体用工看公告）": 19
       },
       "employmentTypeCounts": {
-        "事业编": 0,
+        "事业编": 2,
         "备案制": 0,
         "员额制": 0,
         "合同制": 0,
@@ -35094,10 +35094,10 @@
         "无法判断": 17
       },
       "historyPlans": {
-        "junior": 10,
+        "junior": 34,
         "senior": 20,
-        "bachelorChannel": null,
-        "masterChannel": null,
+        "bachelorChannel": 24,
+        "masterChannel": 24,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
       "actualBachelorNominees": null,
@@ -35106,33 +35106,33 @@
       "uniqueActualEvidenceRows": 1,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 0,
-      "publicServiceRelatedRecordCount": 0,
+      "tracking2027Rows": 3,
+      "effective2027Records": 1,
+      "publicServiceRelatedRecordCount": 2,
       "schoolSampleRows": 8,
-      "salaryRows": 2,
-      "salaryAmountEvidenceRows": 0,
+      "salaryRows": 5,
+      "salaryAmountEvidenceRows": 1,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 1,
+      "competitionEvidenceRows": 3,
       "lifeDataRows": 4,
       "dataCompleteness": {
-        "overall": 33,
-        "level": "low",
+        "overall": 62,
+        "level": "medium",
         "dimensions": {
           "historicalCoverage": 100,
           "plans": 100,
-          "bachelorConditions": 0,
+          "bachelorConditions": 100,
           "actualBachelorEvidence": 0,
-          "employmentType": 0,
+          "employmentType": 100,
           "salary": 0,
-          "competition": 20,
+          "competition": 40,
           "lifeData": 38,
-          "current2027": 40
+          "current2027": 80
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 5,
-            "denominator": 5,
+            "numerator": 6,
+            "denominator": 6,
             "unit": "区域-年份审计行"
           },
           "plans": {
@@ -35141,8 +35141,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 0,
-            "denominator": 0,
+            "numerator": 2,
+            "denominator": 2,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -35151,8 +35151,8 @@
             "unit": "核心年份"
           },
           "employmentType": {
-            "numerator": 0,
-            "denominator": 0,
+            "numerator": 2,
+            "denominator": 2,
             "unit": "招聘记录"
           },
           "salary": {
@@ -35161,7 +35161,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 1,
+            "numerator": 2,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -35171,13 +35171,13 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 4,
             "denominator": 5,
             "unit": "招聘路径"
           }
         },
         "coverageLevels": {
-          "A": 5,
+          "A": 6,
           "B": 0,
           "C": 0,
           "D": 0
@@ -35321,11 +35321,35 @@
         },
         {
           "year": 2025,
-          "junior": 5,
+          "junior": 29,
           "senior": 4,
-          "bachelorChannel": null,
-          "masterChannel": null,
-          "batchCount": 1,
+          "bachelorChannel": 24,
+          "masterChannel": 24,
+          "batchCount": 2,
+          "coverageLevels": {
+            "A": 2,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 2,
+          "planSourceRows": [
+            1125,
+            1463
+          ],
+          "notes": [
+            "市直70人公开招聘（报名2025-05-08 09:00至05-14 16:00）；岗位表/官方报名统计至少核出初中英语5岗（十八中1、莱芜高新区实验学校4）、高中英语4岗（先行实验中学2、市南中学1、回民中学1）；另有三十四中“中学英语”1岗学段不明，未硬分。报名统计截止5月14日：目标英语代码逐岗列审核通过和缴费人数，见薪资竞争页。；数字为市教育局直属批次可核下限，不是全市区县招聘总量；未知留空。",
+            "历城区2025年教体局所属事业单位招聘批次：岗位表确认初中英语一组、二组各12人；英语计划合计24。计划和报名统计分别保存，报名人数不等于拟聘人数。市直2025记录为独立管理单元，不在此重复合并。 两组岗位均为本科及以上，学历通道与计划数不重复相加；一组普通英语相关本科路径评A，二组有教学经历和职称附加条件评B。未取得本科实际拟聘证据。"
+          ]
+        }
+      ],
+      "districtOpportunities": [
+        {
+          "district": "历城区",
+          "juniorPlan": 24,
+          "seniorPlan": null,
+          "bachelorChannel": 24,
+          "publicServiceRecordCount": 2,
           "coverageLevels": {
             "A": 1,
             "B": 0,
@@ -35333,15 +35357,76 @@
             "D": 0
           },
           "coverageRows": 1,
-          "planSourceRows": [
-            1125
-          ],
-          "notes": [
-            "市直70人公开招聘（报名2025-05-08 09:00至05-14 16:00）；岗位表/官方报名统计至少核出初中英语5岗（十八中1、莱芜高新区实验学校4）、高中英语4岗（先行实验中学2、市南中学1、回民中学1）；另有三十四中“中学英语”1岗学段不明，未硬分。报名统计截止5月14日：目标英语代码逐岗列审核通过和缴费人数，见薪资竞争页。；数字为市教育局直属批次可核下限，不是全市区县招聘总量；未知留空。"
-          ]
-        }
-      ],
-      "districtOpportunities": [
+          "dataCompleteness": {
+            "overall": 38,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 100,
+              "plans": 20,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 100,
+              "salary": 0,
+              "competition": 20,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 2,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 2,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 1,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 1
+        },
         {
           "district": "市直/多个区县",
           "juniorPlan": null,
@@ -35756,13 +35841,96 @@
             }
           },
           "planYears": 0
+        },
+        {
+          "district": "济南市（具体区县待核）",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 0,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
         }
       ]
     },
     {
       "city": "青岛市",
       "province": "山东省",
-      "progressStatus": "批次04复核市人社、教育目录及2026市直新招聘作为相邻届对照；2027届公办英语仍未检出。2021—2025区县覆盖不完整，继续按管理单元补查。",
+      "progressStatus": "批次16完成市级公开入口刷新；没有把民办/教培线索当作公办英语招聘。城市年度审计、区市覆盖和样本仍未全量完成。",
       "mainRecordCount": 18,
       "explicitPlanRecords": 13,
       "coverageAll": {
@@ -40242,7 +40410,7 @@
     {
       "city": "烟台市",
       "province": "山东省",
-      "progressStatus": "城市阶段完成；2021—2025逐年分类，岗位数为公开已核下限，缺项明确留空。",
+      "progressStatus": "批次16已刷新2027届渠道并明确区分单位展位截止、活动日期与学生岗位截止；待招聘会实际单位/职位清单公开后再判断英语机会。",
       "mainRecordCount": 12,
       "explicitPlanRecords": 9,
       "coverageAll": {
@@ -41403,7 +41571,7 @@
     {
       "city": "潍坊市",
       "province": "山东省",
-      "progressStatus": "已完成（2021—2025年度分类、2027届/当前招聘跟踪及缺项明示；已纳入山东省级覆盖审核）",
+      "progressStatus": "批次16完成当前公开渠道复核；潍坊文华为民办实习招聘，独立跟踪，不作为公办事业编计划。历史附件/区县批次和学校样本仍待补。",
       "mainRecordCount": 44,
       "explicitPlanRecords": 23,
       "coverageAll": {
@@ -47793,7 +47961,7 @@
     {
       "city": "临沂市",
       "province": "山东省",
-      "progressStatus": "已完成（2021—2025年度分类、2027届/当前招聘跟踪及缺项明示；已纳入山东省级覆盖审核）",
+      "progressStatus": "批次16更新公办入口与民办新概念线索状态；县区历史覆盖、初中样本和实际本科拟聘仍有缺口。",
       "mainRecordCount": 15,
       "explicitPlanRecords": 9,
       "coverageAll": {
@@ -57282,7 +57450,7 @@
     {
       "city": "深圳市",
       "province": "广东省",
-      "progressStatus": "2027届预公告与现有民办机会分层跟踪；2021—2025逐年岗位人数、资格条件、本科拟聘及薪酬竞争仍需全市/区县批次深审。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。",
+      "progressStatus": "批次16刷新官方预公告和已知民办岗位状态，未把活动/平台期限当雇主截止。深圳历史A批次逐岗计划、学历、本科实际拟聘、学校分层和薪资生活仍需补强。",
       "mainRecordCount": 37,
       "explicitPlanRecords": 37,
       "coverageAll": {

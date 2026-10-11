@@ -11267,6 +11267,96 @@
       "sourceUrls": [
         "https://www.tjxq.gov.cn/zwgk/zfxxgk/zfgbm/jyj/fdzdgk/zdmsxx/jiaoyu/202210/t20221026_6018431.html"
       ]
+    },
+    {
+      "城市": "济南市",
+      "信息类型": "真实报名数据（岗位级）",
+      "年份/批次": "2025年历城区公开招聘",
+      "地区": "历城区",
+      "招聘方/范围": "济南市历城区教育和体育局所属事业单位",
+      "岗位": "初中英语教师（一组）",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": null,
+      "年终奖": null,
+      "总收入/竞争规则": "计划12人；截至2025-05-14 16:30报名465人、审核通过428人；岗位开考比例1:3。",
+      "实际报名人数": 465,
+      "竞争等级(A/B/C)": "A",
+      "数据来源类型": "招聘公告/岗位表 + 招聘平台转载的报名统计",
+      "来源等级": "B/C",
+      "数据口径与限制": "报名于2025-05-14 16:00截止；统计截点为16:30。审核可延至5月15日16:00、缴费至5月16日11:00。报名、审核、拟聘为不同口径；统计转载页引用历城区政府原始公告链接。",
+      "来源链接": "http://www.licheng.gov.cn/gongkai/site_lichengquqjytyjd/channel_63899ee9375991828262e964/doc_68245880953fa3b472633ab2.html; https://jc.htu.edu.cn/upload/file/20250509/1746754777328.pdf; https://sd.huatu.com/2025/0506/1596042.html; https://sd.huatu.com/2025/0514/1597959.html",
+      "备注": "岗位计划12；本科通道可报、无两年教学经历/职称门槛。未取得最终拟聘人数和学历。",
+      "originalDistrictLabel": "历城区",
+      "canonicalDistrict": "历城区",
+      "scopeType": "single_district",
+      "_sourceRow": 400,
+      "sourceUrls": [
+        "http://www.licheng.gov.cn/gongkai/site_lichengquqjytyjd/channel_63899ee9375991828262e964/doc_68245880953fa3b472633ab2.html",
+        "https://jc.htu.edu.cn/upload/file/20250509/1746754777328.pdf",
+        "https://sd.huatu.com/2025/0506/1596042.html",
+        "https://sd.huatu.com/2025/0514/1597959.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "信息类型": "真实报名数据（岗位级）",
+      "年份/批次": "2025年历城区公开招聘",
+      "地区": "历城区",
+      "招聘方/范围": "济南市历城区教育和体育局所属事业单位",
+      "岗位": "初中英语教师（二组）",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": null,
+      "年终奖": null,
+      "总收入/竞争规则": "计划12人；截至2025-05-14 16:30报名219人、审核通过194人；岗位开考比例1:3。",
+      "实际报名人数": 219,
+      "竞争等级(A/B/C)": "A",
+      "数据来源类型": "招聘公告/岗位表 + 招聘平台转载的报名统计",
+      "来源等级": "B/C",
+      "数据口径与限制": "报名于2025-05-14 16:00截止；统计截点为16:30。审核可延至5月15日16:00、缴费至5月16日11:00。报名、审核、拟聘为不同口径；统计转载页引用历城区政府原始公告链接。",
+      "来源链接": "http://www.licheng.gov.cn/gongkai/site_lichengquqjytyjd/channel_63899ee9375991828262e964/doc_68245880953fa3b472633ab2.html; https://jc.htu.edu.cn/upload/file/20250509/1746754777328.pdf; https://sd.huatu.com/2025/0506/1596042.html; https://sd.huatu.com/2025/0514/1597959.html",
+      "备注": "岗位计划12；本科可报，但须连续两学年教学经历、初中及以上英语教资和二级教师职称。未取得最终拟聘人数和学历。",
+      "originalDistrictLabel": "历城区",
+      "canonicalDistrict": "历城区",
+      "scopeType": "single_district",
+      "_sourceRow": 401,
+      "sourceUrls": [
+        "http://www.licheng.gov.cn/gongkai/site_lichengquqjytyjd/channel_63899ee9375991828262e964/doc_68245880953fa3b472633ab2.html",
+        "https://jc.htu.edu.cn/upload/file/20250509/1746754777328.pdf",
+        "https://sd.huatu.com/2025/0506/1596042.html",
+        "https://sd.huatu.com/2025/0514/1597959.html"
+      ]
+    },
+    {
+      "城市": "济南市",
+      "信息类型": "招聘平台薪资宣传（民办学校）",
+      "年份/批次": "2027届招聘（2026-09）",
+      "地区": "济南市（具体区县待核）",
+      "招聘方/范围": "济南天山实验学校",
+      "岗位": "初高中英语教师（合计4名，学段未拆）",
+      "基本工资": null,
+      "绩效": null,
+      "公积金": null,
+      "补贴": "免费公寓或租房补贴；五险一金；带薪寒暑假；实习生免费住宿和餐补。",
+      "年终奖": null,
+      "总收入/竞争规则": "招聘页面宣传中学年薪13万元以上，特殊人才一岗一议；未披露薪酬结构、税前税后或实际到手。",
+      "实际报名人数": null,
+      "竞争等级(A/B/C)": "C",
+      "数据来源类型": "招聘平台转载雇主招聘广告",
+      "来源等级": "C",
+      "数据口径与限制": "民办学校雇主广告；中学年薪为宣传范围，未提供基本工资、绩效、公积金和年终奖拆分，不得当作事业编实际收入。",
+      "来源链接": "https://jiaoshi.huatu.com/2026/0923/2873994.html",
+      "备注": "英语岗位数量为初高中合计4，学段未拆；无雇主固定截止日，当前收件状态未确认。",
+      "originalDistrictLabel": "济南市（具体区县待核）",
+      "canonicalDistrict": null,
+      "scopeType": "city_direct",
+      "_sourceRow": 402,
+      "sourceUrls": [
+        "https://jiaoshi.huatu.com/2026/0923/2873994.html"
+      ]
     }
   ]
 }
