@@ -262,7 +262,7 @@
           "salary": 2,
           "competition": 71,
           "lifeData": 16,
-          "current2027": 38
+          "current2027": 35
         }
       },
       "mainRecordCount": 341,
@@ -1093,7 +1093,7 @@
       },
       "sourceGradeRecordCount": 5,
       "dataCompleteness": {
-        "overall": 22,
+        "overall": 18,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -1104,7 +1104,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 20
         }
       },
       "mainRecordCount": 5,
@@ -1551,7 +1551,7 @@
       },
       "sourceGradeRecordCount": 3,
       "dataCompleteness": {
-        "overall": 21,
+        "overall": 19,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -1562,7 +1562,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 20
         }
       },
       "mainRecordCount": 3,

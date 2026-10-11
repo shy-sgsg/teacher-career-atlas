@@ -5313,7 +5313,7 @@
           },
           "coverageRows": 5,
           "dataCompleteness": {
-            "overall": 18,
+            "overall": 16,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
@@ -5324,7 +5324,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 60
+              "current2027": 40
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -5368,7 +5368,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 3,
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -38102,7 +38102,7 @@
       "competitionEvidenceRows": 15,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 46,
+        "overall": 43,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -38113,7 +38113,7 @@
           "salary": 20,
           "competition": 100,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -38157,7 +38157,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 3,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -38342,7 +38342,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 16,
+            "overall": 13,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -38353,7 +38353,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 40
+              "current2027": 20
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -38397,7 +38397,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 2,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -49803,7 +49803,7 @@
       "competitionEvidenceRows": 12,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 43,
+        "overall": 41,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -49814,7 +49814,7 @@
           "salary": 0,
           "competition": 100,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 20
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -49858,7 +49858,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 1,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -54635,7 +54635,7 @@
           },
           "coverageRows": 1,
           "dataCompleteness": {
-            "overall": 29,
+            "overall": 27,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 100,
@@ -54646,7 +54646,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 40
+              "current2027": 20
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -54690,7 +54690,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 2,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -67191,7 +67191,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 22,
+        "overall": 18,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -67202,7 +67202,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 20
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -67246,7 +67246,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 3,
+            "numerator": 1,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -67431,7 +67431,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 2,
+            "overall": 0,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -67442,7 +67442,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 20
+              "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -67486,7 +67486,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 1,
+                "numerator": 0,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -67597,7 +67597,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 4,
+            "overall": 2,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -67608,7 +67608,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 40
+              "current2027": 20
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -67652,7 +67652,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 2,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -67680,7 +67680,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 4,
+            "overall": 0,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -67691,7 +67691,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 40
+              "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -67735,7 +67735,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 2,
+                "numerator": 0,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -71996,7 +71996,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 21,
+        "overall": 19,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -72007,7 +72007,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 20
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -72051,7 +72051,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 1,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -73394,7 +73394,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 7,
+            "overall": 2,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -73405,7 +73405,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 60
+              "current2027": 20
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -73449,7 +73449,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 3,
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -75877,7 +75877,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 2,
+            "overall": 0,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -75888,7 +75888,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 20
+              "current2027": 0
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -75932,7 +75932,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 1,
+                "numerator": 0,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
