@@ -13704,16 +13704,16 @@
       "城市": "苏州市",
       "地区": "全市已检索代表批次（11个管理单元）",
       "年份": 2025,
-      "初中英语计划数": 114,
-      "高中英语计划数": 89,
-      "本科通道计划数": 111,
-      "硕士通道计划数": 38,
+      "初中英语计划数": 118,
+      "高中英语计划数": 90,
+      "本科通道计划数": 116,
+      "硕士通道计划数": 43,
       "本科实际拟聘人数": 2,
       "硕士实际拟聘人数": 2,
-      "招聘批次数": 18,
+      "招聘批次数": 19,
       "证据等级": "C",
-      "来源数量": 35,
-      "备注": "已核代表批次下限初中114、高中89；其中吴中区2025优秀毕业生专项列高中英语4岗，另14个中学英语岗位未拆初高中，不计入初中/高中合计。部分二次清单证据C，非全年全量。空白不是0；本科/硕士通道可能重叠。苏州市直属官方拟录用名单（一）显示苏州三中高中英语本科拟聘1人、立达中学教育集团初中英语硕士拟聘2人；该名单为部分结果，按已见拟聘下限计，不反推计划数。",
+      "来源数量": 37,
+      "备注": "已核代表批次下限初中118、高中90；较原汇总增加苏州高新区高层次/紧缺型事业编批次G018初中英语4、G013高中英语1。该批次学历本科及以上但需教师职称、人才类别或教学业绩；本科通道计入5个特殊资格岗位，不代表普通应届本科通道。吴中另有14个中学英语岗位未拆学段，不计初高中合计。部分二次清单仍为C级，非全年全量；空白不是0。本科/硕士通道可能重叠。已有苏州市直属部分拟录用学历证据2本科、2硕士，不反推计划。",
       "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市已检索代表批次（11个管理单元）",
       "canonicalDistrict": null,
@@ -26141,87 +26141,87 @@
       "_sourceRow": 1311
     },
     {
-      "城市": "北京市",
+      "城市": "上海市",
       "地区": "全市（首轮城市级汇总）",
-      "年份": 2021,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
+      "年份": 2022,
+      "初中英语计划数": 2,
+      "高中英语计划数": 1,
+      "本科通道计划数": 2,
+      "硕士通道计划数": 3,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 1,
+      "证据等级": "S",
+      "来源数量": 1,
+      "备注": "上海市实验学校官方公告列初中英语1、初中英语（国际部）1、高中英语1；修正前表漏计一条初中英语。未取得配对拟聘学历。本科/硕士通道按岗位学历可报路径计，可能重叠。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1312
     },
     {
-      "城市": "北京市",
+      "城市": "上海市",
       "地区": "全市（首轮城市级汇总）",
-      "年份": 2022,
+      "年份": 2024,
       "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
+      "高中英语计划数": 1,
+      "本科通道计划数": 0,
+      "硕士通道计划数": 1,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 1,
+      "证据等级": "S",
+      "来源数量": 1,
+      "备注": "上海市实验学校完整岗位表确认高中英语1，学历硕士及以上；英语相关专业并需满足英语等级、教师资格等条件。未取得拟聘和竞争资料。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1313
     },
     {
-      "城市": "北京市",
+      "城市": "上海市",
       "地区": "全市（首轮城市级汇总）",
-      "年份": 2023,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
+      "年份": 2025,
+      "初中英语计划数": 1,
+      "高中英语计划数": 5,
+      "本科通道计划数": 5,
+      "硕士通道计划数": 5,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 3,
+      "证据等级": "S",
+      "来源数量": 3,
+      "备注": "已核三批官方学校公告下限：实验学校初中英语（国际部）1、高中英语1；上海师范大学附属中学高中英语3（特别优秀本科可放宽）；上海市盲童学校高中英语1（本科及以上）。本科通道5为可申请学历通道计数，包含特别优秀本科放宽，非普通本科全部可报；本科/硕士路径可能重叠。实际拟聘、报名竞争及工资分项未取得。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1314
     },
     {
-      "城市": "北京市",
+      "城市": "天津市",
       "地区": "全市（首轮城市级汇总）",
-      "年份": 2024,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
+      "年份": 2025,
+      "初中英语计划数": 4,
+      "高中英语计划数": 5,
+      "本科通道计划数": 8,
+      "硕士通道计划数": 8,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 2,
+      "证据等级": "S",
+      "来源数量": 2,
+      "备注": "2025代表批次下限初中英语4、高中英语5：南开区初中英语1；泰达初中英语3、高中英语5。泰达为合同制、非事业编；其本科通道限指定院校类型并要求中学英语TEM8。未取得真实报名人数及拟聘学历。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1315
     },
     {
-      "城市": "北京市",
+      "城市": "武汉市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -26232,9 +26232,9 @@
       "硕士实际拟聘人数": null,
       "招聘批次数": 1,
       "证据等级": "S",
-      "来源数量": 1,
-      "备注": "B；计划数只列已核下限； 市政府官方招聘入口已找到；附件岗位表尚未完成英语岗位拆分，不据总招聘量估算。",
-      "年度分类(A/B/C/D)": "B",
+      "来源数量": 2,
+      "备注": "官方考试结果确认市教育局直属单位存在初中英语岗位代码10005；原始岗位表附件未解析，计划数、本科/硕士通道数、拟聘数均留空，不从考试结果反推。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
@@ -26263,26 +26263,6 @@
     {
       "城市": "上海市",
       "地区": "全市（首轮城市级汇总）",
-      "年份": 2022,
-      "初中英语计划数": 1,
-      "高中英语计划数": 1,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": 1,
-      "证据等级": "S",
-      "来源数量": 1,
-      "备注": "A；计划数只列已核下限； 官方招聘页面岗位表列初中英语1、高中英语1；实际拟聘未在本条材料中配对。",
-      "年度分类(A/B/C/D)": "A",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1318
-    },
-    {
-      "城市": "上海市",
-      "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
       "高中英语计划数": null,
@@ -26298,47 +26278,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1319
-    },
-    {
-      "城市": "上海市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2024,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": 1,
-      "证据等级": "S",
-      "来源数量": 1,
-      "备注": "B；计划数只列已核下限； 官方招聘页面可核到英语岗位条件信息，但本轮未从附件完整拆分目标学段和计划数，按B登记。",
-      "年度分类(A/B/C/D)": "B",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1320
-    },
-    {
-      "城市": "上海市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2025,
-      "初中英语计划数": 1,
-      "高中英语计划数": 1,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": 1,
-      "证据等级": "S",
-      "来源数量": 1,
-      "备注": "A；计划数只列已核下限； 官方岗位资料列初中英语1、高中英语1；英语岗位本科通道和拟聘结果需分批复核。",
-      "年度分类(A/B/C/D)": "A",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1321
+      "_sourceRow": 1318
     },
     {
       "城市": "广州市",
@@ -26358,7 +26298,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1322
+      "_sourceRow": 1319
     },
     {
       "城市": "广州市",
@@ -26378,7 +26318,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1323
+      "_sourceRow": 1320
     },
     {
       "城市": "广州市",
@@ -26398,7 +26338,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1324
+      "_sourceRow": 1321
     },
     {
       "城市": "广州市",
@@ -26418,7 +26358,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1325
+      "_sourceRow": 1322
     },
     {
       "城市": "广州市",
@@ -26438,7 +26378,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1326
+      "_sourceRow": 1323
     },
     {
       "城市": "成都市",
@@ -26458,7 +26398,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1327
+      "_sourceRow": 1324
     },
     {
       "城市": "成都市",
@@ -26478,7 +26418,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1328
+      "_sourceRow": 1325
     },
     {
       "城市": "成都市",
@@ -26498,7 +26438,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1329
+      "_sourceRow": 1326
     },
     {
       "城市": "成都市",
@@ -26518,7 +26458,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1330
+      "_sourceRow": 1327
     },
     {
       "城市": "成都市",
@@ -26538,7 +26478,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1331
+      "_sourceRow": 1328
     },
     {
       "城市": "武汉市",
@@ -26558,7 +26498,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1332
+      "_sourceRow": 1329
     },
     {
       "城市": "武汉市",
@@ -26578,7 +26518,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1333
+      "_sourceRow": 1330
     },
     {
       "城市": "武汉市",
@@ -26598,7 +26538,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1334
+      "_sourceRow": 1331
     },
     {
       "城市": "武汉市",
@@ -26618,27 +26558,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1335
-    },
-    {
-      "城市": "武汉市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2025,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1336
+      "_sourceRow": 1332
     },
     {
       "城市": "西安市",
@@ -26658,7 +26578,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1337
+      "_sourceRow": 1333
     },
     {
       "城市": "西安市",
@@ -26678,7 +26598,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1338
+      "_sourceRow": 1334
     },
     {
       "城市": "西安市",
@@ -26698,7 +26618,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1339
+      "_sourceRow": 1335
     },
     {
       "城市": "西安市",
@@ -26718,7 +26638,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1340
+      "_sourceRow": 1336
     },
     {
       "城市": "西安市",
@@ -26738,7 +26658,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1341
+      "_sourceRow": 1337
     },
     {
       "城市": "长沙市",
@@ -26758,7 +26678,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1342
+      "_sourceRow": 1338
     },
     {
       "城市": "长沙市",
@@ -26778,7 +26698,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1343
+      "_sourceRow": 1339
     },
     {
       "城市": "长沙市",
@@ -26798,7 +26718,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1344
+      "_sourceRow": 1340
     },
     {
       "城市": "长沙市",
@@ -26818,7 +26738,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1345
+      "_sourceRow": 1341
     },
     {
       "城市": "长沙市",
@@ -26838,7 +26758,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1346
+      "_sourceRow": 1342
     },
     {
       "城市": "郑州市",
@@ -26858,7 +26778,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1347
+      "_sourceRow": 1343
     },
     {
       "城市": "郑州市",
@@ -26878,7 +26798,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1348
+      "_sourceRow": 1344
     },
     {
       "城市": "郑州市",
@@ -26898,7 +26818,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1349
+      "_sourceRow": 1345
     },
     {
       "城市": "郑州市",
@@ -26918,7 +26838,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1350
+      "_sourceRow": 1346
     },
     {
       "城市": "郑州市",
@@ -26938,7 +26858,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1351
+      "_sourceRow": 1347
     },
     {
       "城市": "天津市",
@@ -26958,7 +26878,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1352
+      "_sourceRow": 1348
     },
     {
       "城市": "天津市",
@@ -26978,7 +26898,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1353
+      "_sourceRow": 1349
     },
     {
       "城市": "天津市",
@@ -26998,7 +26918,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1354
+      "_sourceRow": 1350
     },
     {
       "城市": "天津市",
@@ -27018,27 +26938,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1355
-    },
-    {
-      "城市": "天津市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2025,
-      "初中英语计划数": 1,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": 2,
-      "证据等级": "S",
-      "来源数量": 2,
-      "备注": "A；计划数只列已核下限；另有英语人数但未拆初高中，详见年度覆盖审计。 开发区官方招聘信息列英语教师3人；本轮未按初高中学段拆分。；天津市人社部门官方公告列南开区初中英语1人。",
-      "年度分类(A/B/C/D)": "A",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1356
+      "_sourceRow": 1351
     },
     {
       "城市": "合肥市",
@@ -27058,7 +26958,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1357
+      "_sourceRow": 1352
     },
     {
       "城市": "合肥市",
@@ -27078,7 +26978,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1358
+      "_sourceRow": 1353
     },
     {
       "城市": "合肥市",
@@ -27098,7 +26998,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1359
+      "_sourceRow": 1354
     },
     {
       "城市": "合肥市",
@@ -27118,7 +27018,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1360
+      "_sourceRow": 1355
     },
     {
       "城市": "合肥市",
@@ -27138,7 +27038,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1361
+      "_sourceRow": 1356
     },
     {
       "城市": "东莞市",
@@ -27158,7 +27058,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1362
+      "_sourceRow": 1357
     },
     {
       "城市": "东莞市",
@@ -27178,7 +27078,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1363
+      "_sourceRow": 1358
     },
     {
       "城市": "东莞市",
@@ -27198,7 +27098,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1364
+      "_sourceRow": 1359
     },
     {
       "城市": "东莞市",
@@ -27218,7 +27118,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1365
+      "_sourceRow": 1360
     },
     {
       "城市": "东莞市",
@@ -27238,7 +27138,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1366
+      "_sourceRow": 1361
     },
     {
       "城市": "佛山市",
@@ -27258,7 +27158,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1367
+      "_sourceRow": 1362
     },
     {
       "城市": "佛山市",
@@ -27278,7 +27178,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1368
+      "_sourceRow": 1363
     },
     {
       "城市": "佛山市",
@@ -27298,7 +27198,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1369
+      "_sourceRow": 1364
     },
     {
       "城市": "佛山市",
@@ -27318,7 +27218,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1370
+      "_sourceRow": 1365
     },
     {
       "城市": "佛山市",
@@ -27338,7 +27238,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1371
+      "_sourceRow": 1366
     },
     {
       "城市": "沈阳市",
@@ -27358,7 +27258,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1372
+      "_sourceRow": 1367
     },
     {
       "城市": "沈阳市",
@@ -27378,7 +27278,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1373
+      "_sourceRow": 1368
     },
     {
       "城市": "沈阳市",
@@ -27398,7 +27298,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1374
+      "_sourceRow": 1369
     },
     {
       "城市": "沈阳市",
@@ -27418,7 +27318,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1375
+      "_sourceRow": 1370
     },
     {
       "城市": "沈阳市",
@@ -27438,7 +27338,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1376
+      "_sourceRow": 1371
     },
     {
       "城市": "昆明市",
@@ -27458,7 +27358,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1377
+      "_sourceRow": 1372
     },
     {
       "城市": "昆明市",
@@ -27478,7 +27378,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1378
+      "_sourceRow": 1373
     },
     {
       "城市": "昆明市",
@@ -27498,7 +27398,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1379
+      "_sourceRow": 1374
     },
     {
       "城市": "昆明市",
@@ -27518,7 +27418,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1380
+      "_sourceRow": 1375
     },
     {
       "城市": "昆明市",
@@ -27538,7 +27438,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1381
+      "_sourceRow": 1376
     },
     {
       "城市": "福州市",
@@ -27558,7 +27458,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1382
+      "_sourceRow": 1377
     },
     {
       "城市": "福州市",
@@ -27578,7 +27478,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1383
+      "_sourceRow": 1378
     },
     {
       "城市": "福州市",
@@ -27598,7 +27498,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1384
+      "_sourceRow": 1379
     },
     {
       "城市": "福州市",
@@ -27618,7 +27518,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1385
+      "_sourceRow": 1380
     },
     {
       "城市": "福州市",
@@ -27638,10 +27538,110 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1386
+      "_sourceRow": 1381
     },
     {
       "城市": "厦门市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2021,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1382
+    },
+    {
+      "城市": "厦门市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2022,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1383
+    },
+    {
+      "城市": "厦门市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2023,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1384
+    },
+    {
+      "城市": "厦门市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2024,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1385
+    },
+    {
+      "城市": "厦门市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2025,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1386
+    },
+    {
+      "城市": "哈尔滨市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -27661,7 +27661,7 @@
       "_sourceRow": 1387
     },
     {
-      "城市": "厦门市",
+      "城市": "哈尔滨市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -27681,7 +27681,7 @@
       "_sourceRow": 1388
     },
     {
-      "城市": "厦门市",
+      "城市": "哈尔滨市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -27701,7 +27701,7 @@
       "_sourceRow": 1389
     },
     {
-      "城市": "厦门市",
+      "城市": "哈尔滨市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -27721,7 +27721,7 @@
       "_sourceRow": 1390
     },
     {
-      "城市": "厦门市",
+      "城市": "哈尔滨市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -27741,7 +27741,7 @@
       "_sourceRow": 1391
     },
     {
-      "城市": "哈尔滨市",
+      "城市": "大连市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -27761,7 +27761,7 @@
       "_sourceRow": 1392
     },
     {
-      "城市": "哈尔滨市",
+      "城市": "大连市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -27781,7 +27781,7 @@
       "_sourceRow": 1393
     },
     {
-      "城市": "哈尔滨市",
+      "城市": "大连市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -27801,7 +27801,7 @@
       "_sourceRow": 1394
     },
     {
-      "城市": "哈尔滨市",
+      "城市": "大连市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -27821,7 +27821,7 @@
       "_sourceRow": 1395
     },
     {
-      "城市": "哈尔滨市",
+      "城市": "大连市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -27841,7 +27841,7 @@
       "_sourceRow": 1396
     },
     {
-      "城市": "大连市",
+      "城市": "南宁市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -27861,7 +27861,7 @@
       "_sourceRow": 1397
     },
     {
-      "城市": "大连市",
+      "城市": "南宁市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -27881,7 +27881,7 @@
       "_sourceRow": 1398
     },
     {
-      "城市": "大连市",
+      "城市": "南宁市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -27901,7 +27901,7 @@
       "_sourceRow": 1399
     },
     {
-      "城市": "大连市",
+      "城市": "南宁市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -27921,27 +27921,27 @@
       "_sourceRow": 1400
     },
     {
-      "城市": "大连市",
+      "城市": "南宁市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
-      "初中英语计划数": null,
+      "初中英语计划数": 1,
       "高中英语计划数": null,
       "本科通道计划数": null,
       "硕士通道计划数": null,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 1,
+      "证据等级": "C",
+      "来源数量": 1,
+      "备注": "A；计划数只列已核下限； 公开岗位/结果材料列初中英语1人；本轮使用的为招聘资料镜像，需继续取得主管部门原始附件。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1401
     },
     {
-      "城市": "南宁市",
+      "城市": "长春市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -27961,7 +27961,7 @@
       "_sourceRow": 1402
     },
     {
-      "城市": "南宁市",
+      "城市": "长春市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -27981,7 +27981,7 @@
       "_sourceRow": 1403
     },
     {
-      "城市": "南宁市",
+      "城市": "长春市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28001,7 +28001,7 @@
       "_sourceRow": 1404
     },
     {
-      "城市": "南宁市",
+      "城市": "长春市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28021,27 +28021,27 @@
       "_sourceRow": 1405
     },
     {
-      "城市": "南宁市",
+      "城市": "长春市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
-      "初中英语计划数": 1,
+      "初中英语计划数": null,
       "高中英语计划数": null,
       "本科通道计划数": null,
       "硕士通道计划数": null,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": 1,
-      "证据等级": "C",
-      "来源数量": 1,
-      "备注": "A；计划数只列已核下限； 公开岗位/结果材料列初中英语1人；本轮使用的为招聘资料镜像，需继续取得主管部门原始附件。",
-      "年度分类(A/B/C/D)": "A",
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1406
     },
     {
-      "城市": "长春市",
+      "城市": "泉州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28061,7 +28061,7 @@
       "_sourceRow": 1407
     },
     {
-      "城市": "长春市",
+      "城市": "泉州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28081,7 +28081,7 @@
       "_sourceRow": 1408
     },
     {
-      "城市": "长春市",
+      "城市": "泉州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28101,7 +28101,7 @@
       "_sourceRow": 1409
     },
     {
-      "城市": "长春市",
+      "城市": "泉州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28121,7 +28121,7 @@
       "_sourceRow": 1410
     },
     {
-      "城市": "长春市",
+      "城市": "泉州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28141,7 +28141,7 @@
       "_sourceRow": 1411
     },
     {
-      "城市": "泉州市",
+      "城市": "石家庄市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28161,7 +28161,7 @@
       "_sourceRow": 1412
     },
     {
-      "城市": "泉州市",
+      "城市": "石家庄市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28181,7 +28181,7 @@
       "_sourceRow": 1413
     },
     {
-      "城市": "泉州市",
+      "城市": "石家庄市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28201,7 +28201,7 @@
       "_sourceRow": 1414
     },
     {
-      "城市": "泉州市",
+      "城市": "石家庄市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28221,7 +28221,7 @@
       "_sourceRow": 1415
     },
     {
-      "城市": "泉州市",
+      "城市": "石家庄市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28241,7 +28241,7 @@
       "_sourceRow": 1416
     },
     {
-      "城市": "石家庄市",
+      "城市": "贵阳市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28261,7 +28261,7 @@
       "_sourceRow": 1417
     },
     {
-      "城市": "石家庄市",
+      "城市": "贵阳市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28281,7 +28281,7 @@
       "_sourceRow": 1418
     },
     {
-      "城市": "石家庄市",
+      "城市": "贵阳市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28301,7 +28301,7 @@
       "_sourceRow": 1419
     },
     {
-      "城市": "石家庄市",
+      "城市": "贵阳市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28321,7 +28321,7 @@
       "_sourceRow": 1420
     },
     {
-      "城市": "石家庄市",
+      "城市": "贵阳市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28341,106 +28341,6 @@
       "_sourceRow": 1421
     },
     {
-      "城市": "贵阳市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2021,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1422
-    },
-    {
-      "城市": "贵阳市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2022,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1423
-    },
-    {
-      "城市": "贵阳市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2023,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1424
-    },
-    {
-      "城市": "贵阳市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2024,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1425
-    },
-    {
-      "城市": "贵阳市",
-      "地区": "全市（首轮城市级汇总）",
-      "年份": 2025,
-      "初中英语计划数": null,
-      "高中英语计划数": null,
-      "本科通道计划数": null,
-      "硕士通道计划数": null,
-      "本科实际拟聘人数": null,
-      "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
-      "originalDistrictLabel": "全市（首轮城市级汇总）",
-      "canonicalDistrict": "全市",
-      "scopeType": "city_direct",
-      "_sourceRow": 1426
-    },
-    {
       "城市": "南昌市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
@@ -28458,7 +28358,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1427
+      "_sourceRow": 1422
     },
     {
       "城市": "南昌市",
@@ -28478,7 +28378,7 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1428
+      "_sourceRow": 1423
     },
     {
       "城市": "南昌市",
@@ -28498,10 +28398,110 @@
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
-      "_sourceRow": 1429
+      "_sourceRow": 1424
     },
     {
       "城市": "南昌市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2024,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1425
+    },
+    {
+      "城市": "南昌市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2025,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1426
+    },
+    {
+      "城市": "惠州市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2021,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1427
+    },
+    {
+      "城市": "惠州市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2022,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1428
+    },
+    {
+      "城市": "惠州市",
+      "地区": "全市（首轮城市级汇总）",
+      "年份": 2023,
+      "初中英语计划数": null,
+      "高中英语计划数": null,
+      "本科通道计划数": null,
+      "硕士通道计划数": null,
+      "本科实际拟聘人数": null,
+      "硕士实际拟聘人数": null,
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
+      "originalDistrictLabel": "全市（首轮城市级汇总）",
+      "canonicalDistrict": "全市",
+      "scopeType": "city_direct",
+      "_sourceRow": 1429
+    },
+    {
+      "城市": "惠州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28521,7 +28521,7 @@
       "_sourceRow": 1430
     },
     {
-      "城市": "南昌市",
+      "城市": "惠州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28530,18 +28530,18 @@
       "硕士通道计划数": null,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 1,
+      "证据等级": "C",
+      "来源数量": 1,
+      "备注": "A；计划数只列已核下限； 公开PDF材料列初中、高中英语岗位记录；本轮未把名单/结果行当作岗位计划人数。",
+      "年度分类(A/B/C/D)": "A",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1431
     },
     {
-      "城市": "惠州市",
+      "城市": "太原市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28561,7 +28561,7 @@
       "_sourceRow": 1432
     },
     {
-      "城市": "惠州市",
+      "城市": "太原市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28581,7 +28581,7 @@
       "_sourceRow": 1433
     },
     {
-      "城市": "惠州市",
+      "城市": "太原市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28601,7 +28601,7 @@
       "_sourceRow": 1434
     },
     {
-      "城市": "惠州市",
+      "城市": "太原市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28621,7 +28621,7 @@
       "_sourceRow": 1435
     },
     {
-      "城市": "惠州市",
+      "城市": "太原市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28630,18 +28630,18 @@
       "硕士通道计划数": null,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": 1,
-      "证据等级": "C",
-      "来源数量": 1,
-      "备注": "A；计划数只列已核下限； 公开PDF材料列初中、高中英语岗位记录；本轮未把名单/结果行当作岗位计划人数。",
-      "年度分类(A/B/C/D)": "A",
+      "招聘批次数": null,
+      "证据等级": "D",
+      "来源数量": null,
+      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
+      "年度分类(A/B/C/D)": "D",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
       "_sourceRow": 1436
     },
     {
-      "城市": "太原市",
+      "城市": "兰州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28661,7 +28661,7 @@
       "_sourceRow": 1437
     },
     {
-      "城市": "太原市",
+      "城市": "兰州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28681,7 +28681,7 @@
       "_sourceRow": 1438
     },
     {
-      "城市": "太原市",
+      "城市": "兰州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28701,7 +28701,7 @@
       "_sourceRow": 1439
     },
     {
-      "城市": "太原市",
+      "城市": "兰州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28721,7 +28721,7 @@
       "_sourceRow": 1440
     },
     {
-      "城市": "太原市",
+      "城市": "兰州市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28741,7 +28741,7 @@
       "_sourceRow": 1441
     },
     {
-      "城市": "兰州市",
+      "城市": "珠海市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28761,7 +28761,7 @@
       "_sourceRow": 1442
     },
     {
-      "城市": "兰州市",
+      "城市": "珠海市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28781,7 +28781,7 @@
       "_sourceRow": 1443
     },
     {
-      "城市": "兰州市",
+      "城市": "珠海市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28801,7 +28801,7 @@
       "_sourceRow": 1444
     },
     {
-      "城市": "兰州市",
+      "城市": "珠海市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28821,7 +28821,7 @@
       "_sourceRow": 1445
     },
     {
-      "城市": "兰州市",
+      "城市": "珠海市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28841,7 +28841,7 @@
       "_sourceRow": 1446
     },
     {
-      "城市": "珠海市",
+      "城市": "海口市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28861,7 +28861,7 @@
       "_sourceRow": 1447
     },
     {
-      "城市": "珠海市",
+      "城市": "海口市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28881,7 +28881,7 @@
       "_sourceRow": 1448
     },
     {
-      "城市": "珠海市",
+      "城市": "海口市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -28901,7 +28901,7 @@
       "_sourceRow": 1449
     },
     {
-      "城市": "珠海市",
+      "城市": "海口市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -28921,7 +28921,7 @@
       "_sourceRow": 1450
     },
     {
-      "城市": "珠海市",
+      "城市": "海口市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -28941,7 +28941,7 @@
       "_sourceRow": 1451
     },
     {
-      "城市": "海口市",
+      "城市": "乌鲁木齐市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -28961,7 +28961,7 @@
       "_sourceRow": 1452
     },
     {
-      "城市": "海口市",
+      "城市": "乌鲁木齐市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -28981,7 +28981,7 @@
       "_sourceRow": 1453
     },
     {
-      "城市": "海口市",
+      "城市": "乌鲁木齐市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -29001,7 +29001,7 @@
       "_sourceRow": 1454
     },
     {
-      "城市": "海口市",
+      "城市": "乌鲁木齐市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -29021,7 +29021,7 @@
       "_sourceRow": 1455
     },
     {
-      "城市": "海口市",
+      "城市": "乌鲁木齐市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -29041,7 +29041,7 @@
       "_sourceRow": 1456
     },
     {
-      "城市": "乌鲁木齐市",
+      "城市": "北京市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2021,
       "初中英语计划数": null,
@@ -29061,7 +29061,7 @@
       "_sourceRow": 1457
     },
     {
-      "城市": "乌鲁木齐市",
+      "城市": "北京市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2022,
       "初中英语计划数": null,
@@ -29081,7 +29081,7 @@
       "_sourceRow": 1458
     },
     {
-      "城市": "乌鲁木齐市",
+      "城市": "北京市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2023,
       "初中英语计划数": null,
@@ -29101,7 +29101,7 @@
       "_sourceRow": 1459
     },
     {
-      "城市": "乌鲁木齐市",
+      "城市": "北京市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2024,
       "初中英语计划数": null,
@@ -29121,7 +29121,7 @@
       "_sourceRow": 1460
     },
     {
-      "城市": "乌鲁木齐市",
+      "城市": "北京市",
       "地区": "全市（首轮城市级汇总）",
       "年份": 2025,
       "初中英语计划数": null,
@@ -29130,11 +29130,11 @@
       "硕士通道计划数": null,
       "本科实际拟聘人数": null,
       "硕士实际拟聘人数": null,
-      "招聘批次数": null,
-      "证据等级": "D",
-      "来源数量": null,
-      "备注": "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。",
-      "年度分类(A/B/C/D)": "D",
+      "招聘批次数": 1,
+      "证据等级": "S",
+      "来源数量": 1,
+      "备注": "B；计划数只列已核下限； 市政府官方招聘入口已找到；附件岗位表尚未完成英语岗位拆分，不据总招聘量估算。",
+      "年度分类(A/B/C/D)": "B",
       "originalDistrictLabel": "全市（首轮城市级汇总）",
       "canonicalDistrict": "全市",
       "scopeType": "city_direct",
