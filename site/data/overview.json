@@ -2,7 +2,7 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-11",
-    "generatedAt": "2026-10-11T23:06:27+08:00",
+    "generatedAt": "2026-10-11T23:19:47+08:00",
     "modelVersion": 1
   },
   "metrics": {
@@ -57,7 +57,7 @@
       "salary": 1,
       "competition": 23,
       "lifeData": 11,
-      "current2027": 33
+      "current2027": 31
     }
   },
   "dataQuality": {
