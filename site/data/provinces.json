@@ -349,16 +349,249 @@
     },
     {
       "province": "广东省",
-      "cityCount": 1,
+      "cityCount": 6,
       "cities": [
-        "深圳市"
+        "东莞市",
+        "佛山市",
+        "广州市",
+        "惠州市",
+        "深圳市",
+        "珠海市"
       ],
       "coverageAll": {
-        "rows": 55,
+        "rows": 80,
         "levels": {
-          "A": 47,
-          "B": 1,
+          "A": 54,
+          "B": 5,
           "C": 6,
+          "D": 15
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 80,
+        "levels": {
+          "A": 54,
+          "B": 5,
+          "C": 6,
+          "D": 15
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 70,
+        "senior": 10,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": 0,
+      "actualEvidenceRows": 2,
+      "uniqueActualEvidenceRows": 2,
+      "tracking2027Rows": 22,
+      "sourceGradeCounts": {
+        "S": 40,
+        "A": 5,
+        "B": 0,
+        "C": 3,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 48,
+      "dataCompleteness": {
+        "overall": 12,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 53,
+          "plans": 23,
+          "bachelorConditions": 6,
+          "actualBachelorEvidence": 0,
+          "employmentType": 7,
+          "salary": 0,
+          "competition": 3,
+          "lifeData": 2,
+          "current2027": 20
+        }
+      },
+      "mainRecordCount": 48,
+      "schoolSampleRows": 9,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 35,
+      "lifeDataRows": 5
+    },
+    {
+      "province": "北京市",
+      "cityCount": 1,
+      "cities": [
+        "北京市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 7,
+      "sourceGradeCounts": {
+        "S": 1,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 1,
+      "dataCompleteness": {
+        "overall": 9,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 20,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 60
+        }
+      },
+      "mainRecordCount": 1,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "上海市",
+      "cityCount": 1,
+      "cities": [
+        "上海市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 1,
+          "C": 0,
+          "D": 2
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 1,
+          "C": 0,
+          "D": 2
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 2,
+        "senior": 2,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 4,
+      "sourceGradeCounts": {
+        "S": 3,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 3,
+      "dataCompleteness": {
+        "overall": 18,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 60,
+          "plans": 40,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 60
+        }
+      },
+      "mainRecordCount": 3,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "四川省",
+      "cityCount": 1,
+      "cities": [
+        "成都市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 3,
+          "B": 1,
+          "C": 0,
           "D": 1
         },
         "years": [
@@ -370,11 +603,11 @@
         ]
       },
       "coverageCore": {
-        "rows": 55,
+        "rows": 5,
         "levels": {
-          "A": 47,
+          "A": 3,
           "B": 1,
-          "C": 6,
+          "C": 0,
           "D": 1
         },
         "years": [
@@ -386,42 +619,1489 @@
         ]
       },
       "historicalPlans": {
-        "junior": 50,
-        "senior": 10,
+        "junior": 6,
+        "senior": 3,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
-      "actualBachelorNominees": 0,
-      "actualEvidenceRows": 2,
-      "uniqueActualEvidenceRows": 2,
-      "tracking2027Rows": 16,
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 4,
       "sourceGradeCounts": {
-        "S": 32,
-        "A": 5,
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 4,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 4,
+      "dataCompleteness": {
+        "overall": 22,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 80,
+          "plans": 60,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 60
+        }
+      },
+      "mainRecordCount": 4,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "湖北省",
+      "cityCount": 1,
+      "cities": [
+        "武汉市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 2,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 37,
+      "sourceGradeRecordCount": 2,
       "dataCompleteness": {
-        "overall": 31,
+        "overall": 9,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 98,
-          "plans": 80,
+          "historicalCoverage": 40,
+          "plans": 0,
           "bachelorConditions": 0,
           "actualBachelorEvidence": 0,
-          "employmentType": 7,
+          "employmentType": 0,
           "salary": 0,
-          "competition": 20,
-          "lifeData": 13,
-          "current2027": 60
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 40
         }
       },
-      "mainRecordCount": 37,
-      "schoolSampleRows": 9,
+      "mainRecordCount": 2,
+      "schoolSampleRows": 0,
       "salaryAmountEvidenceRows": 0,
-      "competitionEvidenceRows": 35,
-      "lifeDataRows": 5
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "陕西省",
+      "cityCount": 1,
+      "cities": [
+        "西安市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": 2,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 1,
+        "A": 0,
+        "B": 2,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 3,
+      "dataCompleteness": {
+        "overall": 11,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 40,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 40
+        }
+      },
+      "mainRecordCount": 3,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "湖南省",
+      "cityCount": 1,
+      "cities": [
+        "长沙市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 1,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 1,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 1,
+      "dataCompleteness": {
+        "overall": 2,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 20,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 1,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "河南省",
+      "cityCount": 1,
+      "cities": [
+        "郑州市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": 1,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 1,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 1,
+      "dataCompleteness": {
+        "overall": 9,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 20,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 40
+        }
+      },
+      "mainRecordCount": 1,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "天津市",
+      "cityCount": 1,
+      "cities": [
+        "天津市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 1,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 2,
+      "sourceGradeCounts": {
+        "S": 2,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 2,
+      "dataCompleteness": {
+        "overall": 4,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 20,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 2,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "安徽省",
+      "cityCount": 1,
+      "cities": [
+        "合肥市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 0,
+          "C": 0,
+          "D": 3
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": 2,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 2,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 2,
+      "dataCompleteness": {
+        "overall": 11,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 40,
+          "plans": 40,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 20
+        }
+      },
+      "mainRecordCount": 2,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "辽宁省",
+      "cityCount": 2,
+      "cities": [
+        "大连市",
+        "沈阳市"
+      ],
+      "coverageAll": {
+        "rows": 10,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 9
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 10,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 9
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 1,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 2,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 1,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 1,
+      "dataCompleteness": {
+        "overall": 3,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 10,
+          "plans": 10,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 10
+        }
+      },
+      "mainRecordCount": 1,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "云南省",
+      "cityCount": 1,
+      "cities": [
+        "昆明市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "福建省",
+      "cityCount": 3,
+      "cities": [
+        "厦门市",
+        "泉州市",
+        "福州市"
+      ],
+      "coverageAll": {
+        "rows": 15,
+        "levels": {
+          "A": 1,
+          "B": 4,
+          "C": 0,
+          "D": 10
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 15,
+        "levels": {
+          "A": 1,
+          "B": 4,
+          "C": 0,
+          "D": 10
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 3,
+      "sourceGradeCounts": {
+        "S": 5,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 5,
+      "dataCompleteness": {
+        "overall": 4,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 33,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 5,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "黑龙江省",
+      "cityCount": 1,
+      "cities": [
+        "哈尔滨市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "广西壮族自治区",
+      "cityCount": 1,
+      "cities": [
+        "南宁市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 4
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 1,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 1,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 1,
+      "dataCompleteness": {
+        "overall": 9,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 20,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 40
+        }
+      },
+      "mainRecordCount": 1,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "吉林省",
+      "cityCount": 1,
+      "cities": [
+        "长春市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "河北省",
+      "cityCount": 1,
+      "cities": [
+        "石家庄市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "贵州省",
+      "cityCount": 1,
+      "cities": [
+        "贵阳市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "江西省",
+      "cityCount": 1,
+      "cities": [
+        "南昌市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 1,
+          "C": 0,
+          "D": 2
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 2,
+          "B": 1,
+          "C": 0,
+          "D": 2
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": 1,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 2,
+        "A": 0,
+        "B": 0,
+        "C": 1,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 3,
+      "dataCompleteness": {
+        "overall": 9,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 60,
+          "plans": 20,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 3,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "山西省",
+      "cityCount": 1,
+      "cities": [
+        "太原市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "甘肃省",
+      "cityCount": 1,
+      "cities": [
+        "兰州市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "海南省",
+      "cityCount": 1,
+      "cities": [
+        "海口市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
+    },
+    {
+      "province": "新疆维吾尔自治区",
+      "cityCount": 1,
+      "cities": [
+        "乌鲁木齐市"
+      ],
+      "coverageAll": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "coverageCore": {
+        "rows": 5,
+        "levels": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 5
+        },
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "historicalPlans": {
+        "junior": null,
+        "senior": null,
+        "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
+      },
+      "actualBachelorNominees": null,
+      "actualEvidenceRows": 0,
+      "uniqueActualEvidenceRows": 0,
+      "tracking2027Rows": 1,
+      "sourceGradeCounts": {
+        "S": 0,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "sourceGradeRecordCount": 0,
+      "dataCompleteness": {
+        "overall": 0,
+        "level": "low",
+        "dimensions": {
+          "historicalCoverage": 0,
+          "plans": 0,
+          "bachelorConditions": 0,
+          "actualBachelorEvidence": 0,
+          "employmentType": 0,
+          "salary": 0,
+          "competition": 0,
+          "lifeData": 0,
+          "current2027": 0
+        }
+      },
+      "mainRecordCount": 0,
+      "schoolSampleRows": 0,
+      "salaryAmountEvidenceRows": 0,
+      "competitionEvidenceRows": 0,
+      "lifeDataRows": 0
     }
   ]
 }

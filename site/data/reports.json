@@ -293,6 +293,186 @@
       "displayPath": "/reports/深圳市英语教师就业分析报告.html",
       "title": "深圳市英语教师就业分析报告",
       "available": true
+    },
+    {
+      "city": "北京市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "上海市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "广州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "成都市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "武汉市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "西安市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "长沙市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "郑州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "天津市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "合肥市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "东莞市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "佛山市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "沈阳市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "昆明市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "福州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "厦门市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "哈尔滨市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "大连市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "南宁市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "长春市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "泉州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "石家庄市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "贵阳市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "南昌市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "惠州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "太原市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "兰州市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "珠海市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "海口市",
+      "path": null,
+      "displayPath": null,
+      "available": false
+    },
+    {
+      "city": "乌鲁木齐市",
+      "path": null,
+      "displayPath": null,
+      "available": false
     }
   ],
   "provinceReports": [
