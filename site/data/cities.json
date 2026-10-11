@@ -59456,16 +59456,16 @@
     {
       "city": "天津市",
       "province": "天津市",
-      "progressStatus": "批次04核到滨海2023、天津多区2024及南开2025官方人社招聘表；仍需补天津2021—2022、各区原始岗位附件、拟聘学历、报名和工资。",
-      "mainRecordCount": 11,
-      "explicitPlanRecords": 4,
+      "progressStatus": "批次13完成早年公开招聘补查；计划、本科拟聘、完整区县覆盖仍待补。",
+      "mainRecordCount": 17,
+      "explicitPlanRecords": 6,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 5,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 0
         },
         "years": [
           2021,
@@ -59478,10 +59478,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 5,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 0
         },
         "years": [
           2021,
@@ -59492,51 +59492,51 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 11,
+        "S": 14,
         "A": 0,
         "B": 0,
-        "C": 0,
+        "C": 3,
         "D": 0
       },
-      "sourceGradeRecordCount": 11,
+      "sourceGradeRecordCount": 17,
       "bachelorLevelCounts": {
         "A": 0,
-        "B": 0,
-        "C": 1,
+        "B": 1,
+        "C": 2,
         "D": 0,
-        "unknown": 10
+        "unknown": 14
       },
       "targetFitCounts": {
         "A": 0,
-        "B": 0,
-        "C": 0,
+        "B": 1,
+        "C": 1,
         "D": 0,
-        "unknown": 11
+        "unknown": 15
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
-        "B": 0,
-        "C": 0,
+        "B": 1,
+        "C": 1,
         "D": 0,
-        "unknown": 3
+        "unknown": 6
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
-        "未明示/待核": 2,
-        "公办/事业单位相关（具体用工看公告）": 9
+        "未明示/待核": 6,
+        "公办/事业单位相关（具体用工看公告）": 11
       },
       "employmentTypeCounts": {
-        "事业编": 9,
+        "事业编": 10,
         "备案制": 0,
         "员额制": 0,
-        "合同制": 1,
+        "合同制": 2,
         "民办": 0,
         "其他": 0,
-        "无法判断": 1
+        "无法判断": 5
       },
       "historyPlans": {
-        "junior": 27,
-        "senior": 13,
+        "junior": 30,
+        "senior": 14,
         "bachelorChannel": 8,
         "masterChannel": 8,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
@@ -59549,41 +59549,41 @@
       "positiveBachelorEvidenceRows": 0,
       "tracking2027Rows": 2,
       "effective2027Records": 0,
-      "publicServiceRelatedRecordCount": 2,
+      "publicServiceRelatedRecordCount": 4,
       "schoolSampleRows": 0,
-      "salaryRows": 0,
-      "salaryAmountEvidenceRows": 0,
+      "salaryRows": 4,
+      "salaryAmountEvidenceRows": 1,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 0,
+      "competitionEvidenceRows": 3,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 28,
+        "overall": 33,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 60,
-          "plans": 60,
-          "bachelorConditions": 33,
+          "historicalCoverage": 100,
+          "plans": 80,
+          "bachelorConditions": 38,
           "actualBachelorEvidence": 0,
-          "employmentType": 100,
+          "employmentType": 63,
           "salary": 0,
-          "competition": 0,
+          "competition": 20,
           "lifeData": 0,
           "current2027": 0
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 3,
+            "numerator": 5,
             "denominator": 5,
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 1,
-            "denominator": 3,
+            "numerator": 3,
+            "denominator": 8,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -59592,8 +59592,8 @@
             "unit": "核心年份"
           },
           "employmentType": {
-            "numerator": 3,
-            "denominator": 3,
+            "numerator": 5,
+            "denominator": 8,
             "unit": "招聘记录"
           },
           "salary": {
@@ -59602,7 +59602,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 0,
+            "numerator": 1,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -59618,10 +59618,10 @@
           }
         },
         "coverageLevels": {
-          "A": 3,
+          "A": 5,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 0
         }
       },
       "annualPlans": [
@@ -59682,40 +59682,40 @@
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1348
           ],
           "notes": [
-            "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。"
+            "西青区招聘报道列中学英语3；学校、学段和岗位条件未核，数字不并入初中/高中。"
           ]
         },
         {
           "year": 2022,
-          "junior": null,
-          "senior": null,
+          "junior": 3,
+          "senior": 1,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 5,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1349
           ],
           "notes": [
-            "D=首轮公开资料不足，不等于无岗位；未发现数字留空，不填0。"
+            "初中3（生态城）、高中1（宁河）；西青6和新华1均为中学英语未拆学段。滨海审核/缴费人数与计划未匹配，不推算报录比。"
           ]
         },
         {
@@ -59784,6 +59784,89 @@
       ],
       "districtOpportunities": [
         {
+          "district": "中新天津生态城",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 22,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 100,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
           "district": "区级招聘管理单元",
           "juniorPlan": null,
           "seniorPlan": null,
@@ -59843,6 +59926,255 @@
               },
               "competition": {
                 "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "宁河区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 1,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "滨海新区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 2,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 20,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "西青区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 1,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 8,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 50,
+              "salary": 0,
+              "competition": 20,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 1,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 1,
                 "denominator": 5,
                 "unit": "核心年份"
               },
@@ -66677,16 +67009,16 @@
     {
       "city": "沈阳市",
       "province": "辽宁省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
-      "mainRecordCount": 2,
-      "explicitPlanRecords": 1,
+      "progressStatus": "批次13更新年度分类与取消岗位/报名快照；仍需完整市区县岗位与拟聘材料。",
+      "mainRecordCount": 3,
+      "explicitPlanRecords": 2,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         },
         "years": [
           2021,
@@ -66699,10 +67031,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         },
         "years": [
           2021,
@@ -66715,35 +67047,35 @@
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
-        "B": 0,
+        "B": 1,
         "C": 2,
         "D": 0
       },
-      "sourceGradeRecordCount": 2,
+      "sourceGradeRecordCount": 3,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 2
+        "unknown": 3
       },
       "targetFitCounts": {
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 2
+        "unknown": 3
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 1
+        "unknown": 2
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
-        "未明示/待核": 2
+        "未明示/待核": 3
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -66752,11 +67084,11 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 2
+        "无法判断": 3
       },
       "historyPlans": {
         "junior": 1,
-        "senior": null,
+        "senior": 1,
         "bachelorChannel": null,
         "masterChannel": null,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
@@ -66771,39 +67103,39 @@
       "effective2027Records": 0,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
-      "salaryRows": 0,
+      "salaryRows": 1,
       "salaryAmountEvidenceRows": 0,
       "officialSalaryEvidenceRows": 0,
-      "competitionEvidenceRows": 0,
+      "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 11,
+        "overall": 18,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 80,
-          "plans": 20,
+          "historicalCoverage": 100,
+          "plans": 40,
           "bachelorConditions": 0,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
-          "competition": 0,
+          "competition": 20,
           "lifeData": 0,
           "current2027": 0
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 4,
+            "numerator": 5,
             "denominator": 5,
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 1,
+            "numerator": 2,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
             "numerator": 0,
-            "denominator": 1,
+            "denominator": 2,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -66813,7 +67145,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 1,
+            "denominator": 2,
             "unit": "招聘记录"
           },
           "salary": {
@@ -66822,7 +67154,7 @@
             "unit": "核心年份"
           },
           "competition": {
-            "numerator": 0,
+            "numerator": 1,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -66838,10 +67170,10 @@
           }
         },
         "coverageLevels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         }
       },
       "annualPlans": [
@@ -66920,22 +67252,22 @@
         {
           "year": 2022,
           "junior": null,
-          "senior": null,
+          "senior": 1,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1368
           ],
           "notes": [
-            "未取得足够可复核年度英语招聘资料。"
+            "高中英语计划1、有效报名1；该岗位后续取消，未计拟聘人数。"
           ]
         },
         {
@@ -67003,6 +67335,89 @@
         }
       ],
       "districtOpportunities": [
+        {
+          "district": "全市",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 2,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 20,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
         {
           "district": "未分区",
           "juniorPlan": null,
@@ -67754,14 +68169,14 @@
     {
       "city": "福州市",
       "province": "福建省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次13更新2021—2022证据并刷新2027届；福州全市批次、区县计划与本科实际录用仍需补全。",
       "mainRecordCount": 5,
       "explicitPlanRecords": 1,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 4,
-          "B": 1,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -67776,8 +68191,8 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 4,
-          "B": 1,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -67798,11 +68213,11 @@
       },
       "sourceGradeRecordCount": 5,
       "bachelorLevelCounts": {
-        "A": 0,
+        "A": 1,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 5
+        "unknown": 4
       },
       "targetFitCounts": {
         "A": 0,
@@ -67816,7 +68231,7 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 4
+        "unknown": 3
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
@@ -67845,7 +68260,7 @@
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
       "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -67854,7 +68269,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 13,
+        "overall": 18,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -67865,7 +68280,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -67880,7 +68295,7 @@
           },
           "bachelorConditions": {
             "numerator": 0,
-            "denominator": 4,
+            "denominator": 3,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -67890,7 +68305,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 4,
+            "denominator": 3,
             "unit": "招聘记录"
           },
           "salary": {
@@ -67909,14 +68324,14 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
         },
         "coverageLevels": {
-          "A": 4,
-          "B": 1,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         }
@@ -67981,8 +68396,8 @@
           "masterChannel": null,
           "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -67991,7 +68406,7 @@
             1377
           ],
           "notes": [
-            "官方招聘批次已确认；英语岗位未从附件完整拆分。"
+            "市属中学英语计划27；官方选岗名单逐条可核到27条中学英语拟聘记录。本科/硕士实际拟聘拆分未取得。"
           ]
         },
         {
@@ -68012,7 +68427,7 @@
             1378
           ],
           "notes": [
-            "官方批次和英语岗位线索已确认；学段和数量尚未完整汇总。"
+            "官方面试资格材料与选岗名单可见中学英语岗位；计划数量和学历通道留空。"
           ]
         },
         {
@@ -68084,14 +68499,14 @@
     {
       "city": "厦门市",
       "province": "福建省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
-      "mainRecordCount": 0,
-      "explicitPlanRecords": 0,
+      "progressStatus": "批次13完成五年年度分类补充；城市全量岗位表与拟聘/竞争/薪资仍不完整。",
+      "mainRecordCount": 6,
+      "explicitPlanRecords": 3,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 0,
-          "B": 5,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -68106,8 +68521,8 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 0,
-          "B": 5,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -68122,34 +68537,36 @@
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
-        "B": 0,
-        "C": 0,
+        "B": 3,
+        "C": 3,
         "D": 0
       },
-      "sourceGradeRecordCount": 0,
+      "sourceGradeRecordCount": 6,
       "bachelorLevelCounts": {
-        "A": 0,
+        "A": 5,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "targetFitCounts": {
-        "A": 0,
+        "A": 5,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "recruitmentTargetFitCounts": {
-        "A": 0,
+        "A": 5,
         "B": 0,
         "C": 0,
         "D": 0,
-        "unknown": 0
+        "unknown": 1
       },
       "explicitHardBarrierRecords": 0,
-      "workCategoryCounts": {},
+      "workCategoryCounts": {
+        "未明示/待核": 6
+      },
       "employmentTypeCounts": {
         "事业编": 0,
         "备案制": 0,
@@ -68157,10 +68574,10 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 0
+        "无法判断": 6
       },
       "historyPlans": {
-        "junior": null,
+        "junior": 3,
         "senior": null,
         "bachelorChannel": null,
         "masterChannel": null,
@@ -68182,12 +68599,12 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 11,
+        "overall": 27,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
-          "plans": 0,
-          "bachelorConditions": 0,
+          "plans": 60,
+          "bachelorConditions": 83,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
@@ -68202,13 +68619,13 @@
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 0,
+            "numerator": 3,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 0,
-            "denominator": 0,
+            "numerator": 5,
+            "denominator": 6,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -68218,7 +68635,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 0,
+            "denominator": 6,
             "unit": "招聘记录"
           },
           "salary": {
@@ -68243,8 +68660,8 @@
           }
         },
         "coverageLevels": {
-          "A": 0,
-          "B": 5,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         }
@@ -68303,14 +68720,14 @@
         },
         {
           "year": 2021,
-          "junior": null,
+          "junior": 1,
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 2,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -68319,19 +68736,19 @@
             1382
           ],
           "notes": [
-            "官方招聘批次存在；英语岗位未拆。"
+            "同安区新教育学校初中英语1人，编外合同一年；城市级岗位表未完整解析。"
           ]
         },
         {
           "year": 2022,
-          "junior": null,
+          "junior": 1,
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 2,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -68340,7 +68757,7 @@
             1383
           ],
           "notes": [
-            "招聘材料可查；英语岗位未逐项拆分。"
+            "海沧中学临聘初中英语1人，聘期2022-02-12至07-12；市级岗位附件未完整解析。"
           ]
         },
         {
@@ -68349,10 +68766,10 @@
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -68361,7 +68778,7 @@
             1384
           ],
           "notes": [
-            "招聘批次转载可查；英语岗位未拆。"
+            "厦门外国语学校中学英语4名，非编；学段拆分及全市英语总数未核。"
           ]
         },
         {
@@ -68370,10 +68787,10 @@
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 2,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -68382,19 +68799,19 @@
             1385
           ],
           "notes": [
-            "高校就业平台招聘批次；英语岗位未拆。"
+            "84仅为转载的市属“中学/中职英语”计划，不合入初高中分项；岗位附件待官方核验。"
           ]
         },
         {
           "year": 2025,
-          "junior": null,
+          "junior": 1,
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 3,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -68403,11 +68820,261 @@
             1386
           ],
           "notes": [
-            "高校就业平台招聘批次；英语岗位未拆。"
+            "初中英语明确1人；厦门二中高中英语“若干”，保持空值不填0。学校原公告与全市岗位附件待核。"
           ]
         }
       ],
-      "districtOpportunities": []
+      "districtOpportunities": [
+        {
+          "district": "同安区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "市属",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 7,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 67,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 2,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "海沧区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 2,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 2,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        }
+      ]
     },
     {
       "city": "哈尔滨市",
@@ -70070,16 +70737,16 @@
     {
       "city": "长春市",
       "province": "吉林省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次10完成2021/2022长春新区批次级补证；附件不全、区县全量、拟聘、报名实数、学校样本和生活数据仍需分批核查。",
-      "mainRecordCount": 8,
-      "explicitPlanRecords": 7,
+      "progressStatus": "批次13补入2023官方招聘阶段证据和职位库岗位下限；完整附件待核。",
+      "mainRecordCount": 9,
+      "explicitPlanRecords": 8,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         },
         "years": [
           2021,
@@ -70092,10 +70759,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         },
         "years": [
           2021,
@@ -70109,22 +70776,22 @@
         "S": 6,
         "A": 0,
         "B": 0,
-        "C": 2,
+        "C": 3,
         "D": 0
       },
-      "sourceGradeRecordCount": 8,
+      "sourceGradeRecordCount": 9,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 7,
         "C": 0,
-        "D": 0,
+        "D": 1,
         "unknown": 1
       },
       "targetFitCounts": {
         "A": 0,
         "B": 5,
         "C": 0,
-        "D": 0,
+        "D": 1,
         "unknown": 3
       },
       "recruitmentTargetFitCounts": {
@@ -70137,19 +70804,19 @@
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
         "未明示/待核": 2,
-        "公办/事业单位相关（具体用工看公告）": 6
+        "公办/事业单位相关（具体用工看公告）": 7
       },
       "employmentTypeCounts": {
         "事业编": 0,
         "备案制": 0,
         "员额制": 0,
-        "合同制": 6,
+        "合同制": 7,
         "民办": 0,
         "其他": 0,
         "无法判断": 2
       },
       "historyPlans": {
-        "junior": 9,
+        "junior": 10,
         "senior": 1,
         "bachelorChannel": 7,
         "masterChannel": 0,
@@ -70171,11 +70838,11 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 40,
+        "overall": 45,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 80,
-          "plans": 40,
+          "historicalCoverage": 100,
+          "plans": 60,
           "bachelorConditions": 88,
           "actualBachelorEvidence": 0,
           "employmentType": 75,
@@ -70186,12 +70853,12 @@
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 4,
+            "numerator": 5,
             "denominator": 5,
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 2,
+            "numerator": 3,
             "denominator": 5,
             "unit": "核心年份"
           },
@@ -70232,10 +70899,10 @@
           }
         },
         "coverageLevels": {
-          "A": 2,
+          "A": 3,
           "B": 2,
           "C": 0,
-          "D": 1
+          "D": 0
         }
       },
       "annualPlans": [
@@ -70334,23 +71001,23 @@
         },
         {
           "year": 2023,
-          "junior": null,
+          "junior": 1,
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1404
           ],
           "notes": [
-            "未取得足够可复核年度资料。"
+            "官方通知证实初中英语岗位；计划1及慧谷学校、学历条件为C级职位库线索。"
           ]
         },
         {
@@ -71231,14 +71898,14 @@
     {
       "city": "石家庄市",
       "province": "河北省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次10完成2021/2022市级特岗公告补证；分学科附件、英语计划、本科拟聘、报名实数、金额化薪资及区县学校样本仍待补。",
-      "mainRecordCount": 4,
+      "progressStatus": "批次13补充学校专项公告；2021计划数量与校区/学段未披露。",
+      "mainRecordCount": 5,
       "explicitPlanRecords": 0,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 2,
-          "B": 3,
+          "A": 3,
+          "B": 2,
           "C": 0,
           "D": 0
         },
@@ -71253,8 +71920,8 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 2,
-          "B": 3,
+          "A": 3,
+          "B": 2,
           "C": 0,
           "D": 0
         },
@@ -71267,41 +71934,41 @@
         ]
       },
       "sourceGradeCounts": {
-        "S": 2,
+        "S": 3,
         "A": 0,
         "B": 1,
         "C": 1,
         "D": 0
       },
-      "sourceGradeRecordCount": 4,
+      "sourceGradeRecordCount": 5,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 0,
-        "C": 0,
+        "C": 1,
         "D": 0,
         "unknown": 4
       },
       "targetFitCounts": {
         "A": 0,
         "B": 0,
-        "C": 0,
+        "C": 1,
         "D": 0,
         "unknown": 4
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
         "B": 0,
-        "C": 0,
+        "C": 1,
         "D": 0,
         "unknown": 4
       },
       "explicitHardBarrierRecords": 0,
       "workCategoryCounts": {
         "未明示/待核": 3,
-        "公办/事业单位相关（具体用工看公告）": 1
+        "公办/事业单位相关（具体用工看公告）": 2
       },
       "employmentTypeCounts": {
-        "事业编": 1,
+        "事业编": 2,
         "备案制": 0,
         "员额制": 0,
         "合同制": 0,
@@ -71324,7 +71991,7 @@
       "positiveBachelorEvidenceRows": 0,
       "tracking2027Rows": 2,
       "effective2027Records": 1,
-      "publicServiceRelatedRecordCount": 1,
+      "publicServiceRelatedRecordCount": 2,
       "schoolSampleRows": 0,
       "salaryRows": 5,
       "salaryAmountEvidenceRows": 1,
@@ -71332,14 +71999,14 @@
       "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 21,
+        "overall": 24,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
           "plans": 0,
-          "bachelorConditions": 0,
+          "bachelorConditions": 20,
           "actualBachelorEvidence": 0,
-          "employmentType": 25,
+          "employmentType": 40,
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
@@ -71357,8 +72024,8 @@
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 0,
-            "denominator": 4,
+            "numerator": 1,
+            "denominator": 5,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -71367,8 +72034,8 @@
             "unit": "核心年份"
           },
           "employmentType": {
-            "numerator": 1,
-            "denominator": 4,
+            "numerator": 2,
+            "denominator": 5,
             "unit": "招聘记录"
           },
           "salary": {
@@ -71393,8 +72060,8 @@
           }
         },
         "coverageLevels": {
-          "A": 2,
-          "B": 3,
+          "A": 3,
+          "B": 2,
           "C": 0,
           "D": 0
         }
@@ -71459,8 +72126,8 @@
           "masterChannel": null,
           "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -71469,7 +72136,7 @@
             1412
           ],
           "notes": [
-            "石家庄市教育局官方通知确认元氏、井陉、无极3县实施特岗计划，并引用分学科岗位表；附件当前不可读，英语岗位和人数未拆，不作0。"
+            "石家庄一中教育集团校方公告列英语招聘，具体岗位数和初高中学段未披露；本科为特定高校通道。"
           ]
         },
         {
@@ -71691,6 +72358,89 @@
               },
               "employmentType": {
                 "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "市级",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 1,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 22,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 100,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 1,
                 "denominator": 1,
                 "unit": "招聘记录"
               },
@@ -73054,16 +73804,16 @@
     {
       "city": "太原市",
       "province": "山西省",
-      "progressStatus": "批次11复核早年公开渠道仍不足，2021—2022维持D；继续核对市级、区县和学校专项入口，不推断无岗位。",
-      "mainRecordCount": 1,
-      "explicitPlanRecords": 1,
+      "progressStatus": "批次13完成2021—2023一轮补查；数字多来自转载，官方岗位表和全市区县覆盖未完成。",
+      "mainRecordCount": 5,
+      "explicitPlanRecords": 4,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 1,
-          "B": 1,
+          "A": 3,
+          "B": 2,
           "C": 0,
-          "D": 3
+          "D": 0
         },
         "years": [
           2021,
@@ -73076,10 +73826,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 1,
-          "B": 1,
+          "A": 3,
+          "B": 2,
           "C": 0,
-          "D": 3
+          "D": 0
         },
         "years": [
           2021,
@@ -73092,48 +73842,48 @@
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
-        "B": 0,
-        "C": 1,
+        "B": 1,
+        "C": 4,
         "D": 0
       },
-      "sourceGradeRecordCount": 1,
+      "sourceGradeRecordCount": 5,
       "bachelorLevelCounts": {
-        "A": 0,
+        "A": 2,
+        "B": 0,
+        "C": 0,
+        "D": 2,
+        "unknown": 1
+      },
+      "targetFitCounts": {
+        "A": 2,
         "B": 0,
         "C": 0,
         "D": 1,
-        "unknown": 0
-      },
-      "targetFitCounts": {
-        "A": 0,
-        "B": 0,
-        "C": 0,
-        "D": 0,
-        "unknown": 1
+        "unknown": 2
       },
       "recruitmentTargetFitCounts": {
-        "A": 0,
+        "A": 1,
         "B": 0,
         "C": 0,
-        "D": 0,
-        "unknown": 1
+        "D": 1,
+        "unknown": 2
       },
-      "explicitHardBarrierRecords": 0,
+      "explicitHardBarrierRecords": 1,
       "workCategoryCounts": {
-        "未明示/待核": 1
+        "未明示/待核": 5
       },
       "employmentTypeCounts": {
         "事业编": 0,
         "备案制": 0,
         "员额制": 0,
-        "合同制": 0,
+        "合同制": 2,
         "民办": 0,
         "其他": 0,
-        "无法判断": 1
+        "无法判断": 3
       },
       "historyPlans": {
-        "junior": null,
-        "senior": 3,
+        "junior": 6,
+        "senior": 5,
         "bachelorChannel": null,
         "masterChannel": 3,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
@@ -73144,8 +73894,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 3,
-      "effective2027Records": 2,
+      "tracking2027Rows": 5,
+      "effective2027Records": 4,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -73154,14 +73904,14 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 24,
+        "overall": 36,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 40,
-          "plans": 20,
-          "bachelorConditions": 100,
+          "historicalCoverage": 100,
+          "plans": 60,
+          "bachelorConditions": 75,
           "actualBachelorEvidence": 0,
-          "employmentType": 0,
+          "employmentType": 25,
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
@@ -73169,18 +73919,18 @@
         },
         "dimensionDetails": {
           "historicalCoverage": {
-            "numerator": 2,
+            "numerator": 5,
             "denominator": 5,
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 1,
-            "denominator": 1,
+            "numerator": 3,
+            "denominator": 4,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -73189,8 +73939,8 @@
             "unit": "核心年份"
           },
           "employmentType": {
-            "numerator": 0,
-            "denominator": 1,
+            "numerator": 1,
+            "denominator": 4,
             "unit": "招聘记录"
           },
           "salary": {
@@ -73215,10 +73965,10 @@
           }
         },
         "coverageLevels": {
-          "A": 1,
-          "B": 1,
+          "A": 3,
+          "B": 2,
           "C": 0,
-          "D": 3
+          "D": 0
         }
       },
       "annualPlans": [
@@ -73279,61 +74029,61 @@
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
             "A": 0,
-            "B": 0,
+            "B": 1,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1432
           ],
           "notes": [
-            "未取得足够可复核年度资料。"
+            "只确认教育招聘批次，未取得英语岗位明细；B不代表有或无英语岗位。"
           ]
         },
         {
           "year": 2022,
-          "junior": null,
+          "junior": 1,
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1433
           ],
           "notes": [
-            "未取得足够可复核年度资料。"
+            "万柏林区实验中学初中英语1岗；普通本科满足基本学历，岗位为政府购买服务/劳务派遣。"
           ]
         },
         {
           "year": 2023,
-          "junior": null,
-          "senior": null,
+          "junior": 5,
+          "senior": 2,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 2,
           "coverageLevels": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
-            "D": 1
+            "D": 0
           },
           "coverageRows": 1,
           "planSourceRows": [
             1434
           ],
           "notes": [
-            "未取得足够可复核年度资料。"
+            "迎泽高中2、研究生条件和小店初中5均待官方岗位表复核；小店小学英语排除。"
           ]
         },
         {
@@ -73380,6 +74130,89 @@
         }
       ],
       "districtOpportunities": [
+        {
+          "district": "万柏林区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 0,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
         {
           "district": "太原市教育局直属学校双选活动",
           "juniorPlan": null,
@@ -73545,20 +74378,186 @@
             }
           },
           "planYears": 0
+        },
+        {
+          "district": "小店区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 22,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 100,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "迎泽区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 1,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
         }
       ]
     },
     {
       "city": "兰州市",
       "province": "甘肃省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
-      "mainRecordCount": 3,
-      "explicitPlanRecords": 3,
+      "progressStatus": "批次13补入2021—2023英语岗位与2027届新区人才引进线索；附件与拟聘尚待复核。",
+      "mainRecordCount": 14,
+      "explicitPlanRecords": 13,
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 2,
-          "B": 3,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -73573,8 +74572,8 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 2,
-          "B": 3,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         },
@@ -73590,34 +74589,34 @@
         "S": 0,
         "A": 0,
         "B": 1,
-        "C": 2,
+        "C": 13,
         "D": 0
       },
-      "sourceGradeRecordCount": 3,
+      "sourceGradeRecordCount": 14,
       "bachelorLevelCounts": {
-        "A": 0,
-        "B": 1,
+        "A": 6,
+        "B": 2,
         "C": 0,
-        "D": 0,
-        "unknown": 2
+        "D": 3,
+        "unknown": 3
       },
       "targetFitCounts": {
-        "A": 0,
-        "B": 0,
+        "A": 6,
+        "B": 1,
         "C": 0,
-        "D": 0,
-        "unknown": 3
+        "D": 3,
+        "unknown": 4
       },
       "recruitmentTargetFitCounts": {
-        "A": 0,
-        "B": 0,
+        "A": 6,
+        "B": 1,
         "C": 0,
-        "D": 0,
-        "unknown": 3
+        "D": 3,
+        "unknown": 4
       },
-      "explicitHardBarrierRecords": 0,
+      "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "未明示/待核": 3
+        "未明示/待核": 14
       },
       "employmentTypeCounts": {
         "事业编": 0,
@@ -73626,13 +74625,13 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 3
+        "无法判断": 14
       },
       "historyPlans": {
-        "junior": null,
-        "senior": 4,
-        "bachelorChannel": 1,
-        "masterChannel": null,
+        "junior": 9,
+        "senior": 20,
+        "bachelorChannel": 23,
+        "masterChannel": 25,
         "scope": "2021—2025公开资料已核计划下限；城市汇总行优先于县区行，未列数字仍为空。"
       },
       "actualBachelorNominees": null,
@@ -73651,18 +74650,18 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 19,
+        "overall": 33,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
-          "plans": 40,
-          "bachelorConditions": 33,
+          "plans": 80,
+          "bachelorConditions": 79,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -73671,13 +74670,13 @@
             "unit": "区域-年份审计行"
           },
           "plans": {
-            "numerator": 2,
+            "numerator": 4,
             "denominator": 5,
             "unit": "核心年份"
           },
           "bachelorConditions": {
-            "numerator": 1,
-            "denominator": 3,
+            "numerator": 11,
+            "denominator": 14,
             "unit": "招聘记录"
           },
           "actualBachelorEvidence": {
@@ -73687,7 +74686,7 @@
           },
           "employmentType": {
             "numerator": 0,
-            "denominator": 3,
+            "denominator": 14,
             "unit": "招聘记录"
           },
           "salary": {
@@ -73706,14 +74705,14 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
         },
         "coverageLevels": {
-          "A": 2,
-          "B": 3,
+          "A": 5,
+          "B": 0,
           "C": 0,
           "D": 0
         }
@@ -73776,10 +74775,10 @@
           "senior": null,
           "bachelorChannel": null,
           "masterChannel": null,
-          "batchCount": null,
+          "batchCount": 1,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -73788,19 +74787,19 @@
             1437
           ],
           "notes": [
-            "招聘批次可查；英语岗位未拆。"
+            "兰州新区英语3人数字由二级转载确认；学段、学校和学历要求未核，不计初中/高中分项。"
           ]
         },
         {
           "year": 2022,
           "junior": null,
-          "senior": null,
-          "bachelorChannel": null,
-          "masterChannel": null,
-          "batchCount": null,
+          "senior": 12,
+          "bachelorChannel": 9,
+          "masterChannel": 12,
+          "batchCount": 4,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -73809,19 +74808,19 @@
             1438
           ],
           "notes": [
-            "招聘批次可查；英语岗位未拆。"
+            "高中英语下限12，计划行来自多批次；本科计划9为兰州一中英语岗位，硕士可报席位与本科通道有重叠，不相加为总岗位数。"
           ]
         },
         {
           "year": 2023,
-          "junior": null,
-          "senior": null,
-          "bachelorChannel": null,
-          "masterChannel": null,
-          "batchCount": null,
+          "junior": 9,
+          "senior": 4,
+          "bachelorChannel": 13,
+          "masterChannel": 13,
+          "batchCount": 2,
           "coverageLevels": {
-            "A": 0,
-            "B": 1,
+            "A": 1,
+            "B": 0,
             "C": 0,
             "D": 0
           },
@@ -73830,7 +74829,7 @@
             1439
           ],
           "notes": [
-            "官方招聘批次已找到，英语岗位未从附件拆出。"
+            "部分职位列表可见初中9、高中4；岗位为聘用制。该数是可见条目下限，不表示全市总量。"
           ]
         },
         {
@@ -73876,7 +74875,340 @@
           ]
         }
       ],
-      "districtOpportunities": []
+      "districtOpportunities": [
+        {
+          "district": "七里河区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 3,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "兰州新区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 0,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 1,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "市属",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 4,
+                "denominator": 4,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 4,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "西固区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 11,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 100,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 0
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 3,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 3,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        }
+      ]
     },
     {
       "city": "珠海市",
