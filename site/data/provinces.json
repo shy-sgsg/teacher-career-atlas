@@ -155,10 +155,10 @@
         "S": 25,
         "A": 206,
         "B": 365,
-        "C": 24,
+        "C": 25,
         "D": 37
       },
-      "sourceGradeRecordCount": 657,
+      "sourceGradeRecordCount": 658,
       "dataCompleteness": {
         "overall": 40,
         "level": "low",
@@ -174,7 +174,7 @@
           "current2027": 52
         }
       },
-      "mainRecordCount": 657,
+      "mainRecordCount": 658,
       "schoolSampleRows": 137,
       "salaryAmountEvidenceRows": 18,
       "competitionEvidenceRows": 23,

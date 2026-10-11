@@ -19121,8 +19121,8 @@
       "city": "徐州市",
       "province": "江苏省",
       "progressStatus": "批次15补入1条岗位空缺证据并更新2021计划下限；2027届公办与企业岗位分开。历史区县覆盖与拟聘仍需继续深查。",
-      "mainRecordCount": 29,
-      "explicitPlanRecords": 5,
+      "mainRecordCount": 30,
+      "explicitPlanRecords": 6,
       "coverageAll": {
         "rows": 104,
         "levels": {
@@ -19162,23 +19162,23 @@
         "S": 0,
         "A": 9,
         "B": 15,
-        "C": 5,
+        "C": 6,
         "D": 0
       },
-      "sourceGradeRecordCount": 29,
+      "sourceGradeRecordCount": 30,
       "bachelorLevelCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 25
+        "unknown": 26
       },
       "targetFitCounts": {
         "A": 0,
         "B": 2,
         "C": 0,
         "D": 2,
-        "unknown": 25
+        "unknown": 26
       },
       "recruitmentTargetFitCounts": {
         "A": 0,
@@ -19189,7 +19189,7 @@
       },
       "explicitHardBarrierRecords": 2,
       "workCategoryCounts": {
-        "公办/事业单位相关（具体用工看公告）": 29
+        "公办/事业单位相关（具体用工看公告）": 30
       },
       "employmentTypeCounts": {
         "事业编": 2,
@@ -19198,7 +19198,7 @@
         "合同制": 0,
         "民办": 0,
         "其他": 0,
-        "无法判断": 27
+        "无法判断": 28
       },
       "historyPlans": {
         "junior": 8,
