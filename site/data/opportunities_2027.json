@@ -12003,10 +12003,10 @@
       "发布日期": "2026-10-08",
       "截止/过期日期": "网络报名2026-10-14 09:00至2026-10-20 17:00；北京考点现场资格审查至2026-10-20 17:00。",
       "条件变化判断": "官方公告确认面向2027届，非广州户籍须符合人才入户条件；教师资格和最高学历学位须于2027-12-31前取得。",
-      "当前状态": "截至2026-10-11尚未开始网络报名；广州事业编岗位面向2027届，北京仅为招聘考点，报名将于2026-10-14开启。",
+      "当前状态": "截至2026-10-12，尚未开始网上报名；北京考点网上报名将于2026-10-14 09:00开始、10-20 17:00截止。北京为招聘考点，岗位工作地为广州市属/区属学校。",
       "证据等级": "S/A",
-      "公告/网申链接": "https://jyj.gz.gov.cn/yw/tzgg/content/post_11030312.html",
-      "相关来源": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+      "公告/网申链接": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+      "相关来源": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html; https://jyj.gz.gov.cn/attachment/8/8081/8081806/11030311.zip",
       "备注": "官方附件逐校英语人数：广东广雅中学4、广州市执信中学4、广州市第二中学1、广州市第六中学4、广州市铁一中学3、广东华侨中学2、广州外国语学校3、清华附中湾区学校3、中国教育科学研究院荔湾实验学校（初中）1、广东番禺中学2、广州市禺山高级中学2、广东外语外贸大学附属南沙学校1，合计30。市教育局公告同时列明全项目计划招聘395名编制内教师。湖南师大2026-09-24的广州外国语学校来校招聘信息称该校全科计划36名；本行以教育局官方附件英语岗位明细为准。",
       "目标用户匹配度": "D（明确硕士及以上）",
       "目标用户匹配依据": "所有英语岗位均要求硕士研究生及以上；附件中的本科专业限制是研究生通道的前置专业条件，不构成本科毕业生报考通道。",
@@ -12021,11 +12021,10 @@
       "platformExpiryDate": null,
       "deadlineType": "官方报名截止（北京考点）",
       "sourceGrades": [
-        "S",
-        "A"
+        "S"
       ],
       "primarySourceGrade": "S",
-      "primarySourceGradeNote": "广州市教育局原公告核实届别、报名时间、事业编及条件；附件岗位表用于英语岗位数。",
+      "primarySourceGradeNote": "广州市教育局官方公告及官方岗位表压缩包；岗位数量与学历要求逐岗核对。",
       "currentTargetFit": "D",
       "_sourceRow": 197,
       "targetFitBand": "D",
@@ -12042,8 +12041,8 @@
       },
       "statusCategory": "即将开始（报名日期）",
       "sourceUrls": [
-        "https://jyj.gz.gov.cn/yw/tzgg/content/post_11030312.html",
-        "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html"
+        "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+        "https://jyj.gz.gov.cn/attachment/8/8081/8081806/11030311.zip"
       ],
       "isExplicit2027": true,
       "isEffective2027": true,
@@ -12625,10 +12624,10 @@
       "发布日期": "2026-10-08",
       "截止/过期日期": "网络报名2026-10-28 09:00至2026-11-03 17:00；武汉考点现场资格审查至2026-11-03 17:00。",
       "条件变化判断": "官方公告确认面向2027届，非广州户籍须符合人才入户条件；教师资格和最高学历学位须于2027-12-31前取得。",
-      "当前状态": "截至2026-10-11尚未开始网络报名；岗位属于广州事业编校园招聘，武汉仅为招聘考点，报名将于2026-10-28开启。",
+      "当前状态": "截至2026-10-12，尚未开始网上报名；武汉考点网上报名将于2026-10-28 09:00开始、11-03 17:00截止。武汉为招聘考点，岗位工作地为广州所属学校。",
       "证据等级": "S/A",
-      "公告/网申链接": "https://jyj.gz.gov.cn/yw/tzgg/content/post_11030312.html",
-      "相关来源": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+      "公告/网申链接": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+      "相关来源": "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html; https://jyj.gz.gov.cn/attachment/8/8081/8081806/11030311.zip",
       "备注": "官方附件逐校英语人数：广州市执信中学4、广州市第六中学4、广东华侨中学2、广州外国语学校2、清华附中湾区学校3、广州市第十六中学1、广州市培正中学1、广州市育才中学1、广州市第一中学（高中英语）2、广东仲元中学3、广州市增城区仙村中学（高中英语）1，合计24。市教育局公告同时列明全项目计划招聘395名编制内教师。",
       "目标用户匹配度": "D（明确硕士及以上）",
       "目标用户匹配依据": "所有英语岗位均要求硕士研究生及以上；附件中的本科专业限制是研究生通道的前置专业条件，不构成本科毕业生报考通道。",
@@ -12643,11 +12642,10 @@
       "platformExpiryDate": null,
       "deadlineType": "官方报名截止（武汉考点）",
       "sourceGrades": [
-        "S",
-        "A"
+        "S"
       ],
       "primarySourceGrade": "S",
-      "primarySourceGradeNote": "广州市教育局原公告核实届别、报名时间、事业编及条件；附件岗位表用于英语岗位数。",
+      "primarySourceGradeNote": "广州市教育局官方公告及官方岗位表压缩包；岗位数量与学历要求逐岗核对。",
       "currentTargetFit": "D",
       "_sourceRow": 207,
       "targetFitBand": "D",
@@ -12664,8 +12662,8 @@
       },
       "statusCategory": "即将开始（报名日期）",
       "sourceUrls": [
-        "https://jyj.gz.gov.cn/yw/tzgg/content/post_11030312.html",
-        "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html"
+        "https://jyj.gz.gov.cn/gk/zfxxgkml/bmwj/qtwj/content/post_11030311.html",
+        "https://jyj.gz.gov.cn/attachment/8/8081/8081806/11030311.zip"
       ],
       "isExplicit2027": true,
       "isEffective2027": true,

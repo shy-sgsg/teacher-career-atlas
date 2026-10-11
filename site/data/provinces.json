@@ -361,10 +361,10 @@
       "coverageAll": {
         "rows": 80,
         "levels": {
-          "A": 59,
+          "A": 62,
           "B": 8,
           "C": 6,
-          "D": 7
+          "D": 4
         },
         "years": [
           2021,
@@ -377,10 +377,10 @@
       "coverageCore": {
         "rows": 80,
         "levels": {
-          "A": 59,
+          "A": 62,
           "B": 8,
           "C": 6,
-          "D": 7
+          "D": 4
         },
         "years": [
           2021,
@@ -391,8 +391,8 @@
         ]
       },
       "historicalPlans": {
-        "junior": 109,
-        "senior": 27,
+        "junior": 212,
+        "senior": 40,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
       "actualBachelorNominees": 0,
@@ -400,32 +400,32 @@
       "uniqueActualEvidenceRows": 2,
       "tracking2027Rows": 20,
       "sourceGradeCounts": {
-        "S": 75,
+        "S": 130,
         "A": 5,
         "B": 0,
         "C": 3,
         "D": 0
       },
-      "sourceGradeRecordCount": 83,
+      "sourceGradeRecordCount": 138,
       "dataCompleteness": {
-        "overall": 16,
+        "overall": 26,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 80,
-          "plans": 30,
-          "bachelorConditions": 4,
+          "historicalCoverage": 90,
+          "plans": 43,
+          "bachelorConditions": 28,
           "actualBachelorEvidence": 0,
-          "employmentType": 10,
+          "employmentType": 37,
           "salary": 0,
-          "competition": 3,
+          "competition": 13,
           "lifeData": 2,
           "current2027": 20
         }
       },
-      "mainRecordCount": 83,
+      "mainRecordCount": 138,
       "schoolSampleRows": 9,
       "salaryAmountEvidenceRows": 0,
-      "competitionEvidenceRows": 35,
+      "competitionEvidenceRows": 38,
       "lifeDataRows": 5
     },
     {
