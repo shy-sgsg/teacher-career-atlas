@@ -59,7 +59,7 @@
       "actualBachelorNominees": 25,
       "actualEvidenceRows": 29,
       "uniqueActualEvidenceRows": 28,
-      "tracking2027Rows": 59,
+      "tracking2027Rows": 60,
       "sourceGradeCounts": {
         "S": 73,
         "A": 69,
@@ -150,7 +150,7 @@
       "actualBachelorNominees": 95,
       "actualEvidenceRows": 54,
       "uniqueActualEvidenceRows": 54,
-      "tracking2027Rows": 41,
+      "tracking2027Rows": 42,
       "sourceGradeCounts": {
         "S": 24,
         "A": 206,
@@ -437,10 +437,10 @@
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 4,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 1
         },
         "years": [
           2021,
@@ -453,10 +453,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 4,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 1
         },
         "years": [
           2021,
@@ -467,38 +467,38 @@
         ]
       },
       "historicalPlans": {
-        "junior": 3,
-        "senior": 7,
+        "junior": 31,
+        "senior": 9,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 4,
+      "tracking2027Rows": 6,
       "sourceGradeCounts": {
-        "S": 5,
+        "S": 9,
         "A": 0,
         "B": 0,
         "C": 0,
         "D": 0
       },
-      "sourceGradeRecordCount": 5,
+      "sourceGradeRecordCount": 9,
       "dataCompleteness": {
-        "overall": 31,
+        "overall": 36,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 60,
-          "plans": 60,
-          "bachelorConditions": 100,
+          "historicalCoverage": 80,
+          "plans": 80,
+          "bachelorConditions": 86,
           "actualBachelorEvidence": 0,
-          "employmentType": 0,
+          "employmentType": 14,
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
           "current2027": 60
         }
       },
-      "mainRecordCount": 5,
+      "mainRecordCount": 9,
       "schoolSampleRows": 0,
       "salaryAmountEvidenceRows": 0,
       "competitionEvidenceRows": 0,
@@ -893,10 +893,10 @@
       "coverageAll": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 5,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 0
         },
         "years": [
           2021,
@@ -909,10 +909,10 @@
       "coverageCore": {
         "rows": 5,
         "levels": {
-          "A": 3,
+          "A": 5,
           "B": 0,
           "C": 0,
-          "D": 2
+          "D": 0
         },
         "years": [
           2021,
@@ -924,40 +924,40 @@
       },
       "historicalPlans": {
         "junior": 13,
-        "senior": 44,
+        "senior": 76,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 4,
       "sourceGradeCounts": {
-        "S": 0,
+        "S": 1,
         "A": 0,
-        "B": 2,
-        "C": 2,
+        "B": 5,
+        "C": 4,
         "D": 0
       },
-      "sourceGradeRecordCount": 4,
+      "sourceGradeRecordCount": 10,
       "dataCompleteness": {
-        "overall": 16,
+        "overall": 40,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 60,
-          "plans": 60,
-          "bachelorConditions": 0,
+          "historicalCoverage": 100,
+          "plans": 100,
+          "bachelorConditions": 57,
           "actualBachelorEvidence": 0,
           "employmentType": 0,
           "salary": 0,
-          "competition": 0,
+          "competition": 20,
           "lifeData": 0,
-          "current2027": 20
+          "current2027": 80
         }
       },
-      "mainRecordCount": 4,
+      "mainRecordCount": 10,
       "schoolSampleRows": 0,
-      "salaryAmountEvidenceRows": 0,
-      "competitionEvidenceRows": 0,
+      "salaryAmountEvidenceRows": 1,
+      "competitionEvidenceRows": 1,
       "lifeDataRows": 0
     },
     {
