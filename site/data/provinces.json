@@ -59,7 +59,7 @@
       "actualBachelorNominees": 26,
       "actualEvidenceRows": 31,
       "uniqueActualEvidenceRows": 30,
-      "tracking2027Rows": 62,
+      "tracking2027Rows": 63,
       "sourceGradeCounts": {
         "S": 76,
         "A": 69,
@@ -110,8 +110,8 @@
       "coverageAll": {
         "rows": 739,
         "levels": {
-          "A": 216,
-          "B": 289,
+          "A": 217,
+          "B": 288,
           "C": 1,
           "D": 233
         },
@@ -129,8 +129,8 @@
       "coverageCore": {
         "rows": 610,
         "levels": {
-          "A": 215,
-          "B": 283,
+          "A": 216,
+          "B": 282,
           "C": 1,
           "D": 111
         },
@@ -143,7 +143,7 @@
         ]
       },
       "historicalPlans": {
-        "junior": 587,
+        "junior": 588,
         "senior": 661,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
@@ -152,20 +152,20 @@
       "uniqueActualEvidenceRows": 54,
       "tracking2027Rows": 43,
       "sourceGradeCounts": {
-        "S": 24,
+        "S": 25,
         "A": 206,
         "B": 365,
         "C": 24,
         "D": 37
       },
-      "sourceGradeRecordCount": 656,
+      "sourceGradeRecordCount": 657,
       "dataCompleteness": {
-        "overall": 39,
+        "overall": 40,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 83,
-          "plans": 63,
-          "bachelorConditions": 44,
+          "plans": 65,
+          "bachelorConditions": 45,
           "actualBachelorEvidence": 31,
           "employmentType": 48,
           "salary": 0,
@@ -174,7 +174,7 @@
           "current2027": 52
         }
       },
-      "mainRecordCount": 656,
+      "mainRecordCount": 657,
       "schoolSampleRows": 137,
       "salaryAmountEvidenceRows": 18,
       "competitionEvidenceRows": 23,
@@ -474,7 +474,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 8,
+      "tracking2027Rows": 9,
       "sourceGradeCounts": {
         "S": 12,
         "A": 0,
