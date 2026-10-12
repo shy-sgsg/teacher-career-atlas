@@ -241,7 +241,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 3,
       "uniqueActualEvidenceRows": 3,
-      "tracking2027Rows": 70,
+      "tracking2027Rows": 71,
       "sourceGradeCounts": {
         "S": 27,
         "A": 36,
@@ -1389,7 +1389,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 1,
+      "tracking2027Rows": 2,
       "sourceGradeCounts": {
         "S": 6,
         "A": 36,
@@ -1541,7 +1541,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 1,
+      "tracking2027Rows": 2,
       "sourceGradeCounts": {
         "S": 1,
         "A": 0,
@@ -1551,7 +1551,7 @@
       },
       "sourceGradeRecordCount": 32,
       "dataCompleteness": {
-        "overall": 26,
+        "overall": 28,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1562,7 +1562,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 20
+          "current2027": 40
         }
       },
       "mainRecordCount": 32,
@@ -1769,7 +1769,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 1,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
@@ -1779,7 +1779,7 @@
       },
       "sourceGradeRecordCount": 14,
       "dataCompleteness": {
-        "overall": 33,
+        "overall": 38,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1790,7 +1790,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 80
         }
       },
       "mainRecordCount": 14,
@@ -1845,7 +1845,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 1,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
@@ -1855,7 +1855,7 @@
       },
       "sourceGradeRecordCount": 6,
       "dataCompleteness": {
-        "overall": 20,
+        "overall": 24,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1866,7 +1866,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         }
       },
       "mainRecordCount": 6,
