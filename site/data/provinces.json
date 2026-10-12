@@ -241,7 +241,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 3,
       "uniqueActualEvidenceRows": 3,
-      "tracking2027Rows": 71,
+      "tracking2027Rows": 73,
       "sourceGradeCounts": {
         "S": 27,
         "A": 36,
@@ -398,7 +398,7 @@
       "actualBachelorNominees": 0,
       "actualEvidenceRows": 2,
       "uniqueActualEvidenceRows": 2,
-      "tracking2027Rows": 33,
+      "tracking2027Rows": 35,
       "sourceGradeCounts": {
         "S": 132,
         "A": 5,
@@ -550,7 +550,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 4,
+      "tracking2027Rows": 5,
       "sourceGradeCounts": {
         "S": 14,
         "A": 0,
@@ -778,7 +778,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
@@ -854,7 +854,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 3,
+      "tracking2027Rows": 4,
       "sourceGradeCounts": {
         "S": 1,
         "A": 1,
@@ -930,7 +930,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 4,
+      "tracking2027Rows": 5,
       "sourceGradeCounts": {
         "S": 1,
         "A": 0,
@@ -1007,7 +1007,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 5,
+      "tracking2027Rows": 6,
       "sourceGradeCounts": {
         "S": 26,
         "A": 0,
@@ -1083,7 +1083,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 7,
+      "tracking2027Rows": 8,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
@@ -1161,7 +1161,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 7,
+      "tracking2027Rows": 10,
       "sourceGradeCounts": {
         "S": 11,
         "A": 0,
@@ -1313,7 +1313,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 2,
         "A": 0,
@@ -1399,7 +1399,7 @@
       },
       "sourceGradeRecordCount": 44,
       "dataCompleteness": {
-        "overall": 53,
+        "overall": 50,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1410,7 +1410,7 @@
           "salary": 20,
           "competition": 60,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 20
         }
       },
       "mainRecordCount": 44,
@@ -1465,7 +1465,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 3,
         "A": 0,
@@ -1475,7 +1475,7 @@
       },
       "sourceGradeRecordCount": 5,
       "dataCompleteness": {
-        "overall": 24,
+        "overall": 27,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1486,7 +1486,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         }
       },
       "mainRecordCount": 5,
@@ -1541,7 +1541,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 1,
         "A": 0,
@@ -1617,7 +1617,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "sourceGradeCounts": {
         "S": 3,
         "A": 0,
@@ -1693,7 +1693,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 5,
+      "tracking2027Rows": 6,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,

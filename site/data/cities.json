@@ -35108,7 +35108,7 @@
       "uniqueActualEvidenceRows": 1,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 3,
+      "tracking2027Rows": 4,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 2,
       "schoolSampleRows": 8,
@@ -36022,7 +36022,7 @@
       "uniqueActualEvidenceRows": 1,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 6,
+      "tracking2027Rows": 7,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 15,
       "schoolSampleRows": 9,
@@ -59800,7 +59800,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 4,
+      "tracking2027Rows": 5,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 4,
       "schoolSampleRows": 0,
@@ -62373,7 +62373,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 5,
       "schoolSampleRows": 0,
@@ -63120,7 +63120,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 3,
+      "tracking2027Rows": 4,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 3,
       "schoolSampleRows": 0,
@@ -63701,8 +63701,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 4,
-      "effective2027Records": 4,
+      "tracking2027Rows": 5,
+      "effective2027Records": 5,
       "publicServiceRelatedRecordCount": 7,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -64365,7 +64365,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 51,
       "schoolSampleRows": 0,
@@ -67602,7 +67602,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 25,
       "schoolSampleRows": 0,
@@ -68764,7 +68764,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 7,
+      "tracking2027Rows": 8,
       "effective2027Records": 6,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -69593,7 +69593,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 3,
+      "tracking2027Rows": 4,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -69923,7 +69923,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -72412,7 +72412,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -72919,7 +72919,7 @@
       "competitionEvidenceRows": 3,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 53,
+        "overall": 50,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 100,
@@ -72930,7 +72930,7 @@
           "salary": 20,
           "competition": 60,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 20
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -72974,7 +72974,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 1,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -74485,7 +74485,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -75149,7 +75149,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 2,
       "schoolSampleRows": 0,
@@ -75159,7 +75159,7 @@
       "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 24,
+        "overall": 27,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -75170,7 +75170,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -75214,7 +75214,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -75896,7 +75896,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 1,
       "schoolSampleRows": 0,
@@ -77223,7 +77223,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -77967,7 +77967,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 5,
+      "tracking2027Rows": 6,
       "effective2027Records": 4,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
@@ -79374,7 +79374,7 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 3,
       "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
