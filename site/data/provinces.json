@@ -17,12 +17,12 @@
         "金华市"
       ],
       "coverageAll": {
-        "rows": 647,
+        "rows": 648,
         "levels": {
-          "A": 162,
-          "B": 195,
+          "A": 164,
+          "B": 196,
           "C": 7,
-          "D": 283
+          "D": 281
         },
         "years": [
           2018,
@@ -36,12 +36,12 @@
         ]
       },
       "coverageCore": {
-        "rows": 457,
+        "rows": 458,
         "levels": {
-          "A": 126,
-          "B": 155,
+          "A": 128,
+          "B": 156,
           "C": 7,
-          "D": 169
+          "D": 167
         },
         "years": [
           2021,
@@ -52,38 +52,38 @@
         ]
       },
       "historicalPlans": {
-        "junior": 259,
-        "senior": 58,
+        "junior": 264,
+        "senior": 60,
         "scope": "已研究城市2021—2025已核公开计划数下限的合计；各市口径与覆盖深度不同，不作排名。"
       },
       "actualBachelorNominees": 26,
       "actualEvidenceRows": 31,
       "uniqueActualEvidenceRows": 30,
-      "tracking2027Rows": 63,
+      "tracking2027Rows": 62,
       "sourceGradeCounts": {
-        "S": 76,
+        "S": 78,
         "A": 69,
-        "B": 117,
+        "B": 120,
         "C": 157,
         "D": 5
       },
-      "sourceGradeRecordCount": 424,
+      "sourceGradeRecordCount": 429,
       "dataCompleteness": {
-        "overall": 33,
+        "overall": 34,
         "level": "low",
         "dimensions": {
-          "historicalCoverage": 63,
-          "plans": 38,
-          "bachelorConditions": 43,
+          "historicalCoverage": 64,
+          "plans": 40,
+          "bachelorConditions": 44,
           "actualBachelorEvidence": 11,
-          "employmentType": 51,
+          "employmentType": 52,
           "salary": 0,
           "competition": 11,
           "lifeData": 37,
           "current2027": 45
         }
       },
-      "mainRecordCount": 424,
+      "mainRecordCount": 429,
       "schoolSampleRows": 129,
       "salaryAmountEvidenceRows": 13,
       "competitionEvidenceRows": 14,
