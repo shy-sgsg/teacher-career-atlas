@@ -474,7 +474,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 9,
+      "tracking2027Rows": 10,
       "sourceGradeCounts": {
         "S": 12,
         "A": 0,
@@ -1083,7 +1083,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 4,
+      "tracking2027Rows": 6,
       "sourceGradeCounts": {
         "S": 0,
         "A": 0,
@@ -1093,7 +1093,7 @@
       },
       "sourceGradeRecordCount": 7,
       "dataCompleteness": {
-        "overall": 24,
+        "overall": 29,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -1104,7 +1104,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 20
+          "current2027": 60
         }
       },
       "mainRecordCount": 7,
@@ -1997,7 +1997,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 13,
+      "tracking2027Rows": 14,
       "sourceGradeCounts": {
         "S": 8,
         "A": 0,
