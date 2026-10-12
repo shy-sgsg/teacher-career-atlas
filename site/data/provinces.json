@@ -626,7 +626,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 3,
+      "tracking2027Rows": 4,
       "sourceGradeCounts": {
         "S": 8,
         "A": 0,
@@ -636,7 +636,7 @@
       },
       "sourceGradeRecordCount": 8,
       "dataCompleteness": {
-        "overall": 20,
+        "overall": 22,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -647,7 +647,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         }
       },
       "mainRecordCount": 8,
