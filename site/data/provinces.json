@@ -241,7 +241,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 3,
       "uniqueActualEvidenceRows": 3,
-      "tracking2027Rows": 73,
+      "tracking2027Rows": 74,
       "sourceGradeCounts": {
         "S": 27,
         "A": 36,
@@ -262,7 +262,7 @@
           "salary": 2,
           "competition": 72,
           "lifeData": 16,
-          "current2027": 38
+          "current2027": 36
         }
       },
       "mainRecordCount": 343,
@@ -1237,7 +1237,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 2,
+      "tracking2027Rows": 4,
       "sourceGradeCounts": {
         "S": 21,
         "A": 0,
