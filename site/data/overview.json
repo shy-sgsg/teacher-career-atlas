@@ -2,7 +2,7 @@
   "meta": {
     "sourceWorkbook": "teacher_recruitment_database.xlsx",
     "cutoffDate": "2026-10-12",
-    "generatedAt": "2026-10-12T11:04:16+08:00",
+    "generatedAt": "2026-10-12T12:05:40+08:00",
     "modelVersion": 1
   },
   "metrics": {
@@ -15,7 +15,7 @@
     "uniqueActualBachelorEvidenceRows": 207,
     "duplicateActualEvidenceRows": 1,
     "actualBachelorNominees": 290,
-    "tracking2027Rows": 288
+    "tracking2027Rows": 332
   },
   "sourceGradeCounts": {
     "S": 554,
@@ -46,7 +46,7 @@
     "unknown": 1280
   },
   "averageCityCompleteness": {
-    "overall": 35,
+    "overall": 36,
     "level": "low",
     "dimensions": {
       "historicalCoverage": 91,
@@ -57,7 +57,7 @@
       "salary": 1,
       "competition": 30,
       "lifeData": 11,
-      "current2027": 39
+      "current2027": 48
     }
   },
   "dataQuality": {

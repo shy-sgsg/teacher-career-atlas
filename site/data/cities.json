@@ -1359,7 +1359,7 @@
     {
       "city": "杭州市",
       "province": "浙江省",
-      "progressStatus": "批次18校正海亮跨市归属和平台截止语义；杭州其他2027机会沿用现有逐条状态。",
+      "progressStatus": "批次18校正海亮跨市归属和平台截止语义；杭州其他2027机会沿用现有逐条状态。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 105,
       "explicitPlanRecords": 34,
       "coverageAll": {
@@ -1454,8 +1454,8 @@
       "uniqueActualEvidenceRows": 7,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 4,
-      "tracking2027Rows": 7,
-      "effective2027Records": 3,
+      "tracking2027Rows": 9,
+      "effective2027Records": 5,
       "publicServiceRelatedRecordCount": 73,
       "schoolSampleRows": 20,
       "salaryRows": 11,
@@ -5470,7 +5470,7 @@
     {
       "city": "温州市",
       "province": "浙江省",
-      "progressStatus": "批次18完成温州2023鹿城/瑞安与2024市直的定向补证；历史其他年份及县级单元仍需继续整组检索。",
+      "progressStatus": "批次18完成温州2023鹿城/瑞安与2024市直的定向补证；历史其他年份及县级单元仍需继续整组检索。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 30,
       "explicitPlanRecords": 10,
       "coverageAll": {
@@ -5564,8 +5564,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 0,
+      "tracking2027Rows": 3,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 21,
       "schoolSampleRows": 7,
       "salaryRows": 1,
@@ -5574,7 +5574,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 5,
       "dataCompleteness": {
-        "overall": 30,
+        "overall": 34,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 36,
@@ -5585,7 +5585,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 25,
-          "current2027": 20
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -5629,7 +5629,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -11036,7 +11036,7 @@
     {
       "city": "台州市",
       "province": "浙江省",
-      "progressStatus": "已完成（浙江省级质量闸门通过；功能区批次单列）",
+      "progressStatus": "已完成（浙江省级质量闸门通过；功能区批次单列）\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 19,
       "explicitPlanRecords": 7,
       "coverageAll": {
@@ -11132,8 +11132,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 3,
-      "effective2027Records": 0,
+      "tracking2027Rows": 4,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 13,
       "schoolSampleRows": 3,
       "salaryRows": 2,
@@ -11142,7 +11142,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 3,
       "dataCompleteness": {
-        "overall": 28,
+        "overall": 32,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -11153,7 +11153,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 25,
-          "current2027": 20
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -11197,7 +11197,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -15954,7 +15954,7 @@
     {
       "city": "南京市",
       "province": "江苏省",
-      "progressStatus": "批次15完成市级入口与新东方省域线索复核；没有把企业和非教师校园招聘会混入公办教师机会。",
+      "progressStatus": "批次15完成市级入口与新东方省域线索复核；没有把企业和非教师校园招聘会混入公办教师机会。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 33,
       "explicitPlanRecords": 29,
       "coverageAll": {
@@ -16044,8 +16044,8 @@
       "uniqueActualEvidenceRows": 10,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 2,
-      "tracking2027Rows": 3,
-      "effective2027Records": 1,
+      "tracking2027Rows": 4,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 31,
       "schoolSampleRows": 16,
       "salaryRows": 7,
@@ -17613,7 +17613,7 @@
     {
       "city": "无锡市",
       "province": "江苏省",
-      "progressStatus": "批次18刷新无锡官方2027监测并新增一条跨市民办培训岗线索；历史数据和职位学段待继续核实。",
+      "progressStatus": "批次18刷新无锡官方2027监测并新增一条跨市民办培训岗线索；历史数据和职位学段待继续核实。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 23,
       "explicitPlanRecords": 13,
       "coverageAll": {
@@ -17707,8 +17707,8 @@
       "uniqueActualEvidenceRows": 9,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 7,
-      "tracking2027Rows": 3,
-      "effective2027Records": 0,
+      "tracking2027Rows": 5,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 3,
       "schoolSampleRows": 18,
       "salaryRows": 8,
@@ -17717,8 +17717,8 @@
       "competitionEvidenceRows": 5,
       "lifeDataRows": 9,
       "dataCompleteness": {
-        "overall": 49,
-        "level": "low",
+        "overall": 54,
+        "level": "medium",
         "dimensions": {
           "historicalCoverage": 46,
           "plans": 80,
@@ -17728,7 +17728,7 @@
           "salary": 0,
           "competition": 100,
           "lifeData": 63,
-          "current2027": 20
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -17772,7 +17772,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -20879,7 +20879,7 @@
     {
       "city": "常州市",
       "province": "江苏省",
-      "progressStatus": "批次15完成公办入口与省域校招复核；计划数不按城市分摊，后续继续读取未解的区县岗位附件。",
+      "progressStatus": "批次15完成公办入口与省域校招复核；计划数不按城市分摊，后续继续读取未解的区县岗位附件。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 43,
       "explicitPlanRecords": 3,
       "coverageAll": {
@@ -20973,8 +20973,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 1,
+      "tracking2027Rows": 3,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 42,
       "schoolSampleRows": 17,
       "salaryRows": 3,
@@ -22388,7 +22388,7 @@
     {
       "city": "苏州市",
       "province": "江苏省",
-      "progressStatus": "批次18刷新苏州27届岗位状态；未新增英语计划数字，历史区县批次仍需系统复核。",
+      "progressStatus": "批次18刷新苏州27届岗位状态；未新增英语计划数字，历史区县批次仍需系统复核。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 42,
       "explicitPlanRecords": 19,
       "coverageAll": {
@@ -22481,8 +22481,8 @@
       "uniqueActualEvidenceRows": 3,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 2,
-      "tracking2027Rows": 4,
-      "effective2027Records": 3,
+      "tracking2027Rows": 6,
+      "effective2027Records": 5,
       "publicServiceRelatedRecordCount": 42,
       "schoolSampleRows": 7,
       "salaryRows": 5,
@@ -54023,7 +54023,7 @@
     {
       "city": "重庆市",
       "province": "重庆市",
-      "progressStatus": "批次18更新27届学校岗位时点；历史2021—2025仍按区县和批次逐项补查。",
+      "progressStatus": "批次18更新27届学校岗位时点；历史2021—2025仍按区县和批次逐项补查。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 181,
       "explicitPlanRecords": 145,
       "coverageAll": {
@@ -54114,8 +54114,8 @@
       "uniqueActualEvidenceRows": 118,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 79,
-      "tracking2027Rows": 15,
-      "effective2027Records": 9,
+      "tracking2027Rows": 16,
+      "effective2027Records": 10,
       "publicServiceRelatedRecordCount": 153,
       "schoolSampleRows": 5,
       "salaryRows": 38,
@@ -54124,7 +54124,7 @@
       "competitionEvidenceRows": 35,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 59,
+        "overall": 62,
         "level": "medium",
         "dimensions": {
           "historicalCoverage": 65,
@@ -54135,7 +54135,7 @@
           "salary": 0,
           "competition": 100,
           "lifeData": 0,
-          "current2027": 80
+          "current2027": 100
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -54179,7 +54179,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 4,
+            "numerator": 5,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -57452,7 +57452,7 @@
     {
       "city": "深圳市",
       "province": "广东省",
-      "progressStatus": "批次16刷新官方预公告和已知民办岗位状态，未把活动/平台期限当雇主截止。深圳历史A批次逐岗计划、学历、本科实际拟聘、学校分层和薪资生活仍需补强。",
+      "progressStatus": "批次16刷新官方预公告和已知民办岗位状态，未把活动/平台期限当雇主截止。深圳历史A批次逐岗计划、学历、本科实际拟聘、学校分层和薪资生活仍需补强。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 37,
       "explicitPlanRecords": 37,
       "coverageAll": {
@@ -57542,8 +57542,8 @@
       "uniqueActualEvidenceRows": 2,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 16,
-      "effective2027Records": 14,
+      "tracking2027Rows": 17,
+      "effective2027Records": 15,
       "publicServiceRelatedRecordCount": 30,
       "schoolSampleRows": 9,
       "salaryRows": 35,
@@ -58796,7 +58796,7 @@
     {
       "city": "上海市",
       "province": "上海市",
-      "progressStatus": "批次06补录上海2023/2025已核岗位和27年入编线索；尚非上海各区县2021—2025历史全量审计。青浦第二批补缺不重复统计。\n批次08已完成首轮定向回填；六城全年度/区县复核尚未完成。\n批次21补入南汇中学招聘转载线索（来源C）；继续追踪浦东2027办法、正式岗位数和报名状态。",
+      "progressStatus": "批次06补录上海2023/2025已核岗位和27年入编线索；尚非上海各区县2021—2025历史全量审计。青浦第二批补缺不重复统计。\n批次08已完成首轮定向回填；六城全年度/区县复核尚未完成。\n批次21补入南汇中学招聘转载线索（来源C）；继续追踪浦东2027办法、正式岗位数和报名状态。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 12,
       "explicitPlanRecords": 11,
       "coverageAll": {
@@ -58887,8 +58887,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 10,
-      "effective2027Records": 6,
+      "tracking2027Rows": 13,
+      "effective2027Records": 9,
       "publicServiceRelatedRecordCount": 6,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -58897,7 +58897,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 40,
+        "overall": 42,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -58908,7 +58908,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 80
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -58952,7 +58952,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -59552,7 +59552,7 @@
           },
           "coverageRows": 0,
           "dataCompleteness": {
-            "overall": 2,
+            "overall": 7,
             "level": "low",
             "dimensions": {
               "historicalCoverage": 0,
@@ -59563,7 +59563,7 @@
               "salary": 0,
               "competition": 0,
               "lifeData": 0,
-              "current2027": 20
+              "current2027": 60
             },
             "dimensionDetails": {
               "historicalCoverage": {
@@ -59607,7 +59607,7 @@
                 "unit": "生活数据类别"
               },
               "current2027": {
-                "numerator": 1,
+                "numerator": 3,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
@@ -59709,7 +59709,7 @@
     {
       "city": "天津市",
       "province": "天津市",
-      "progressStatus": "批次13完成早年公开招聘补查；计划、本科拟聘、完整区县覆盖仍待补。",
+      "progressStatus": "批次13完成早年公开招聘补查；计划、本科拟聘、完整区县覆盖仍待补。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 17,
       "explicitPlanRecords": 6,
       "coverageAll": {
@@ -59800,8 +59800,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 0,
+      "tracking2027Rows": 4,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 4,
       "schoolSampleRows": 0,
       "salaryRows": 4,
@@ -59810,7 +59810,7 @@
       "competitionEvidenceRows": 3,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 33,
+        "overall": 38,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -59821,7 +59821,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -59865,7 +59865,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -60456,7 +60456,7 @@
     {
       "city": "武汉市",
       "province": "湖北省",
-      "progressStatus": "批次05完成2021—2025城市级A/B/C/D复核；年度计划和本科拟聘仍有缺口。",
+      "progressStatus": "批次05完成2021—2025城市级A/B/C/D复核；年度计划和本科拟聘仍有缺口。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 8,
       "explicitPlanRecords": 1,
       "coverageAll": {
@@ -60547,8 +60547,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 1,
+      "tracking2027Rows": 2,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 1,
@@ -61203,7 +61203,7 @@
     {
       "city": "广州市",
       "province": "广东省",
-      "progressStatus": "2027届核心官方批次与时间节点已复核；2021—2025年度矩阵仍有D/B格，岗位附件与区县/校招批次尚未全量审计。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。\n批次19完成2023市级批次证据补录；2021—2025矩阵及区县、学校专项招聘仍需继续审计。",
+      "progressStatus": "2027届核心官方批次与时间节点已复核；2021—2025年度矩阵仍有D/B格，岗位附件与区县/校招批次尚未全量审计。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。\n批次19完成2023市级批次证据补录；2021—2025矩阵及区县、学校专项招聘仍需继续审计。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 7,
       "explicitPlanRecords": 1,
       "coverageAll": {
@@ -61294,8 +61294,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 2,
+      "tracking2027Rows": 6,
+      "effective2027Records": 6,
       "publicServiceRelatedRecordCount": 5,
       "schoolSampleRows": 0,
       "salaryRows": 1,
@@ -61304,7 +61304,7 @@
       "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 28,
+        "overall": 30,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -61315,7 +61315,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -61359,7 +61359,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -61784,7 +61784,7 @@
     {
       "city": "西安市",
       "province": "陕西省",
-      "progressStatus": "批次11完成2021—2022市级招聘公告补查；2021—2025历史年度分类更新为B/B/A/A/A。区县岗位附件、2024岗位原件、拟聘与竞争等仍待补。",
+      "progressStatus": "批次11完成2021—2022市级招聘公告补查；2021—2025历史年度分类更新为B/B/A/A/A。区县岗位附件、2024岗位原件、拟聘与竞争等仍待补。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 6,
       "explicitPlanRecords": 2,
       "coverageAll": {
@@ -61875,8 +61875,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 1,
+      "tracking2027Rows": 3,
+      "effective2027Records": 3,
       "publicServiceRelatedRecordCount": 2,
       "schoolSampleRows": 0,
       "salaryRows": 1,
@@ -61885,7 +61885,7 @@
       "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 22,
+        "overall": 24,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -61896,7 +61896,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -61940,7 +61940,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -62282,7 +62282,7 @@
     {
       "city": "长沙市",
       "province": "湖南省",
-      "progressStatus": "批次11完成2021—2022市属招聘批次补查；2021—2025分类更新为B/B/D/A/B。市级岗位附件、英语计划、本科通道与拟聘仍需继续查。\n批次19补齐2023公告、备案制、报名总量和开考规则；岗位表英语行与学校分项仍待核。",
+      "progressStatus": "批次11完成2021—2022市属招聘批次补查；2021—2025分类更新为B/B/D/A/B。市级岗位附件、英语计划、本科通道与拟聘仍需继续查。\n批次19补齐2023公告、备案制、报名总量和开考规则；岗位表英语行与学校分项仍待核。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 7,
       "explicitPlanRecords": 1,
       "coverageAll": {
@@ -62373,8 +62373,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 0,
-      "effective2027Records": 0,
+      "tracking2027Rows": 1,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 5,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -62383,7 +62383,7 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 26,
+        "overall": 30,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -62394,7 +62394,7 @@
           "salary": 0,
           "competition": 40,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -62438,7 +62438,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -64274,7 +64274,7 @@
     {
       "city": "东莞市",
       "province": "广东省",
-      "progressStatus": "2027届检索维持监测；已识别2026—2027学年相邻批次但不纳入2027届应届机会。2021—2025已核公告和英语下限仍需扩展拟聘、条件及区镇覆盖。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。",
+      "progressStatus": "2027届检索维持监测；已识别2026—2027学年相邻批次但不纳入2027届应届机会。2021—2025已核公告和英语下限仍需扩展拟聘、条件及区镇覆盖。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 89,
       "explicitPlanRecords": 86,
       "coverageAll": {
@@ -64365,8 +64365,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 0,
-      "effective2027Records": 0,
+      "tracking2027Rows": 1,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 51,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -64375,7 +64375,7 @@
       "competitionEvidenceRows": 1,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 44,
+        "overall": 49,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -64386,7 +64386,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -64430,7 +64430,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -67013,7 +67013,7 @@
     {
       "city": "佛山市",
       "province": "广东省",
-      "progressStatus": "2027届当前未检出；2021—2025年度矩阵仍有B/D格，区级与学校专项招聘及附件需继续系统检索。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。\n批次19补入2022华英学校初中英语2人；报名人数、实际拟聘及工资仍缺。",
+      "progressStatus": "2027届当前未检出；2021—2025年度矩阵仍有B/D格，区级与学校专项招聘及附件需继续系统检索。\n批次09完成一轮官方来源补证；城市全量年度/区县审计仍在进行。\n批次19补入2022华英学校初中英语2人；报名人数、实际拟聘及工资仍缺。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 6,
       "explicitPlanRecords": 4,
       "coverageAll": {
@@ -67104,8 +67104,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 0,
-      "effective2027Records": 0,
+      "tracking2027Rows": 1,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 3,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -67114,7 +67114,7 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 38,
+        "overall": 43,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -67125,7 +67125,7 @@
           "salary": 0,
           "competition": 40,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -67169,7 +67169,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -67511,7 +67511,7 @@
     {
       "city": "沈阳市",
       "province": "辽宁省",
-      "progressStatus": "批次17完成2025官方岗位表结构化；拟聘、英语实报名、薪资和学校样本继续补。",
+      "progressStatus": "批次17完成2025官方岗位表结构化；拟聘、英语实报名、薪资和学校样本继续补。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 27,
       "explicitPlanRecords": 27,
       "coverageAll": {
@@ -67602,8 +67602,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "tracking2027Rows": 2,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 25,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -67612,7 +67612,7 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 35,
+        "overall": 40,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -67623,7 +67623,7 @@
           "salary": 0,
           "competition": 40,
           "lifeData": 0,
-          "current2027": 20
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -67667,7 +67667,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -68673,7 +68673,7 @@
     {
       "city": "昆明市",
       "province": "云南省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次19补入2021年西山区英语岗位与阶段报名数据，并更新2027西山专项公告；全市历史区县覆盖仍待补齐。\n批次21补入两所学校2027届英语机会；星耀计划和截止明确，昆明湖英语名额及公告发布日期仍待原始岗位表核验。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次19补入2021年西山区英语岗位与阶段报名数据，并更新2027西山专项公告；全市历史区县覆盖仍待补齐。\n批次21补入两所学校2027届英语机会；星耀计划和截止明确，昆明湖英语名额及公告发布日期仍待原始岗位表核验。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 7,
       "explicitPlanRecords": 7,
       "coverageAll": {
@@ -68764,8 +68764,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 6,
-      "effective2027Records": 5,
+      "tracking2027Rows": 7,
+      "effective2027Records": 6,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -68774,7 +68774,7 @@
       "competitionEvidenceRows": 2,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 29,
+        "overall": 31,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -68785,7 +68785,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 80
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -68829,7 +68829,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -69503,7 +69503,7 @@
     {
       "city": "福州市",
       "province": "福建省",
-      "progressStatus": "批次13更新2021—2022证据并刷新2027届；福州全市批次、区县计划与本科实际录用仍需补全。",
+      "progressStatus": "批次13更新2021—2022证据并刷新2027届；福州全市批次、区县计划与本科实际录用仍需补全。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 5,
       "explicitPlanRecords": 1,
       "coverageAll": {
@@ -69593,8 +69593,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 1,
+      "tracking2027Rows": 3,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -69603,7 +69603,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 18,
+        "overall": 20,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -69614,7 +69614,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -69658,7 +69658,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 2,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -69833,7 +69833,7 @@
     {
       "city": "厦门市",
       "province": "福建省",
-      "progressStatus": "批次13完成五年年度分类补充；城市全量岗位表与拟聘/竞争/薪资仍不完整。",
+      "progressStatus": "批次13完成五年年度分类补充；城市全量岗位表与拟聘/竞争/薪资仍不完整。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 6,
       "explicitPlanRecords": 3,
       "coverageAll": {
@@ -69923,8 +69923,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "tracking2027Rows": 2,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -69933,7 +69933,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 27,
+        "overall": 31,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -69944,7 +69944,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -69988,7 +69988,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -71824,7 +71824,7 @@
     {
       "city": "大连市",
       "province": "辽宁省",
-      "progressStatus": "批次17新增第三批英语岗位硬门槛证据和2条2027届线索；年度范围覆盖不完整。",
+      "progressStatus": "批次17新增第三批英语岗位硬门槛证据和2条2027届线索；年度范围覆盖不完整。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 3,
       "explicitPlanRecords": 2,
       "coverageAll": {
@@ -71915,8 +71915,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 2,
-      "effective2027Records": 2,
+      "tracking2027Rows": 3,
+      "effective2027Records": 3,
       "publicServiceRelatedRecordCount": 1,
       "schoolSampleRows": 0,
       "salaryRows": 2,
@@ -72322,7 +72322,7 @@
     {
       "city": "南宁市",
       "province": "广西壮族自治区",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 6,
       "explicitPlanRecords": 6,
       "coverageAll": {
@@ -72412,8 +72412,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 1,
+      "tracking2027Rows": 2,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -72422,7 +72422,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 24,
+        "overall": 29,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -72433,7 +72433,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -72477,7 +72477,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -74395,7 +74395,7 @@
     {
       "city": "泉州市",
       "province": "福建省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 6,
       "explicitPlanRecords": 3,
       "coverageAll": {
@@ -74485,8 +74485,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "tracking2027Rows": 2,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 6,
@@ -74495,7 +74495,7 @@
       "competitionEvidenceRows": 6,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 26,
+        "overall": 30,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -74506,7 +74506,7 @@
           "salary": 0,
           "competition": 40,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -74550,7 +74550,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -77133,7 +77133,7 @@
     {
       "city": "南昌市",
       "province": "江西省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 4,
       "explicitPlanRecords": 2,
       "coverageAll": {
@@ -77223,8 +77223,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "tracking2027Rows": 2,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -77233,7 +77233,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 16,
+        "overall": 20,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -77244,7 +77244,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -77288,7 +77288,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -77547,7 +77547,7 @@
     {
       "city": "惠州市",
       "province": "广东省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 1,
       "explicitPlanRecords": 1,
       "coverageAll": {
@@ -77637,8 +77637,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 0,
+      "tracking2027Rows": 2,
+      "effective2027Records": 1,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -77647,7 +77647,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 11,
+        "overall": 16,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 80,
@@ -77658,7 +77658,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 0
+          "current2027": 40
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -77702,7 +77702,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 0,
+            "numerator": 2,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -79286,7 +79286,7 @@
     {
       "city": "珠海市",
       "province": "广东省",
-      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。",
+      "progressStatus": "批次07完成本轮历史检索和新证据回填；区县附件、拟聘学历、学校样本及生活数据继续补齐。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 0,
       "explicitPlanRecords": 0,
       "coverageAll": {
@@ -79374,8 +79374,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 1,
-      "effective2027Records": 1,
+      "tracking2027Rows": 2,
+      "effective2027Records": 2,
       "publicServiceRelatedRecordCount": 0,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -79384,7 +79384,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 13,
+        "overall": 18,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -79395,7 +79395,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 20
+          "current2027": 60
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -79439,7 +79439,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 1,
+            "numerator": 3,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -80609,7 +80609,7 @@
     {
       "city": "北京市",
       "province": "北京市",
-      "progressStatus": "批次04已补2021—2025若干区级/学校批次并刷新2027届机会；北京2021—2025年度格均已由D/B推进到B/A，但区县覆盖、英语附件、拟聘学历、真实报名及工资仍未全量核验。\n批次21刷新一零一未来科学城学校2027届招聘信息；职位表附件尚未读取，英语计划数、初中学历及当前收件状态仍待核。",
+      "progressStatus": "批次04已补2021—2025若干区级/学校批次并刷新2027届机会；北京2021—2025年度格均已由D/B推进到B/A，但区县覆盖、英语附件、拟聘学历、真实报名及工资仍未全量核验。\n批次21刷新一零一未来科学城学校2027届招聘信息；职位表附件尚未读取，英语计划数、初中学历及当前收件状态仍待核。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 8,
       "explicitPlanRecords": 4,
       "coverageAll": {
@@ -80700,8 +80700,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 14,
-      "effective2027Records": 10,
+      "tracking2027Rows": 17,
+      "effective2027Records": 13,
       "publicServiceRelatedRecordCount": 4,
       "schoolSampleRows": 0,
       "salaryRows": 0,
@@ -80710,7 +80710,7 @@
       "competitionEvidenceRows": 0,
       "lifeDataRows": 0,
       "dataCompleteness": {
-        "overall": 29,
+        "overall": 31,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -80721,7 +80721,7 @@
           "salary": 0,
           "competition": 0,
           "lifeData": 0,
-          "current2027": 60
+          "current2027": 80
         },
         "dimensionDetails": {
           "historicalCoverage": {
@@ -80765,7 +80765,7 @@
             "unit": "生活数据类别"
           },
           "current2027": {
-            "numerator": 3,
+            "numerator": 4,
             "denominator": 5,
             "unit": "招聘路径"
           }
@@ -81516,13 +81516,179 @@
             }
           },
           "planYears": 0
+        },
+        {
+          "district": "西城区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 4,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 40
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 2,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "通州区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 2,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 20
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 1,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
         }
       ]
     },
     {
       "city": "成都市",
       "province": "四川省",
-      "progressStatus": "批次05完成城市级历史年度分类复核与2027届更新；2024初中已核下限6，区县级岗位附件仍待补。",
+      "progressStatus": "批次05完成城市级历史年度分类复核与2027届更新；2024初中已核下限6，区县级岗位附件仍待补。\n批次22（2026-10-12）已刷新本市2026发布的2027届英语招聘机会；跨城名额不分摊，雇主截止与平台展示期分开记录。",
       "mainRecordCount": 7,
       "explicitPlanRecords": 5,
       "coverageAll": {
@@ -81613,8 +81779,8 @@
       "uniqueActualEvidenceRows": 0,
       "duplicateActualEvidenceRows": 0,
       "positiveBachelorEvidenceRows": 0,
-      "tracking2027Rows": 4,
-      "effective2027Records": 3,
+      "tracking2027Rows": 7,
+      "effective2027Records": 6,
       "publicServiceRelatedRecordCount": 1,
       "schoolSampleRows": 0,
       "salaryRows": 3,
@@ -82085,6 +82251,89 @@
               },
               "current2027": {
                 "numerator": 1,
+                "denominator": 5,
+                "unit": "招聘路径"
+              }
+            },
+            "coverageLevels": {
+              "A": 0,
+              "B": 0,
+              "C": 0,
+              "D": 0
+            }
+          },
+          "planYears": 0
+        },
+        {
+          "district": "锦江区",
+          "juniorPlan": null,
+          "seniorPlan": null,
+          "bachelorChannel": null,
+          "publicServiceRecordCount": 0,
+          "coverageLevels": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0
+          },
+          "coverageRows": 0,
+          "dataCompleteness": {
+            "overall": 4,
+            "level": "low",
+            "dimensions": {
+              "historicalCoverage": 0,
+              "plans": 0,
+              "bachelorConditions": 0,
+              "actualBachelorEvidence": 0,
+              "employmentType": 0,
+              "salary": 0,
+              "competition": 0,
+              "lifeData": 0,
+              "current2027": 40
+            },
+            "dimensionDetails": {
+              "historicalCoverage": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "区域-年份审计行"
+              },
+              "plans": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "bachelorConditions": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "actualBachelorEvidence": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "employmentType": {
+                "numerator": 0,
+                "denominator": 0,
+                "unit": "招聘记录"
+              },
+              "salary": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "competition": {
+                "numerator": 0,
+                "denominator": 5,
+                "unit": "核心年份"
+              },
+              "lifeData": {
+                "numerator": 0,
+                "denominator": 8,
+                "unit": "生活数据类别"
+              },
+              "current2027": {
+                "numerator": 2,
                 "denominator": 5,
                 "unit": "招聘路径"
               }
