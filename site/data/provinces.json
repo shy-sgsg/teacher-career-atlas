@@ -262,7 +262,7 @@
           "salary": 2,
           "competition": 72,
           "lifeData": 16,
-          "current2027": 36
+          "current2027": 38
         }
       },
       "mainRecordCount": 343,
@@ -317,7 +317,7 @@
       "actualBachelorNominees": 169,
       "actualEvidenceRows": 118,
       "uniqueActualEvidenceRows": 118,
-      "tracking2027Rows": 17,
+      "tracking2027Rows": 18,
       "sourceGradeCounts": {
         "S": 173,
         "A": 2,
@@ -550,7 +550,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 5,
+      "tracking2027Rows": 6,
       "sourceGradeCounts": {
         "S": 14,
         "A": 0,
@@ -560,7 +560,7 @@
       },
       "sourceGradeRecordCount": 17,
       "dataCompleteness": {
-        "overall": 38,
+        "overall": 40,
         "level": "low",
         "dimensions": {
           "historicalCoverage": 100,
@@ -571,7 +571,7 @@
           "salary": 0,
           "competition": 20,
           "lifeData": 0,
-          "current2027": 40
+          "current2027": 60
         }
       },
       "mainRecordCount": 17,
@@ -854,7 +854,7 @@
       "actualBachelorNominees": null,
       "actualEvidenceRows": 0,
       "uniqueActualEvidenceRows": 0,
-      "tracking2027Rows": 5,
+      "tracking2027Rows": 8,
       "sourceGradeCounts": {
         "S": 1,
         "A": 1,
